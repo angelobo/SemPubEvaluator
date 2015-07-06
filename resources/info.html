@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN' 'http://www.w3.org/TR/html4/loose.dtd'>
+		<html>
+			<head>
+				<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+				<title>ESWC15 - Semantic Publishing Challenge Evaluation</title>
+				<link rel='stylesheet' type='text/css' href='style.css'/>
+			</head>
+			<body>
+<h1>SemPub Challenge @ ESWC 2015 - Evaluation</h1>
+<p>This page describes the evaluation process to identify the best-performing approach of the <a href="https://github.com/ceurws/lod/wiki/SemPub2015" target="_blank">Semantic Publishing Challenge at ESWC 2015</a>.</p>
+
+<p>The result of a set of queries on the submitted LOD is compared with a gold standard, and precision and recall are measured. Both the gold standard and the output under evaluation are expected to be CSV files with a common structure. The evaluation is performed by a PHP software that compares each pair of corresponding CSV files.</p> 
+<p>Two evaluation modes are supported:</p>
+<ul>
+			<li><i>strict</i>: only complete matches are considered correct (after some normalization)</li>
+			<li><i>loose</i>: more tolerant, partial matches are considered correct too</li>	
+		</ul>
+		
+		
+<p>General notes:</p>
+<ul>
+	<li>For each query only some properties are considered. For instance, the articles are compared by DOI and (normalized) titles only.</li>
+	<li>The IRIs structure is ignored, as participants were free to use their own model and structure.</li>
+	<li>According to the evaluation mode (strict or loose), the software verifies that all properties match or only some of them. Strict/loose matching rules are specific for each query.</li>
+	<li>The order of the CSV entries is not relevant.</li>
+	<li>Unexpected duplicates are considered errors.</li>
+</ul>
+<p>Also, the evaluation mechanisms are implemented so as to take minor differences into account and to normalize them:</p>
+<ul>
+	<li>All values are trimmed and transformed into lowercase.</li>
+	<li>Missing &quot; symbols around CSV values are ignored.</li>
+	<li>Titles are normalized as follows: all spaces, punctuation symbols and non-ASCII characters are stripped, only letters and numbers are considered. </li>
+	<li>Names are normalized as follows: all spaces, punctuation symbols are stripped, non-ASCII characters are substituted with ASCII characters. </li>	
+	<li>Missing datatypes are ignored.</li>
+	<li>DOI information not available in the gold standard are skipped in the evaluation.</li>
+	<li>Ontologies are compared by their full names or their acronyms</li>
+</ul>
+</body>
+</html>

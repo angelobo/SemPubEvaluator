@@ -1,0 +1,91 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family: Helvetica;
+}
+
+.generatedTS {
+	margin-top:10px;
+	padding: 10px;
+	font-size: 85%;
+	font-style: italic;
+	color: grey;
+	text-align: center;	
+}
+
+table.queryScore{
+	text-align: left;
+	border: 1px solid black;
+	padding: 10px;	
+}
+
+table.queryScore td{
+	padding-left: 30px;
+}
+
+table.entry-pool{
+	border: 1px solid grey;
+	font-size: 80%;
+	padding: 8px;
+}
+
+.query-natural-language {
+	font-style: italic;
+	
+}
+.navigation-bar{
+	font-variant: small-caps;
+	font-weight: bold;
+	font-size: 110%;
+	background-color: #D0D0D0;
+	padding: 4px; 
+}
+
+.back-button, .evaluation-level{
+	padding-left: 8px;
+}
+
+
+table.all-query-results{
+	border: 1px solid black;
+	padding: 6px;
+	text-align: center;
+	font-size: 90%;
+}
+
+div.source-content{
+	width: 50%;
+	display: table-cell;
+	padding-right: 10px;
+}
+
+div.source-content p.caption{
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	margin-bottom: 6px;
+}
+
+span.status-fp{
+	font-weight: bold;
+	color: red;
+}
+
+span.status-fn{
+	font-weight: bold;
+	color: red;
+}
+
+span.status-tp{
+	font-weight: bold;
+	color: green;
+}
+
+.intro li {
+	padding: 2px;
+}
+
+p.overall-score {
+	font-size: 110%;
+	font-weight: bold;
+}

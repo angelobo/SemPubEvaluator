@@ -10,7 +10,17 @@ Run the script run.php as follows:
 
 Parameters are:
 
-1.  <queries.csv>: list of queries being evaluated
-2.  <gold-standard-dirpath>: directory with the gold standard files
-3.  <input-dirpath>: directory with the CSV files being evaluated
-3.  <output-dirpath>: output directory (will be overwritten)
+1.  queries.csv: list of queries being evaluated
+2.  gold-standard-dirpath: directory with the gold standard files
+3.  input-dirpath: directory with the CSV files being evaluated
+3.  output-dirpath: output directory (will be overwritten)
+
+
+
+## How to configure the tool
+
+TODO.
+
+### Entry classes
+
+### Query file

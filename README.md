@@ -6,13 +6,15 @@ Scripts to run the evaluation for the best-performing tool @ SemPub Challenge
 The script takes as input two directories that contain CSV files with a common structure. 
 One directory contain the gold standard, the other the output under evaluation.
 
-Each CSV file is the output of a query and is named after that query (es. ``Q2.1a.csv``).
+Each CSV file contains the output of a query and is named after that query (es. ``Q2.1a.csv``).
 The tool compares pairs of corresponding CSV files from the two directories and saves the results in a HTML report.
 
 For each type of entry (es. article, funding agency, grant, ontology, etc.) specific comparison strategies are implemented (in the ``matchesEntry`` method of the corresponding ``Entry`` class).
 The evaluation is implemented so as to take minor differences into account and to normalize data.
  
 The list of queries to evaluate and the classes implementing the evaluation are specified in a configuration file passed as input.
+
+The queries used for SemPub 2015 are in the file ``queries/queries-SemPub2015.csv``.
 
 ## How to run the evaluation
  

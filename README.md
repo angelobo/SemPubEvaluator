@@ -14,7 +14,7 @@ For each type of entry (es. article, funding agency, grant, ontology, etc.) spec
  
 Run the script ``run.php`` as follows:
 
-    run.php <queries.csv> <gold-standard-dirpath> <input-dirpath> <output-dirpath> [-sub=<submission-number>] [-tark=<task-number>]
+    run.php <queries.csv> <gold-standard-dirpath> <input-dirpath> <output-dirpath> [-sub=<submission-number>] [-task=<task-number>]
 
 Parameters are:
 

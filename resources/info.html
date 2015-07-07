@@ -15,13 +15,14 @@
 			<li><i>strict</i>: only complete matches are considered correct (after some normalization)</li>
 			<li><i>loose</i>: more tolerant, partial matches are considered correct too</li>	
 		</ul>
+
+
 		
 		
 <p>General notes:</p>
 <ul>
-	<li>For each query only some properties are considered. For instance, the articles are compared by DOI and (normalized) titles only.</li>
+	<li>For each type of entry (es. article, funding agency, grant, ontology, etc.) specific comparison strategies are implemented (in the <code>matchesEntry()</code> method of the corresponding class).</li>
 	<li>The IRIs structure is ignored, as participants were free to use their own model and structure.</li>
-	<li>According to the evaluation mode (strict or loose), the software verifies that all properties match or only some of them. Strict/loose matching rules are specific for each query.</li>
 	<li>The order of the CSV entries is not relevant.</li>
 	<li>Unexpected duplicates are considered errors.</li>
 </ul>
@@ -32,8 +33,7 @@
 	<li>Titles are normalized as follows: all spaces, punctuation symbols and non-ASCII characters are stripped, only letters and numbers are considered. </li>
 	<li>Names are normalized as follows: all spaces, punctuation symbols are stripped, non-ASCII characters are substituted with ASCII characters. </li>	
 	<li>Missing datatypes are ignored.</li>
-	<li>DOI information not available in the gold standard are skipped in the evaluation.</li>
-	<li>Ontologies are compared by their full names or their acronyms</li>
+	<li>Information not available in the gold standard is skipped in the evaluation.</li>
 </ul>
 </body>
 </html>

@@ -10,7 +10,7 @@ One directory contain the gold standard, the other the output under evaluation.
 Pairs of corresponding CSV files (with the same name) are compared and the results are saved in a HTML report.
 
 The evaluation is implemented so as to take minor differences into account and to normalize data.
-For each type of entry (es. article, funding agency, grant, ontology, etc.) specific comparison strategies are implemented (in the ``matchesEntry`` method of the corresponding Entry class).
+For each type of entry (es. article, funding agency, grant, ontology, etc.) specific comparison strategies are implemented (in the ``matchesEntry`` method of the corresponding ``Entry`` class).
  
 Run the script ``run.php`` as follows:
 

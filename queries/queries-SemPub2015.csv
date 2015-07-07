@@ -1,0 +1,59 @@
+Q2.1a, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1301/ontocomodise2014_6.pdf , AffiliationEntry
+Q2.1b, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1184/ldow2014_paper_05.pdf  , AffiliationEntry
+Q2.1c, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1044/paper-03.pdf , AffiliationEntry
+Q2.1d, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-958/paper6.pdf , AffiliationEntry
+Q2.1e, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-903/paper-05.pdf , AffiliationEntry
+
+Q2.2a, Identify the papers presented at the workshop http://ceur-ws.org/Vol-1301/ and written by researchers affiliated to an organization located in the country 'Brazil' , CEURArticleEntry
+Q2.2b, Identify the papers presented at the workshop http://ceur-ws.org/Vol-1215/ and written by researchers affiliated to an organization located in the country 'Germany' , CEURArticleEntry
+Q2.2c, Identify the papers presented at the workshop http://ceur-ws.org/Vol-778/ and written by researchers affiliated to an organization located in the country 'Italy' , CEURArticleEntry
+Q2.2d, Identify the papers presented at the workshop http://ceur-ws.org/Vol-665/ and written by researchers affiliated to an organization located in the country 'United Kingdom' , CEURArticleEntry
+Q2.2e, Identify the papers presented at the workshop http://ceur-ws.org/Vol-571/ and written by researchers affiliated to an organization located in the country 'Spain' , CEURArticleEntry
+
+Q2.3a, Identify all works cited by the paper http://ceur-ws.org/Vol-1248/WoMO14-Paper4.pdf , ArticleEntry
+Q2.3b, Identify all works cited by the paper http://ceur-ws.org/Vol-1215/paper-03.pdf , ArticleEntry
+Q2.3c, Identify all works cited by the paper http://ceur-ws.org/Vol-958/paper7.pdf , ArticleEntry
+Q2.3d, Identify all works cited by the paper http://ceur-ws.org/Vol-903/paper-07.pdf  , ArticleEntry
+Q2.3e, Identify all works cited by the paper http://ceur-ws.org/Vol-721/paper-04.pdf , ArticleEntry
+
+Q2.4a, Identify all works cited by the paper http://ceur-ws.org/Vol-1215/paper-06.pdf and published after the year 2009 , RecentArticleEntry
+Q2.4b, Identify all works cited by the paper http://ceur-ws.org/Vol-958/paper8.pdf and published after the year 2005 , RecentArticleEntry
+Q2.4c, Identify all works cited by the paper http://ceur-ws.org/Vol-903/paper-07.pdf and published after the year 2005 , RecentArticleEntry
+Q2.4d, Identify all works cited by the paper http://ceur-ws.org/Vol-778/paper6.pdf and published after the year 2008 , RecentArticleEntry
+Q2.4e, Identify all works cited by the paper http://ceur-ws.org/Vol-665/NortonEtAl_COLD2010.pdf and published after the year 2007 , RecentArticleEntry
+
+Q2.5a, Identify all journal papers cited by the paper http://ceur-ws.org/Vol-1301/ontocomodise2014_7.pdf , JournalArticleEntry
+Q2.5b, Identify all journal papers cited by the paper http://ceur-ws.org/Vol-958/paper7.pdf , JournalArticleEntry
+Q2.5c, Identify all journal papers cited by the paper http://ceur-ws.org/Vol-903/paper-04.pdf , JournalArticleEntry
+Q2.5d, Identify all journal papers cited by the paper http://ceur-ws.org/Vol-721/paper-07.pdf , JournalArticleEntry
+Q2.5e, Identify all journal papers cited by the paper http://ceur-ws.org/Vol-571/paper3.pdf , JournalArticleEntry
+
+Q2.6a, Identify the grant(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1301/ontocomodise2014_10.pdf , GrantEntry
+Q2.6b, Identify the grant(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1184/ldow2014_paper_13.pdf , GrantEntry
+Q2.6c, Identify the grant(s) that supported the research presented in the paper http://ceur-ws.org/Vol-813/ldow2011-paper12.pdf , GrantEntry
+Q2.6d, Identify the grant(s) that supported the research presented in the paper http://ceur-ws.org/Vol-813/ldow2011-paper09.pdf , GrantEntry
+Q2.6e, Identify the grant(s) that supported the research presented in the paper http://ceur-ws.org/Vol-315/paper8.pdf , GrantEntry
+
+Q2.7a, Identify the funding agencies that funded the research presented in the paper http://ceur-ws.org/Vol-1301/ontocomodise2014_2.pdf , FundingAgencyEntry
+Q2.7b, Identify the funding agencies that funded the research presented in the paper http://ceur-ws.org/Vol-1184/ldow2014_paper_11.pdf , FundingAgencyEntry
+Q2.7c, Identify the funding agencies that funded the research presented in the paper http://ceur-ws.org/Vol-1184/ldow2014_paper_02.pdf , FundingAgencyEntry
+Q2.7d, Identify the funding agencies that funded the research presented in the paper http://ceur-ws.org/Vol-1116/paper7.pdf , FundingAgencyEntry
+Q2.7e, Identify the funding agencies that funded the research presented in the paper http://ceur-ws.org/Vol-958/paper9.pdf , FundingAgencyEntry
+
+Q2.8a, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1215/paper-03.pdf , ProjectEntry
+Q2.8b, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1184/ldow2014_paper_05.pdf , ProjectEntry
+Q2.8c, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1155/paper-01.pdf , ProjectEntry
+Q2.8d, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1044/paper-06.pdf , ProjectEntry
+Q2.8e, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-315/paper1.pdf , ProjectEntry
+
+Q2.9a,  Identify the ontologies mentioned in the abstract of the paper http://ceur-ws.org/Vol-1188/paper_5.pdf , OntologyEntry
+Q2.9b,  Identify the ontologies mentioned in the abstract of the paper http://ceur-ws.org/Vol-1188/paper_2.pdf , OntologyEntry
+Q2.9c,  Identify the ontologies mentioned in the abstract of the paper http://ceur-ws.org/Vol-1116/paper8.pdf , OntologyEntry
+Q2.9d,  Identify the ontologies mentioned in the abstract of the paper http://ceur-ws.org/Vol-665/TroncyEtAl_COLD2010.pdf , OntologyEntry
+Q2.9e,  Identify the ontologies mentioned in the abstract of the paper http://ceur-ws.org/Vol-315/paper6.pdf , OntologyEntry
+
+Q2.10a, Identify the ontologies introduced in the paper http://ceur-ws.org/Vol-1301/ontocomodise2014_7.pdf , OntologyEntry
+Q2.10b, Identify the ontologies introduced in the paper http://ceur-ws.org/Vol-1184/ldow2014_paper_09.pdf , OntologyEntry
+Q2.10c, Identify the ontologies introduced in the paper http://ceur-ws.org/Vol-1155/paper-05.pdf , OntologyEntry
+Q2.10d, Identify the ontologies introduced in the paper http://ceur-ws.org/Vol-813/ldow2011-paper01.pdf , OntologyEntry
+Q2.10e, Identify the ontologies introduced in the paper http://ceur-ws.org/Vol-315/paper6.pdf , OntologyEntry

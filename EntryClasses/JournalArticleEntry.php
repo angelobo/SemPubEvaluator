@@ -24,11 +24,12 @@ class JournalArticleEntry extends ArticleEntry{
 	 *
 	* MATCHING RULES:
 	*
-	* [Strict]: all values (apart from IRIs) are equal; DOI ignored if not available in the golden standard
-	*				- journal titles must be equals
+	* [Strict]: DOI, paper titles (normalized as for all other articles) and journal titles must be equal
 	*
-	* [Loose]: paper titles are similar (by using PHP string similarity function, threshold 80% )
-	*				- journal titles are ignored (underspecified in the challenge requirements and queries description
+	* [Loose]: 
+	* 		- DOI must be equal (if available in the gold standard)
+	* 		- paper titles similar (by using PHP string similarity function, threshold 80% )
+	*		- journal titles are ignored, since they were under specified in the challenge requirements)
 	*/
 	public function matchesEntry($searchEntry, $evaluationLevel){
 	

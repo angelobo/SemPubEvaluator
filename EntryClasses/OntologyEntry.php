@@ -57,10 +57,10 @@ class OntologyEntry extends Entry{
 	 * 
 	 * MATCHING RULES:
 	 * 
-	 * [Strict/Loose]: -equal ontology name
+	 * [Strict/Loose]: Ontology names must be equal after some normalization:
+	 * 			 - names are transformed in lowercase 
 	 * 			 - the word 'ontology' is stripped off
-	 *  		 - acronyms in () brackets are considered valid too  	
-	 *
+	 *  		 - matching acronyms (in brackets) are considered valid too
 	 */
 	public function matchesEntry($searchEntry, $evaluationLevel){
 	

@@ -41,11 +41,11 @@ class GrantEntry extends Entry{
 	 * 
 	 * MATCHING RULES:
 	 * 
-	 * [Strict]: equal grant-identifier
+	 * [Strict]: equal grant identifier
 	 * 
-	 * [Loose]: 
-	 * 		- only characters and numbers are considered
-	 * 		- cases like "n. <grantnumber>", "n¡ <grantnumber>" are also considered correct
+	 * [Loose]:grant identifies are normalized as follows:
+	 * 			- only characters and numbers are considered
+	 * 			- cases like "n. <grantnumber>", "n¡ <grantnumber>" are considered correct too
 	 *
 	 */
 	public function matchesEntry($searchEntry, $evaluationLevel){

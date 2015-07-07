@@ -41,9 +41,11 @@ class FundingAgencyEntry extends Entry{
 	 * 
 	 * MATCHING RULES:
 	 * 
-	 * [Strict/Loose]: 
-	 * 			- equal FundingAgency name
-	 * 			- acronym in () brackets is considered valid too  	
+	 * [Strict]: equal FundingAgency name  (article 'the' removed)
+	 * [Loose]: FundingAgency names are normalized as follows:
+	 * 			- article 'the' removed
+	 * 			- only letters and numbers are considered
+	 * 			- symbol '_' is removed
 	 *
 	 */
 	public function matchesEntry($searchEntry, $evaluationLevel){

@@ -35,9 +35,10 @@ class ProjectEntry extends Entry{
 	 * 
 	 * MATCHING RULES:
 	 * 
-	 * [Strict/Loose]: 
-	 * 			- equal Project name (lowercase, removing the word "project" if there
 	 * 
+	 * [Strict/Loose]: Project names must be equal after some normalization:
+	 * 			 - names are transformed in lowercase 
+	 * 			 - the word 'project' is stripped off
 	 *
 	 */
 	public function matchesEntry($searchEntry, $evaluationLevel){

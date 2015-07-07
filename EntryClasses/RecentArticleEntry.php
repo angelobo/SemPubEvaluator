@@ -21,16 +21,17 @@ class RecentArticleEntry extends ArticleEntry{
 	}
 	
 	/***
-	 * 
-	 * MATCHING RULES:
-	 * 
-	 * [Strict]: all values (apart from IRIs) are equal; DOI ignored if not available in the golden standard)
-	 * 				- "^^xsd:integer" is not considered in the publication year
-	 * 
-	 * [Loose]: title are similar (by using pPHP string similarity function, threshold 80% )
-	 *				- "^^xsd:integer" is not considered in the publication year				
-	 *				- substring match in publication year, months are not taken into account
-	 */
+	*
+	* MATCHING RULES:
+	*
+	* [Strict]: DOI, paper titles (normalized as for all other articles) and publication year must be equal
+	*				- "^^xsd:integer" is not considered in the publication year
+	* [Loose]:
+	* 		- DOI must be equal (if available in the gold standard)
+	* 		- paper titles similar (by using PHP string similarity function, threshold 80% )
+	*		- "^^xsd:integer" is not considered in the publication year
+	*		- months are not taken into account in the publication year
+	*/
 	public function matchesEntry($searchEntry, $evaluationLevel){
 	
 		$matchingEntry = FALSE;
@@ -41,6 +42,8 @@ class RecentArticleEntry extends ArticleEntry{
 				
 			if ((( $similarity > 80 )  && ( $this->getTitle())) &&
 				
+				// Note: the keyword ERROR-IGNORE-PUBYEAR is used in the queries configuration file to handle entries with 
+				//		no publication year is available in the gold standard (error)
 				(!(strpos($this->getNormalizedPublicationYear(), $searchEntry->getNormalizedPublicationYear()) === FALSE) || 
 				($searchEntry->getErrorMsg() == "ERROR-IGNORE-PUBYEAR"))
 			

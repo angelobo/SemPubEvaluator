@@ -2,6 +2,7 @@
 
 class ArticleEntry extends Entry{
 	
+	// NOTE: change getResourceIri(), getDOI() and getTitle() if columns are given in a different order (error, more tolerant evaluation)
 	public function getResourceIri(){
 		return trim($this->getData()[0]);		
 	}
@@ -38,7 +39,7 @@ class ArticleEntry extends Entry{
 	 * 
 	 * MATCHING RULES:
 	 * 
-	 * [Strict]: all values (apart from IRIs) are equal; DOI ignored if not available in the golden standard
+	 * [Strict]: DOI and normalized titles are equal; DOI ignored if not available in the golden standard
 	 * 
 	 * [Loose]: title are similar (by using PHP string similarity function, threshold 80% )
 	 *

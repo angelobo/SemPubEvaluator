@@ -6,8 +6,10 @@ class CEURArticleEntry extends ArticleEntry{
 	 * 
 	 * MATCHING RULES:
 	 * 
-	 * [Strict/Loose]: match paper URIs (that have to follow challenge rules)
-	 *
+	 * [Strict/Loose]: paper URIs (that have to follow challenge rules) are equal
+	 *	
+	 *	NOTE: symbol '_' is replaced with '-' in the IRIs
+	 *	
 	 */
 	public function matchesEntry($searchEntry, $evaluationLevel){
 	
@@ -23,7 +25,7 @@ class CEURArticleEntry extends ArticleEntry{
 		return $matchingEntry;
 	}
 	
-	// TODO: patch to handle error in URI structure in submission 9
+	// Normalization (to handle mistakes in some submissions): symbol '_' is replaced with '-' in the IRIs
 	public function getResourceIri(){
 		
 		$pi = trim($this->getData()[0]);
@@ -32,7 +34,6 @@ class CEURArticleEntry extends ArticleEntry{
 		
 		return $pi;		
 	}
-	
 	
 	
 	protected function getArticleDataToDisplayAsArray(){

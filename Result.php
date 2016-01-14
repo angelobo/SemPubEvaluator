@@ -131,28 +131,25 @@ class Result {
 
 		$queryNavigationBar = "";
 		
-		$queryShortID = explode(".", $queryID)[1];
-		
-		$queryShortIDLength = strlen($queryShortID) - 1;
-		
-		$qNumber = substr($queryShortID, 0, $queryShortIDLength);
-		$qLetter = $queryShortID[$queryShortIDLength];
-		$qSubNumber = ord($qLetter) - 97; // 97 position of 'a' in ASCII alphabet
+		$queryIDpieces = explode(".", $queryID);
+		$qNumber = substr($queryIDpieces[0], 1);
+		$qSubNumber = $queryIDpieces[1];
 		
 		$nextQueryNumber = $qNumber;
 		$nextSubNumber = $qSubNumber + 1;
+		
 
 		//TODO: add constant total number of queries (-1, index in the array)
-		define("TOTALQUERIES", 10);
-		define("TOTALPERQUERY", 5);
+		define("TOTALQUERIES", 8);
+		define("TOTALPERQUERY", 36);
 		
-		if ($qSubNumber == (TOTALPERQUERY - 1))
+		if ($qSubNumber == TOTALPERQUERY)
 			{
 			$nextQueryNumber = $qNumber + 1;
-			$nextSubNumber = 0;
+			$nextSubNumber = 1;
 			}
 			
-		$nextQueryID = explode(".", $queryID)[0].".".$nextQueryNumber.chr($nextSubNumber + 97);
+		$nextQueryID = "Q$nextQueryNumber.$nextSubNumber";
 		
 		$previousButton = ""; //TODO: previous query button
 		$topButton = "<span class='back-button'><a href='index.html'>[top]</a><span>";

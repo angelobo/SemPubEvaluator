@@ -47,7 +47,7 @@ $outputDir = $argv[4];
 $submissionNumber = substr($argv[5],strpos($argv[5], "-sub=") + 5);
 $taskNumber = substr($argv[6],strpos($submissionNumber, "-task=") + 6);
 
-$commandLineInfo = "\nCOMMAND: run.php <queries.csv> <gold-standard-dirpath> <input-dirpath> <output-dirpath> [-sub=<submission-number>] [-tark=<task-number>]\n";
+$commandLineInfo = "\nCOMMAND: run.php <queries.csv> <gold-standard-dirpath> <input-dirpath> <output-dirpath> [-sub=<submission-number>] [-task=<task-number>]\n";
 
 if (!file_exists($queryCSVFilePath))
 	die("\nERROR: Input Query file missing or corrupted.\n$commandLineInfo\n");

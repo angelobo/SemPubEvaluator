@@ -25,7 +25,6 @@ class HTMLRawFormatter {
 		return $html;
 	}
 	
-	//TODO: pass submission ID as parameter
 	//TODO: use constants for names of ZIP files
 	public function renderIntroductionAsHTML($evaluationLevel, $taskNumber, $submissionNumber){
 	

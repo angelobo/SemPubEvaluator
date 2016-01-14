@@ -2,7 +2,7 @@
 
 class ArticleEntry extends Entry{
 	
-	// NOTE: change getResourceIri(), getDOI() and getTitle() if columns are given in a different order (error, more tolerant evaluation)
+	// NOTE: order cannot be different in the gold-standard and under-evaluation CSV files
 	public function getResourceIri(){
 		return trim($this->getData()[0]);		
 	}
@@ -91,38 +91,7 @@ class ArticleEntry extends Entry{
 		
 	}
 	
-	
-	/***
-	 * 
-	 * Patch to handle SemPub2015 - submission 7
-	 * //TODO: remove and fix input data
-	 * 
 
-	public function getNormalizedTitleErrorInWrongColumnsOrder(){
-		$nt = trim($this->getData()[1]);
-		$nt = preg_replace("/[^a-zA-Z0-9]+/", "", $nt);
-	
-		return strtolower($nt);
-	}
-
-	public function matchesEntry($searchEntry, $evaluationLevel){
-	
-		$matchingEntry = FALSE;
-	
-		if ($evaluationLevel == "loose"){
-				
-			similar_text($this->getNormalizedTitleErrorInWrongColumnsOrder(), $searchEntry->getNormalizedTitle(), $similarity);
-	
-			if (( $similarity > 80 )  && ( $this->getNormalizedTitleErrorInWrongColumnsOrder()))
-				$matchingEntry = TRUE;
-		}
-		// strict evaluation always fails (errors in input data)
-	
-		return $matchingEntry;
-	}
-	
-	***/
-	
 }
 
 

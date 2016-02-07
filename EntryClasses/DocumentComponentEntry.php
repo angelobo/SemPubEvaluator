@@ -31,7 +31,6 @@ class DocumentComponentEntry extends Entry{
 	public function getNormalizedTitleOrCaption(){
 		$nt = $this->getTitleOrCaption();
 		$nt = preg_replace("/\s&\s/", " and ", $nt);
-		
 		$nt = preg_replace("/[^a-zA-Z0-9]+/", "", $nt);
 		
 		return strtolower($nt);

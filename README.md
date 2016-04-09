@@ -16,15 +16,15 @@ The evaluation is implemented so as to take minor differences into account and t
 
 The list of queries to evaluate and the classes implementing the evaluation are specified in a configuration file passed as input.
 
-The queries used for the Semantic Publishing Challenge 2015 are in the folder ``queries/queries-SemPub2015/``.
+The queries used for the Semantic Publishing Challenge 2015 are in the folder ``data/queries/queries-SemPub2015/``.
 
-The queries used for the Semantic Publishing Challenge 2016 are in the folder ``queries/queries-SemPub2016/``.
+The queries used for the Semantic Publishing Challenge 2016 are in the folder ``data/queries/queries-SemPub2016/``.
 
 ### Gold standard
 
-The directory ``gold-standard/`` contains the gold standard used for the training phase and the evaluation (when available).
+The directory ``data/gold-standard/`` contains the gold standard used for the training phase and the evaluation (when available).
 
-The gold standard used for the training phase in 2016 are in the folder: ``gold-standard/2016/TD/`` (one folder for each task).
+The gold standard used for the training phase in 2016 are in the folder: ``data/gold-standard/2016/TD/`` (one folder for each task).
 
 ## How to run the evaluation
  
@@ -43,14 +43,14 @@ Parameters are:
 
 For instance, to run the test for the Task 3 Training Dataset:
 
-    run.php queries/SemPub2016/Task3_queries_TD.csv gold-standard/SemPub2016/Task3/TD/ mySubmission/ output/
+    run.php data/queries/SemPub2016/Task3_queries_TD.csv data/gold-standard/SemPub2016/Task3/TD/ mySubmission/ output/
 
 The command compares the given results (available in the ``mySubmission/`` folder) with the expected results according to the gold-standard.
 The results of the evaluation will be made available in the ``output/`` folder.
 
 To run the evaluation on the Task 2 Training Dataset use:
 
-    run.php queries/SemPub2016/Task2_queries_TD.csv gold-standard/SemPub2016/Task2/TD/ mySubmission/ output/
+    run.php data/queries/SemPub2016/Task2_queries_TD.csv data/gold-standard/SemPub2016/Task2/TD/ mySubmission/ output/
 
 
 

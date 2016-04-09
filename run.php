@@ -14,6 +14,9 @@ define("CSS_FILENAME","style.css");
 define("INFO_FILENAME","info.html");
 define("INDEX_OUTPUT_FILENAME","index.html");
 
+define("ZIP_GOLD_STANDARD","gold-standard.zip");
+define("ZIP_UNDER_EVALUATION","under-evaluation.zip");
+
 /*
  * Load Entry Classes
 */
@@ -45,6 +48,10 @@ $outputDir = $argv[4];
 //TODO: check parameters, handle order, add documentation
 $submissionNumber = substr($argv[5],strpos($argv[5], "-sub=") + 5);
 $taskNumber = substr($argv[6],strpos($submissionNumber, "-task=") + 6);
+
+$zipOption = FALSE;
+if (in_array("--create-zip", $argv)) 
+	$zipOption = TRUE;
 
 $commandLineInfo = "\nCOMMAND: run.php <queries.csv> <gold-standard-dirpath> <input-dirpath> <output-dirpath> [-sub=<submission-number>] [-task=<task-number>]\n";
 
@@ -87,16 +94,18 @@ $infoCopiedFile = $outputDir."/".INFO_FILENAME;
 if ((!copy($cssFile, $copiedCSSfile)) || (!copy($infoFile, $infoCopiedFile)))
 	die("Failed to copy $cssFile , $infoFile ...\n");
 else 
-	echo "\nResources copied. ";
+	echo "\nResources copied. \n\n";
 
 
-$zipGoldStandard = $outputDir."gold-standard.zip";
-$zipUnderEvaluation = $outputDir."under-evaluation.zip";
-
-buildZIPfromCSVDirectory($zipGoldStandard, $inputDirGoldStandard);
-buildZIPfromCSVDirectory($zipUnderEvaluation, $inputDirUnderEvaluation);
-
-echo "ZIP files created.\n\n";
+if ($zipOption) {
+	$zipGoldStandard = $outputDir.ZIP_GOLD_STANDARD;
+	$zipUnderEvaluation = $outputDir.ZIP_UNDER_EVALUATION;
+	
+	buildZIPfromCSVDirectory($zipGoldStandard, $inputDirGoldStandard);
+	buildZIPfromCSVDirectory($zipUnderEvaluation, $inputDirUnderEvaluation);
+	
+	echo "Input files archived in ZIP (in the output directory).\n\n";
+}
 
 
 //TODO: handle loose/strict evaluation
@@ -166,7 +175,7 @@ for ($i = 0; $i < count($csvQueriesContent); $i++) {
 /*
  * Calculating and saving global result
  */
-$globalResultHTMLContent = $htmlFormatter->renderIntroductionAsHTML($evaluationLevel, $taskNumber, $submissionNumber) . $resultAll->renderAsHTMLIndexTable(TRUE);
+$globalResultHTMLContent = $htmlFormatter->renderIntroductionAsHTML($evaluationLevel, $taskNumber, $submissionNumber, $zipOption) . $resultAll->renderAsHTMLIndexTable(TRUE);
 
 $globalResultHTML = $htmlFormatter->buildHTML($globalResultHTMLContent);
 

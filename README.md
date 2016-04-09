@@ -31,7 +31,7 @@ The gold standard used for the training phase in 2016 are in the folders: ``data
  
 Run the script ``run.php`` as follows:
 
-    php run.php <queries.csv> <gold-standard-dirpath> <input-dirpath> <output-dirpath> [-sub=<submission-number>] [-task=<task-number>]
+    php run.php <queries.csv> <gold-standard-dirpath> <input-dirpath> <output-dirpath> [-sub=<submission-number>] [-task=<task-number>] [--create-zip]
 
 Parameters are:
 
@@ -41,6 +41,7 @@ Parameters are:
 4.  output-dirpath: output directory (will be overwritten)
 5.  (optional) submission number (shown in the final report)
 5.  (optional) task number (shown in the final report)
+5.  (optional) flag to zip input CSV files and include them in the output
 
 For instance, to run the test for the Task 3 Training Dataset:
 

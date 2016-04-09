@@ -8,7 +8,7 @@ One directory contains the gold standard, the other the output under evaluation.
 
 Each CSV file contains the output of a query and is named after that query (es. ``Q2.1a.csv``).
 The tool compares pairs of corresponding CSV files from the two directories and saves the results in a HTML report.
-*Corresponding files must have the same name.*
+**Corresponding files must have the same name.**
 
 
 For each type of entry (es. article, funding agency, grant, ontology, etc.) specific comparison strategies are implemented 

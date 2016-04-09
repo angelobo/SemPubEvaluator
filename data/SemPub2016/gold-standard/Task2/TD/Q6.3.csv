@@ -1,0 +1,4 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1518-paper3_fig1>, "1"^^xsd:integer, "Start view"
+<http://ceur-ws.org/figure/vol-1518-paper3_fig2>, "2"^^xsd:integer, "Zoomed cluster view with a selected tag"
+<http://ceur-ws.org/figure/vol-1518-paper3_fig3>, "3"^^xsd:integer, "Excerpt of the resource list for the tag sandwich"

@@ -1,0 +1,7 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1521-paper2_tab1>, "1"^^xsd:integer, "Number Of Named Entities Per Each Type In NER Data Sets"
+<http://ceur-ws.org/table/vol-1521-paper2_tab2>, "2"^^xsd:integer, "CoNLL F1 Scores on Turkish Formal Data Sets"
+<http://ceur-ws.org/table/vol-1521-paper2_tab3>, "3"^^xsd:integer, "Results on Turkish Informal Data Sets"
+<http://ceur-ws.org/table/vol-1521-paper2_tab4>, "4"^^xsd:integer, "Results on the MSM 2013 Data Set, ConLL F1 scores"
+<http://ceur-ws.org/table/vol-1521-paper2_tab5>, "5"^^xsd:integer, "Results on the Ritter Data Set, ConLL F1 scores"
+<http://ceur-ws.org/table/vol-1521-paper2_tab6>, "6"^^xsd:integer, "Top-5 Neighbours wrt Turkish Word Embeddings"

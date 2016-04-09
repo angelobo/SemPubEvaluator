@@ -1,0 +1,4 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1001-paper2_tab1>, "1"^^xsd:integer, "Example of spatiotemporal database"
+<http://ceur-ws.org/table/vol-1001-paper2_tab2>, "2"^^xsd:integer, "Some spatially sequential patterns for RM (ε-neighborhood) dataset for a minimal support of 0.2"
+<http://ceur-ws.org/table/vol-1001-paper2_tab3>, "3"^^xsd:integer, "Some spatio-sequential patterns for RMC (watercourse neighborhood) dataset for a minimal support of 0.2"

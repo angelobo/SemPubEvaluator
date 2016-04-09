@@ -1,0 +1,5 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1320-paper_31_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1320-paper_31_sec2>, "2"^^xsd:integer, "The SemFacet System"
+<http://ceur-ws.org/section/vol-1320-paper_31_sec3>, "3"^^xsd:integer, "Demostration Scenarios"
+<http://ceur-ws.org/section/vol-1320-paper_31_sec4>, "4"^^xsd:integer, "References"

@@ -1,0 +1,5 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1521-paper5_fig1>, "1"^^xsd:integer, "The number of interaction events occurring by month."
+<http://ceur-ws.org/figure/vol-1521-paper5_fig2>, "2"^^xsd:integer, "The log(cv) for node pairs in the Scratch interaction network with >= 3 events. A small number of node pairs (1,038) were removed for this plot as they had a cv of zero and thus were undened."
+<http://ceur-ws.org/figure/vol-1521-paper5_fig3>, "3"^^xsd:integer, "The edge-node ratio over time in the cumulative and activity graph series."
+<http://ceur-ws.org/figure/vol-1521-paper5_fig4>, "4"^^xsd:integer, "The diameter length over time in the cumulative and activity graph series."

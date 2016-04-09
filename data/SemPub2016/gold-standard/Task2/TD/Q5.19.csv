@@ -1,0 +1,4 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1500-paper3_tab1>, "1"^^xsd:integer, "GQM model for evaluating systems according to our proposed benchmark criteria."
+<http://ceur-ws.org/table/vol-1500-paper3_tab2>, "2"^^xsd:integer, "Results of our manual and example implementations for the metrics defined as benchmark."
+<http://ceur-ws.org/table/vol-1500-paper3_tab3>, "3"^^xsd:integer, "Rounded average execution times of the benchmarking example."

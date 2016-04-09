@@ -1,0 +1,6 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1514-paper1_tab1>, "1"^^xsd:integer, "Instances of Shopping Arcade Actors"
+<http://ceur-ws.org/table/vol-1514-paper1_tab2>, "2"^^xsd:integer, "Internal Test Path Sets"
+<http://ceur-ws.org/table/vol-1514-paper1_tab3>, "3"^^xsd:integer, "Interaction Test Paths"
+<http://ceur-ws.org/table/vol-1514-paper1_tab4>, "4"^^xsd:integer, "Combinations of Concurrent Test Paths"
+<http://ceur-ws.org/table/vol-1514-paper1_tab5>, "5"^^xsd:integer, "Test Criteria Efficiency"

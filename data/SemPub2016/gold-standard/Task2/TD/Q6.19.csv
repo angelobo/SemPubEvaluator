@@ -1,0 +1,3 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1500-paper3_fig1>, "1"^^xsd:integer, "Ecore model of the blogging system."
+<http://ceur-ws.org/figure/vol-1500-paper3_fig2>, "2"^^xsd:integer, "Mapping diagram of the Ecore2UML metamodel transformation operations."

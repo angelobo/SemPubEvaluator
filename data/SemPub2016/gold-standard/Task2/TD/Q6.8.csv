@@ -1,0 +1,8 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1518-paper8_fig1>, "1"^^xsd:integer, "LAK Explorer components"
+<http://ceur-ws.org/figure/vol-1518-paper8_fig2>, "2"^^xsd:integer, "LAK Explorer home page"
+<http://ceur-ws.org/figure/vol-1518-paper8_fig3>, "3"^^xsd:integer, "Using autocomplete"
+<http://ceur-ws.org/figure/vol-1518-paper8_fig4>, "4"^^xsd:integer, "The search results page"
+<http://ceur-ws.org/figure/vol-1518-paper8_fig5>, "5"^^xsd:integer, "The search results page"
+<http://ceur-ws.org/figure/vol-1518-paper8_fig6>, "6"^^xsd:integer, "Browsing similar papers"
+<http://ceur-ws.org/figure/vol-1518-paper8_fig7>, "7"^^xsd:integer, "Visually representing similar papers"

@@ -1,0 +1,5 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1309-paper3_fig1>, "1"^^xsd:integer, "Correspondences in the parts of the textual definition and the axioms of the IDO term amebiasis."
+<http://ceur-ws.org/figure/vol-1309-paper3_fig2>, "2"^^xsd:integer, "Correspondences in the parts of the textual definition and the axioms of the IAO term abstract."
+<http://ceur-ws.org/figure/vol-1309-paper3_fig3>, "3"^^xsd:integer, "Correspondences in the parts of the textual definition and the axioms of the IDO term dead-end host."
+<http://ceur-ws.org/figure/vol-1309-paper3_fig4>, "4"^^xsd:integer, "Correspondences in the parts of the textual definition and the axioms of the IDO term antiseptic role."

@@ -1,0 +1,3 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1500-paper1_tab1>, "1"^^xsd:integer, "The names of Kiltera's constructs, their syntax, and their representative classes"
+<http://ceur-ws.org/table/vol-1500-paper1_tab2>, "2"^^xsd:integer, "The rules in each layer of the UML-RT-to-Kiltera transformation and their input and output types"

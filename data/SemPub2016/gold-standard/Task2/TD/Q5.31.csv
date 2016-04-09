@@ -1,0 +1,2 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1303-paper_3_tab1>, "1"^^xsd:integer, "Translation for FROM clauses"

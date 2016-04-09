@@ -1,0 +1,6 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1320-paper_7_tab1>, "1"^^xsd:integer, "Overview of existing SPARQL query federation engines"
+<http://ceur-ws.org/table/vol-1320-paper_7_tab2>, "2"^^xsd:integer, "Overview of experimental datasets"
+<http://ceur-ws.org/table/vol-1320-paper_7_tab3>, "3"^^xsd:integer, "Summary of query characteristics"
+<http://ceur-ws.org/table/vol-1320-paper_7_tab4>, "4"^^xsd:integer, "Sum of triple-pattern-wise sources selected for each query"
+<http://ceur-ws.org/table/vol-1320-paper_7_tab5>, "5"^^xsd:integer, "Number of SPARQL ASK requests used for source selection"

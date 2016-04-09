@@ -1,0 +1,13 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1514-paper5_fig1>, "1"^^xsd:integer, "ATM example"
+<http://ceur-ws.org/figure/vol-1514-paper5_fig2>, "2"^^xsd:integer, "Vending machine example: base feature"
+<http://ceur-ws.org/figure/vol-1514-paper5_fig3>, "3"^^xsd:integer, "Vending machine example: base feature plus Coffee"
+<http://ceur-ws.org/figure/vol-1514-paper5_fig4>, "4"^^xsd:integer, "Vending machine example: base feature plus Coffee and Tea"
+<http://ceur-ws.org/figure/vol-1514-paper5_fig5>, "5"^^xsd:integer, "Vending machine with Coffee, Tea and CreditCard"
+<http://ceur-ws.org/figure/vol-1514-paper5_fig6>, "6"^^xsd:integer, "ATM example: base feature"
+<http://ceur-ws.org/figure/vol-1514-paper5_fig7>, "7"^^xsd:integer, "ATM example: base feature plus Receipt"
+<http://ceur-ws.org/figure/vol-1514-paper5_fig8>, "8"^^xsd:integer, "ATM example: base feature plus More"
+<http://ceur-ws.org/figure/vol-1514-paper5_fig9>, "9"^^xsd:integer, "ATM+M+R: ATM base feature plus More plus Receipt, in this order"
+<http://ceur-ws.org/figure/vol-1514-paper5_fig10>, "10"^^xsd:integer, "ATM+R+M: ATM base feature plus Receipt plus More, in this order"
+<http://ceur-ws.org/figure/vol-1514-paper5_fig11>, "11"^^xsd:integer, "ATM+(MR): ATM base feature plus Receipt plus More, with feature interactions fixed"
+<http://ceur-ws.org/figure/vol-1514-paper5_fig12>, "12"^^xsd:integer, "Complete feature merge expression for ATM example"

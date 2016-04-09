@@ -1,0 +1,8 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1315-paper9_fig1>, "1"^^xsd:integer, "Eight variations of containment as discussed in Bennett and Cialone [2]."
+<http://ceur-ws.org/figure/vol-1315-paper9_fig2>, "2"^^xsd:integer, "The blending process as described by Fauconnier and Turner [3]."
+<http://ceur-ws.org/figure/vol-1315-paper9_fig3>, "3"^^xsd:integer, "The blending process as described by Goguen [6]."
+<http://ceur-ws.org/figure/vol-1315-paper9_fig4>, "4"^^xsd:integer, "A (partial) representation of Containment in OWL"
+<http://ceur-ws.org/figure/vol-1315-paper9_fig5>, "5"^^xsd:integer, "Mothers and space ships"
+<http://ceur-ws.org/figure/vol-1315-paper9_fig6>, "6"^^xsd:integer, "Mother ship"
+<http://ceur-ws.org/figure/vol-1315-paper9_fig7>, "7"^^xsd:integer, "The blending of mother ship"

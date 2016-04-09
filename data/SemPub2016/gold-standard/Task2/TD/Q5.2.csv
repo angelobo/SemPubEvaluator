@@ -1,0 +1,3 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1518-paper2_tab1>, "1"^^xsd:integer, "Top 10 candidate summary sentences for Example 1"
+<http://ceur-ws.org/table/vol-1518-paper2_tab2>, "2"^^xsd:integer, "Top 10 candidate summary sentences for Example 2"

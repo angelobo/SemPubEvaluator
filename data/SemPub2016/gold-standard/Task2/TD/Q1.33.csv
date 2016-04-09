@@ -1,0 +1,4 @@
+affiliation-iri, affiliation-fullname, author-iri, author-fullname
+<http://ceur-ws.org/affiliation/sintef>, "SINTEF", <http://ceur-ws.org/author/arne-j-berre>, "Arne J. Berre"
+<http://ceur-ws.org/affiliation/cordys>, "Cordys", <http://ceur-ws.org/author/henk-de-man>, "Henk de Man"
+<http://ceur-ws.org/affiliation/aalborg-university>, "Aalborg University", <http://ceur-ws.org/author/peter-lindgren>, "Peter Lindgren"

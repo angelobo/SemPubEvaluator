@@ -1,0 +1,4 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1518-paper9_fig1>, "1"^^xsd:integer, "Diagrammatic view of the methodological steps followed in this study."
+<http://ceur-ws.org/figure/vol-1518-paper9_fig2>, "2"^^xsd:integer, "Four co-occurrence matrices constructed from the term-by-document matrix."
+<http://ceur-ws.org/figure/vol-1518-paper9_fig3>, "3"^^xsd:integer, "Sampling of the output from the analysis"

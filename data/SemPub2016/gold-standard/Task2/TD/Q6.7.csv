@@ -1,0 +1,6 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1518-paper7_fig1>, "1"^^xsd:integer, "A simple Hasse diagram."
+<http://ceur-ws.org/figure/vol-1518-paper7_fig2>, "2"^^xsd:integer, "Hasse diagram illustrating the probability distribution over a competence space on three zoom levels."
+<http://ceur-ws.org/figure/vol-1518-paper7_fig3>, "3"^^xsd:integer, "Learning Path. The cutout is part of the structure shown in Figure 2."
+<http://ceur-ws.org/figure/vol-1518-paper7_fig4>, "4"^^xsd:integer, "Illustrating learning efforts (as costs or pace). The longer the more efforts/time it took to acquire a further competency."
+<http://ceur-ws.org/figure/vol-1518-paper7_fig5>, "5"^^xsd:integer, "Illustrating maturity levels."

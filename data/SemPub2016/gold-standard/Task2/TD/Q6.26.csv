@@ -1,0 +1,8 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1514-paper3_fig1>, "1"^^xsd:integer, "Coordinated Overtaking of Two Cars"
+<http://ceur-ws.org/figure/vol-1514-paper3_fig2>, "2"^^xsd:integer, "Overview of the Compositional Verification Approach"
+<http://ceur-ws.org/figure/vol-1514-paper3_fig3>, "3"^^xsd:integer, "Utilizing M2M Traceability for DSMC"
+<http://ceur-ws.org/figure/vol-1514-paper3_fig4>, "4"^^xsd:integer, "Resolving of Traceability Paths"
+<http://ceur-ws.org/figure/vol-1514-paper3_fig5>, "5"^^xsd:integer, "MUML Real-Time Coordination Protocol Overtaking"
+<http://ceur-ws.org/figure/vol-1514-paper3_fig6>, "6"^^xsd:integer, "Multi-Step Translation from MUML to UPPAAL"
+<http://ceur-ws.org/figure/vol-1514-paper3_fig7>, "7"^^xsd:integer, "Back-Translation of an UPPAAL Counterexample Trace to MUML"

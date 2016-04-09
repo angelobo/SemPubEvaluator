@@ -1,0 +1,3 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1521-paper3_sec1>, "1"^^xsd:integer, "Abstract"
+<http://ceur-ws.org/section/vol-1521-paper3_sec2>, "2"^^xsd:integer, "Acknowledgement"

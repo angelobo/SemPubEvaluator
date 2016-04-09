@@ -1,0 +1,7 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1303-paper_3_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1303-paper_3_sec2>, "2"^^xsd:integer, "Streams"
+<http://ceur-ws.org/section/vol-1303-paper_3_sec3>, "3"^^xsd:integer, "Logical Framework"
+<http://ceur-ws.org/section/vol-1303-paper_3_sec4>, "4"^^xsd:integer, "Capturing CQL"
+<http://ceur-ws.org/section/vol-1303-paper_3_sec5>, "5"^^xsd:integer, "Conclusion"
+<http://ceur-ws.org/section/vol-1303-paper_3_sec6>, "6"^^xsd:integer, "References"

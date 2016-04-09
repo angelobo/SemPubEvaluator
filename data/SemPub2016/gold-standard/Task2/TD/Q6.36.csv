@@ -1,0 +1,4 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1531-paper1_fig1>, "1"^^xsd:integer, "Model-based Framework for Analyzing Legal Policies"
+<http://ceur-ws.org/figure/vol-1531-paper1_fig2>, "2"^^xsd:integer, "Policy Model for Calculating Invalidity Tax Deduction (Simplified)"
+<http://ceur-ws.org/figure/vol-1531-paper1_fig3>, "3"^^xsd:integer, "Planned Activities and their Timeline for Completion"

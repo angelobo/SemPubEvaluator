@@ -1,0 +1,3 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1313-paper_8_fig1>, "1"^^xsd:integer, "Isochrone with dmax of 10 minutes"
+<http://ceur-ws.org/figure/vol-1313-paper_8_fig2>, "2"^^xsd:integer, "Isochrone with dmax of 15 minutes"

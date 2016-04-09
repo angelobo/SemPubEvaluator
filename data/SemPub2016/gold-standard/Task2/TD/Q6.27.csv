@@ -1,0 +1,13 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1514-paper4_fig1>, "1"^^xsd:integer, "Workflow for analysing structural models using Alloy"
+<http://ceur-ws.org/figure/vol-1514-paper4_fig2>, "2"^^xsd:integer, "Civil status model in DPF"
+<http://ceur-ws.org/figure/vol-1514-paper4_fig3>, "3"^^xsd:integer, "Semantics of AC"
+<http://ceur-ws.org/figure/vol-1514-paper4_fig4>, "4"^^xsd:integer, "Semantics of GC"
+<http://ceur-ws.org/figure/vol-1514-paper4_fig5>, "5"^^xsd:integer, "Specification of the predicate multi in the Signature Editor"
+<http://ceur-ws.org/figure/vol-1514-paper4_fig6>, "6"^^xsd:integer, "Instance in DPF"
+<http://ceur-ws.org/figure/vol-1514-paper4_fig7>, "7"^^xsd:integer, "Highlight the inconsistency cause in DPF model Editor"
+<http://ceur-ws.org/figure/vol-1514-paper4_fig8>, "8"^^xsd:integer, "Redundant constraints feedback in DPF Workbench"
+<http://ceur-ws.org/figure/vol-1514-paper4_fig9>, "9"^^xsd:integer, "Restriction"
+<http://ceur-ws.org/figure/vol-1514-paper4_fig10>, "10"^^xsd:integer, "Factors"
+<http://ceur-ws.org/figure/vol-1514-paper4_fig11>, "11"^^xsd:integer, "Submodels"
+<http://ceur-ws.org/figure/vol-1514-paper4_fig12>, "12"^^xsd:integer, "Factors"

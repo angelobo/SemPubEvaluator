@@ -1,0 +1,7 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1514-paper1_fig1>, "1"^^xsd:integer, "Shopping Arcade in a Train Station, [35]"
+<http://ceur-ws.org/figure/vol-1514-paper1_fig2>, "2"^^xsd:integer, "A set of shopping arcade actors"
+<http://ceur-ws.org/figure/vol-1514-paper1_fig3>, "3"^^xsd:integer, "World Behavioral Test Generation Process"
+<http://ceur-ws.org/figure/vol-1514-paper1_fig4>, "4"^^xsd:integer, "Structural Model for Shopping Arcade"
+<http://ceur-ws.org/figure/vol-1514-paper1_fig5>, "5"^^xsd:integer, "Behavioral Models for Shopping Arcade Actors"
+<http://ceur-ws.org/figure/vol-1514-paper1_fig6>, "6"^^xsd:integer, "Behavioral Model (High-Level)"

@@ -1,0 +1,2 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1320-paper_31_fig1>, "1"^^xsd:integer, "Left: screenshot of SemFacet over FlyBase OWL 2 data, Right: architecture of SemFacet"

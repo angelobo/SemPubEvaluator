@@ -1,0 +1,8 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1518-paper7_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1518-paper7_sec2>, "2"^^xsd:integer, "HASSE DIAGRAMS AND COMPETENCE-BASED KNOWLEDGE SPACES"
+<http://ceur-ws.org/section/vol-1518-paper7_sec3>, "3"^^xsd:integer, "VISUALIZING COMPETENCE SPACES"
+<http://ceur-ws.org/section/vol-1518-paper7_sec4>, "4"^^xsd:integer, "WHERE DO DATA COME FROM?"
+<http://ceur-ws.org/section/vol-1518-paper7_sec5>, "5"^^xsd:integer, "CONCLUSIONS AND OUTLOOK"
+<http://ceur-ws.org/section/vol-1518-paper7_sec6>, "6"^^xsd:integer, "ACKNOWLEDGMENTS"
+<http://ceur-ws.org/section/vol-1518-paper7_sec7>, "7"^^xsd:integer, "REFERENCES"

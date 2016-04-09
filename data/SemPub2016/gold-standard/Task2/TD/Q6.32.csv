@@ -1,0 +1,6 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1001-paper2_fig1>, "1"^^xsd:integer, "Process of knowledge discovery on spatial databases"
+<http://ceur-ws.org/figure/vol-1001-paper2_fig2>, "2"^^xsd:integer, "watercourse approach"
+<http://ceur-ws.org/figure/vol-1001-paper2_fig3>, "3"^^xsd:integer, "ε-neighborhood approach"
+<http://ceur-ws.org/figure/vol-1001-paper2_fig4>, "4"^^xsd:integer, "Graphical representation of spatial itemsets (a) A · D (b) Θ · D (c) A · [BC;D]"
+<http://ceur-ws.org/figure/vol-1001-paper2_fig5>, "5"^^xsd:integer, "Graphical representation of sequence 〈(AB)(Θ · [B;C])(P · [Q;R]〉"

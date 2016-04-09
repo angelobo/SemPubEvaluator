@@ -1,0 +1,4 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1521-paper6_tab1>, "1"^^xsd:integer, "Complexity Comparison"
+<http://ceur-ws.org/table/vol-1521-paper6_tab2>, "2"^^xsd:integer, "Dataset Description"
+<http://ceur-ws.org/table/vol-1521-paper6_tab3>, "3"^^xsd:integer, "Results Comparison"

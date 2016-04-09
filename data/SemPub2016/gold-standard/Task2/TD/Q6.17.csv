@@ -1,0 +1,11 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1500-paper1_fig1>, "1"^^xsd:integer, "State machine with composite state `n2'."
+<http://ceur-ws.org/figure/vol-1500-paper1_fig2>, "2"^^xsd:integer, "The Kiltera mapping of state `n2' in Fig. 1"
+<http://ceur-ws.org/figure/vol-1500-paper1_fig3>, "3"^^xsd:integer, "`State2ProcDef' rule from layer 1 of the UML-RT-to-Kiltera transformation."
+<http://ceur-ws.org/figure/vol-1500-paper1_fig4>, "4"^^xsd:integer, "`MapBasicStateNoTrans' rule from layer 2 of the UML-RT-to-Kiltera transformation."
+<http://ceur-ws.org/figure/vol-1500-paper1_fig5>, "5"^^xsd:integer, "The architecture of our symbolic model transformation property prover."
+<http://ceur-ws.org/figure/vol-1500-paper1_fig6>, "6"^^xsd:integer, "AtomicContract AC1 used to express property P1."
+<http://ceur-ws.org/figure/vol-1500-paper1_fig7>, "7"^^xsd:integer, "AtomicContracts AC2 and AC3 used to express multiplicity invariant M1 as AC2 ⇒ AC3."
+<http://ceur-ws.org/figure/vol-1500-paper1_fig8>, "8"^^xsd:integer, "AtomicContracts AC4 and AC5 that are used to express a syntactic invariant as AC4 ⇒ AC5."
+<http://ceur-ws.org/figure/vol-1500-paper1_fig9>, "9"^^xsd:integer, "Rule `ExitPoint2ProcDef' in layer 3 of buggy transformation."
+<http://ceur-ws.org/figure/vol-1500-paper1_fig10>, "10"^^xsd:integer, "Rule `MapExitWithTrans' in layer 5 of buggy transformation."

@@ -1,0 +1,3 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1521-paper4_fig1>, "1"^^xsd:integer, "Comparison of the accuracy of Carma using the standard CBA method for rule selection, with different rule combination strategies to the baselines."
+<http://ceur-ws.org/figure/vol-1521-paper4_fig2>, "2"^^xsd:integer, "Comparison of the accuracy of Carma using the (improved) CBA* method for rule selection, with different rule combination strategies to the baselines."

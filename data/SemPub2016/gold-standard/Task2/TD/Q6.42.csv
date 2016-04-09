@@ -1,0 +1,10 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1320-paper_7_fig1>, "1"^^xsd:integer, "Example (2D) data cubes published by CHUV, CING and ZEINCRO"
+<http://ceur-ws.org/figure/vol-1320-paper_7_fig2>, "2"^^xsd:integer, "Example subject selection criteria for clinical trials"
+<http://ceur-ws.org/figure/vol-1320-paper_7_fig3>, "3"^^xsd:integer, "Snippets of user profile, access policy and data cube source information"
+<http://ceur-ws.org/figure/vol-1320-paper_7_fig4>, "4"^^xsd:integer, "SAFE architecture"
+<http://ceur-ws.org/figure/vol-1320-paper_7_fig5>, "5"^^xsd:integer, "Tree-based two level source selection"
+<http://ceur-ws.org/figure/vol-1320-paper_7_fig6>, "6"^^xsd:integer, "SAFE data summaries"
+<http://ceur-ws.org/figure/vol-1320-paper_7_fig7>, "7"^^xsd:integer, "SPARQL query authenticating a user against a data cube/named graph"
+<http://ceur-ws.org/figure/vol-1320-paper_7_fig8>, "8"^^xsd:integer, "Comparison of source selection time"
+<http://ceur-ws.org/figure/vol-1320-paper_7_fig9>, "9"^^xsd:integer, "Comparison of query execution time"

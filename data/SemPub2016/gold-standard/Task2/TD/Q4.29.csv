@@ -1,0 +1,5 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1514-paper6_sec1>, "1"^^xsd:integer, "INTRODUCTION & MOTIVATION"
+<http://ceur-ws.org/section/vol-1514-paper6_sec2>, "2"^^xsd:integer, "GENERAL IDEA"
+<http://ceur-ws.org/section/vol-1514-paper6_sec3>, "3"^^xsd:integer, "CONCLUSION & FUTURE WORK"
+<http://ceur-ws.org/section/vol-1514-paper6_sec4>, "4"^^xsd:integer, "REFERENCES"

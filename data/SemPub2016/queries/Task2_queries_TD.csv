@@ -1,0 +1,360 @@
+Q1.1, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1518/paper1.pdf, AffiliationEntry
+Q1.2, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1518/paper2.pdf, AffiliationEntry
+Q1.3, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1518/paper3.pdf, AffiliationEntry
+Q1.4, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1518/paper4.pdf, AffiliationEntry
+Q1.5, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1518/paper5.pdf, AffiliationEntry
+Q1.6, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1518/paper6.pdf, AffiliationEntry
+Q1.7, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1518/paper7.pdf, AffiliationEntry
+Q1.8, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1518/paper8.pdf, AffiliationEntry
+Q1.9, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1518/paper9.pdf, AffiliationEntry
+Q1.10, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1521/paper1.pdf, AffiliationEntry
+Q1.11, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1521/paper2.pdf, AffiliationEntry
+Q1.12, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1521/paper3.pdf, AffiliationEntry
+Q1.13, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1521/paper4.pdf, AffiliationEntry
+Q1.14, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1521/paper5.pdf, AffiliationEntry
+Q1.15, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1521/paper6.pdf, AffiliationEntry
+Q1.16, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1521/paper7.pdf, AffiliationEntry
+Q1.17, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1500/paper1.pdf, AffiliationEntry
+Q1.18, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1500/paper2.pdf, AffiliationEntry
+Q1.19, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1500/paper3.pdf, AffiliationEntry
+Q1.20, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1500/paper4.pdf, AffiliationEntry
+Q1.21, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1500/paper6.pdf, AffiliationEntry
+Q1.22, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1319/morse14_paper_07.pdf, AffiliationEntry
+Q1.23, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1317/om2014_Tpaper1.pdf, AffiliationEntry
+Q1.24, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1514/paper1.pdf, AffiliationEntry
+Q1.25, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1514/paper2.pdf, AffiliationEntry
+Q1.26, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1514/paper3.pdf, AffiliationEntry
+Q1.27, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1514/paper4.pdf, AffiliationEntry
+Q1.28, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1514/paper5.pdf, AffiliationEntry
+Q1.29, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1514/paper6.pdf, AffiliationEntry
+Q1.30, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1405/paper06.pdf, AffiliationEntry
+Q1.31, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1303/paper_3.pdf, AffiliationEntry
+Q1.32, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1001/paper2.pdf, AffiliationEntry
+Q1.33, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1006/paper5.pdf, AffiliationEntry
+Q1.34, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1504/uai2015aci_paper3.pdf, AffiliationEntry
+Q1.35, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1504/uai2015aci_abstract1.pdf, AffiliationEntry
+Q1.36, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1531/paper1.pdf, AffiliationEntry
+Q1.37, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1309/paper2.pdf, AffiliationEntry
+Q1.38, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1309/paper3.pdf, AffiliationEntry
+Q1.39, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1313/paper_8.pdf, AffiliationEntry
+Q1.40, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1315/paper9.pdf, AffiliationEntry
+Q1.41, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1315/paper13.pdf, AffiliationEntry
+Q1.42, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1320/paper_7.pdf, AffiliationEntry
+Q1.43, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1320/paper_12.pdf, AffiliationEntry
+Q1.44, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1320/paper_22.pdf, AffiliationEntry
+Q1.45, Identify the affiliations of the authors of the paper http://ceur-ws.org/Vol-1320/paper_31.pdf, AffiliationEntry
+Q2.1, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1518/paper1.pdf, CountryEntry
+Q2.2, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1518/paper2.pdf, CountryEntry
+Q2.3, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1518/paper3.pdf, CountryEntry
+Q2.4, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1518/paper4.pdf, CountryEntry
+Q2.5, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1518/paper5.pdf, CountryEntry
+Q2.6, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1518/paper6.pdf, CountryEntry
+Q2.7, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1518/paper7.pdf, CountryEntry
+Q2.8, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1518/paper8.pdf, CountryEntry
+Q2.9, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1518/paper9.pdf, CountryEntry
+Q2.10, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1521/paper1.pdf, CountryEntry
+Q2.11, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1521/paper2.pdf, CountryEntry
+Q2.12, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1521/paper3.pdf, CountryEntry
+Q2.13, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1521/paper4.pdf, CountryEntry
+Q2.14, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1521/paper5.pdf, CountryEntry
+Q2.15, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1521/paper6.pdf, CountryEntry
+Q2.16, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1521/paper7.pdf, CountryEntry
+Q2.17, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1500/paper1.pdf, CountryEntry
+Q2.18, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1500/paper2.pdf, CountryEntry
+Q2.19, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1500/paper3.pdf, CountryEntry
+Q2.20, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1500/paper4.pdf, CountryEntry
+Q2.21, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1500/paper6.pdf, CountryEntry
+Q2.22, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1319/morse14_paper_07.pdf, CountryEntry
+Q2.23, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1317/om2014_Tpaper1.pdf, CountryEntry
+Q2.24, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1514/paper1.pdf, CountryEntry
+Q2.25, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1514/paper2.pdf, CountryEntry
+Q2.26, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1514/paper3.pdf, CountryEntry
+Q2.27, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1514/paper4.pdf, CountryEntry
+Q2.28, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1514/paper5.pdf, CountryEntry
+Q2.29, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1514/paper6.pdf, CountryEntry
+Q2.30, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1405/paper06.pdf, CountryEntry
+Q2.31, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1303/paper_3.pdf, CountryEntry
+Q2.32, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1001/paper2.pdf, CountryEntry
+Q2.33, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1006/paper5.pdf, CountryEntry
+Q2.34, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1504/uai2015aci_paper3.pdf, CountryEntry
+Q2.35, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1504/uai2015aci_abstract1.pdf, CountryEntry
+Q2.36, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1531/paper1.pdf, CountryEntry
+Q2.37, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1309/paper2.pdf, CountryEntry
+Q2.38, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1309/paper3.pdf, CountryEntry
+Q2.39, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1313/paper_8.pdf, CountryEntry
+Q2.40, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1315/paper9.pdf, CountryEntry
+Q2.41, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1315/paper13.pdf, CountryEntry
+Q2.42, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1320/paper_7.pdf, CountryEntry
+Q2.43, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1320/paper_12.pdf, CountryEntry
+Q2.44, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1320/paper_22.pdf, CountryEntry
+Q2.45, Identify the countries of the affiliations of the authors in the paper http://ceur-ws.org/Vol-1320/paper_31.pdf, CountryEntry
+Q3.1, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1518/paper1.pdf, URLEntry
+Q3.2, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1518/paper2.pdf, URLEntry
+Q3.3, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1518/paper3.pdf, URLEntry
+Q3.4, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1518/paper4.pdf, URLEntry
+Q3.5, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1518/paper5.pdf, URLEntry
+Q3.6, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1518/paper6.pdf, URLEntry
+Q3.7, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1518/paper7.pdf, URLEntry
+Q3.8, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1518/paper8.pdf, URLEntry
+Q3.9, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1518/paper9.pdf, URLEntry
+Q3.10, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1521/paper1.pdf, URLEntry
+Q3.11, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1521/paper2.pdf, URLEntry
+Q3.12, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1521/paper3.pdf, URLEntry
+Q3.13, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1521/paper4.pdf, URLEntry
+Q3.14, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1521/paper5.pdf, URLEntry
+Q3.15, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1521/paper6.pdf, URLEntry
+Q3.16, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1521/paper7.pdf, URLEntry
+Q3.17, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1500/paper1.pdf, URLEntry
+Q3.18, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1500/paper2.pdf, URLEntry
+Q3.19, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1500/paper3.pdf, URLEntry
+Q3.20, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1500/paper4.pdf, URLEntry
+Q3.21, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1500/paper6.pdf, URLEntry
+Q3.22, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1319/morse14_paper_07.pdf, URLEntry
+Q3.23, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1317/om2014_Tpaper1.pdf, URLEntry
+Q3.24, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1514/paper1.pdf, URLEntry
+Q3.25, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1514/paper2.pdf, URLEntry
+Q3.26, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1514/paper3.pdf, URLEntry
+Q3.27, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1514/paper4.pdf, URLEntry
+Q3.28, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1514/paper5.pdf, URLEntry
+Q3.29, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1514/paper6.pdf, URLEntry
+Q3.30, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1405/paper06.pdf, URLEntry
+Q3.31, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1303/paper_3.pdf, URLEntry
+Q3.32, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1001/paper2.pdf, URLEntry
+Q3.33, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1006/paper5.pdf, URLEntry
+Q3.34, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1504/uai2015aci_paper3.pd, URLEntryf
+Q3.35, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1504/uai2015aci_abstract1.pdf, URLEntry
+Q3.36, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1531/paper1.pdf, URLEntry
+Q3.37, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1309/paper2.pdf, URLEntry
+Q3.38, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1309/paper3.pdf, URLEntry
+Q3.39, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1313/paper_8.pdf, URLEntry
+Q3.40, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1315/paper9.pdf, URLEntry
+Q3.41, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1315/paper13.pdf, URLEntry
+Q3.42, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1320/paper_7.pdf, URLEntry
+Q3.43, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1320/paper_12.pdf, URLEntry
+Q3.44, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1320/paper_22.pdf, URLEntry
+Q3.45, Identify the supplementary material(s) for the paper http://ceur-ws.org/Vol-1320/paper_31.pdf, URLEntry
+Q4.1, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1518/paper1.pdf, DocumentComponentEntry
+Q4.2, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1518/paper2.pdf, DocumentComponentEntry
+Q4.3, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1518/paper3.pdf, DocumentComponentEntry
+Q4.4, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1518/paper4.pdf, DocumentComponentEntry
+Q4.5, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1518/paper5.pdf, DocumentComponentEntry
+Q4.6, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1518/paper6.pdf, DocumentComponentEntry
+Q4.7, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1518/paper7.pdf, DocumentComponentEntry
+Q4.8, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1518/paper8.pdf, DocumentComponentEntry
+Q4.9, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1518/paper9.pdf, DocumentComponentEntry
+Q4.10, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1521/paper1.pdf, DocumentComponentEntry
+Q4.11, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1521/paper2.pdf, DocumentComponentEntry
+Q4.12, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1521/paper3.pdf, DocumentComponentEntry
+Q4.13, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1521/paper4.pdf, DocumentComponentEntry
+Q4.14, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1521/paper5.pdf, DocumentComponentEntry
+Q4.15, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1521/paper6.pdf, DocumentComponentEntry
+Q4.16, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1521/paper7.pdf, DocumentComponentEntry
+Q4.17, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1500/paper1.pdf, DocumentComponentEntry
+Q4.18, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1500/paper2.pdf, DocumentComponentEntry
+Q4.19, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1500/paper3.pdf, DocumentComponentEntry
+Q4.20, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1500/paper4.pdf, DocumentComponentEntry
+Q4.21, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1500/paper6.pdf, DocumentComponentEntry
+Q4.22, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1319/morse14_paper_07.pdf, DocumentComponentEntry
+Q4.23, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1317/om2014_Tpaper1.pdf, DocumentComponentEntry
+Q4.24, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1514/paper1.pdf, DocumentComponentEntry
+Q4.25, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1514/paper2.pdf, DocumentComponentEntry
+Q4.26, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1514/paper3.pdf, DocumentComponentEntry
+Q4.27, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1514/paper4.pdf, DocumentComponentEntry
+Q4.28, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1514/paper5.pdf, DocumentComponentEntry
+Q4.29, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1514/paper6.pdf, DocumentComponentEntry
+Q4.30, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1405/paper06.pdf, DocumentComponentEntry
+Q4.31, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1303/paper_3.pdf, DocumentComponentEntry
+Q4.32, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1001/paper2.pdf, DocumentComponentEntry
+Q4.33, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1006/paper5.pdf, DocumentComponentEntry
+Q4.34, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1504/uai2015aci_paper3.pdf, DocumentComponentEntry
+Q4.35, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1504/uai2015aci_abstract1.pdf, DocumentComponentEntry
+Q4.36, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1531/paper1.pdf, DocumentComponentEntry
+Q4.37, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1309/paper2.pdf, DocumentComponentEntry
+Q4.38, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1309/paper3.pdf, DocumentComponentEntry
+Q4.39, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1313/paper_8.pdf, DocumentComponentEntry
+Q4.40, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1315/paper9.pdf, DocumentComponentEntry
+Q4.41, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1315/paper13.pdf, DocumentComponentEntry
+Q4.42, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1320/paper_7.pdf, DocumentComponentEntry
+Q4.43, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1320/paper_12.pdf, DocumentComponentEntry
+Q4.44, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1320/paper_22.pdf, DocumentComponentEntry
+Q4.45, Identify the first-level sections of the paper http://ceur-ws.org/Vol-1320/paper_31.pdf, DocumentComponentEntry
+Q5.1, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1518/paper1.pdf, DocumentComponentEntry
+Q5.2, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1518/paper2.pdf, DocumentComponentEntry
+Q5.3, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1518/paper3.pdf, DocumentComponentEntry
+Q5.4, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1518/paper4.pdf, DocumentComponentEntry
+Q5.5, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1518/paper5.pdf, DocumentComponentEntry
+Q5.6, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1518/paper6.pdf, DocumentComponentEntry
+Q5.7, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1518/paper7.pdf, DocumentComponentEntry
+Q5.8, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1518/paper8.pdf, DocumentComponentEntry
+Q5.9, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1518/paper9.pdf, DocumentComponentEntry
+Q5.10, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1521/paper1.pdf, DocumentComponentEntry
+Q5.11, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1521/paper2.pdf, DocumentComponentEntry
+Q5.12, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1521/paper3.pdf, DocumentComponentEntry
+Q5.13, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1521/paper4.pdf, DocumentComponentEntry
+Q5.14, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1521/paper5.pdf, DocumentComponentEntry
+Q5.15, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1521/paper6.pdf, DocumentComponentEntry
+Q5.16, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1521/paper7.pdf, DocumentComponentEntry
+Q5.17, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1500/paper1.pdf, DocumentComponentEntry
+Q5.18, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1500/paper2.pdf, DocumentComponentEntry
+Q5.19, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1500/paper3.pdf, DocumentComponentEntry
+Q5.20, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1500/paper4.pdf, DocumentComponentEntry
+Q5.21, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1500/paper6.pdf, DocumentComponentEntry
+Q5.22, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1319/morse14_paper_07.pdf, DocumentComponentEntry
+Q5.23, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1317/om2014_Tpaper1.pdf, DocumentComponentEntry
+Q5.24, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1514/paper1.pdf, DocumentComponentEntry
+Q5.25, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1514/paper2.pdf, DocumentComponentEntry
+Q5.26, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1514/paper3.pdf, DocumentComponentEntry
+Q5.27, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1514/paper4.pdf, DocumentComponentEntry
+Q5.28, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1514/paper5.pdf, DocumentComponentEntry
+Q5.29, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1514/paper6.pdf, DocumentComponentEntry
+Q5.30, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1405/paper06.pdf, DocumentComponentEntry
+Q5.31, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1303/paper_3.pdf, DocumentComponentEntry
+Q5.32, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1001/paper2.pdf, DocumentComponentEntry
+Q5.33, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1006/paper5.pdf, DocumentComponentEntry
+Q5.34, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1504/uai2015aci_paper3.pdf, DocumentComponentEntry
+Q5.35, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1504/uai2015aci_abstract1.pdf, DocumentComponentEntry
+Q5.36, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1531/paper1.pdf, DocumentComponentEntry
+Q5.37, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1309/paper2.pdf, DocumentComponentEntry
+Q5.38, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1309/paper3.pdf, DocumentComponentEntry
+Q5.39, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1313/paper_8.pdf, DocumentComponentEntry
+Q5.40, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1315/paper9.pdf, DocumentComponentEntry
+Q5.41, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1315/paper13.pdf, DocumentComponentEntry
+Q5.42, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1320/paper_7.pdf, DocumentComponentEntry
+Q5.43, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1320/paper_12.pdf, DocumentComponentEntry
+Q5.44, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1320/paper_22.pdf, DocumentComponentEntry
+Q5.45, Identify the captions of the tables in the paper http://ceur-ws.org/Vol-1320/paper_31.pdf, DocumentComponentEntry
+Q6.1, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1518/paper1.pdf, DocumentComponentEntry
+Q6.2, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1518/paper2.pdf, DocumentComponentEntry
+Q6.3, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1518/paper3.pdf, DocumentComponentEntry
+Q6.4, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1518/paper4.pdf, DocumentComponentEntry
+Q6.5, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1518/paper5.pdf, DocumentComponentEntry
+Q6.6, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1518/paper6.pdf, DocumentComponentEntry
+Q6.7, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1518/paper7.pdf, DocumentComponentEntry
+Q6.8, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1518/paper8.pdf, DocumentComponentEntry
+Q6.9, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1518/paper9.pdf, DocumentComponentEntry
+Q6.10, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1521/paper1.pdf, DocumentComponentEntry
+Q6.11, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1521/paper2.pdf, DocumentComponentEntry
+Q6.12, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1521/paper3.pdf, DocumentComponentEntry
+Q6.13, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1521/paper4.pdf, DocumentComponentEntry
+Q6.14, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1521/paper5.pdf, DocumentComponentEntry
+Q6.15, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1521/paper6.pdf, DocumentComponentEntry
+Q6.16, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1521/paper7.pdf, DocumentComponentEntry
+Q6.17, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1500/paper1.pdf, DocumentComponentEntry
+Q6.18, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1500/paper2.pdf, DocumentComponentEntry
+Q6.19, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1500/paper3.pdf, DocumentComponentEntry
+Q6.20, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1500/paper4.pdf, DocumentComponentEntry
+Q6.21, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1500/paper6.pdf, DocumentComponentEntry
+Q6.22, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1319/morse14_paper_07.pdf, DocumentComponentEntry
+Q6.23, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1317/om2014_Tpaper1.pdf, DocumentComponentEntry
+Q6.24, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1514/paper1.pdf, DocumentComponentEntry
+Q6.25, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1514/paper2.pdf, DocumentComponentEntry
+Q6.26, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1514/paper3.pdf, DocumentComponentEntry
+Q6.27, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1514/paper4.pdf, DocumentComponentEntry
+Q6.28, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1514/paper5.pdf, DocumentComponentEntry
+Q6.29, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1514/paper6.pdf, DocumentComponentEntry
+Q6.30, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1405/paper06.pdf, DocumentComponentEntry
+Q6.31, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1303/paper_3.pdf, DocumentComponentEntry
+Q6.32, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1001/paper2.pdf, DocumentComponentEntry
+Q6.33, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1006/paper5.pdf, DocumentComponentEntry
+Q6.34, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1504/uai2015aci_paper3.pdf, DocumentComponentEntry
+Q6.35, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1504/uai2015aci_abstract1.pdf, DocumentComponentEntry
+Q6.36, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1531/paper1.pdf, DocumentComponentEntry
+Q6.37, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1309/paper2.pdf, DocumentComponentEntry
+Q6.38, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1309/paper3.pdf, DocumentComponentEntry
+Q6.39, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1313/paper_8.pdf, DocumentComponentEntry
+Q6.40, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1315/paper9.pdf, DocumentComponentEntry
+Q6.41, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1315/paper13.pdf, DocumentComponentEntry
+Q6.42, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1320/paper_7.pdf, DocumentComponentEntry
+Q6.43, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1320/paper_12.pdf, DocumentComponentEntry
+Q6.44, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1320/paper_22.pdf, DocumentComponentEntry
+Q6.45, Identify the captions of the figures in the paper http://ceur-ws.org/Vol-1320/paper_31.pdf, DocumentComponentEntry
+Q7.1, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper1.pdf (or part of it), FundingAgencyEntry
+Q7.2, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper2.pdf (or part of it), FundingAgencyEntry
+Q7.3, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper3.pdf (or part of it), FundingAgencyEntry
+Q7.4, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper4.pdf (or part of it), FundingAgencyEntry
+Q7.5, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper5.pdf (or part of it), FundingAgencyEntry
+Q7.6, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper6.pdf (or part of it), FundingAgencyEntry
+Q7.7, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper7.pdf (or part of it), FundingAgencyEntry
+Q7.8, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper8.pdf (or part of it), FundingAgencyEntry
+Q7.9, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper9.pdf (or part of it), FundingAgencyEntry
+Q7.10, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper1.pdf (or part of it), FundingAgencyEntry
+Q7.11, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper2.pdf (or part of it), FundingAgencyEntry
+Q7.12, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper3.pdf (or part of it), FundingAgencyEntry
+Q7.13, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper4.pdf (or part of it), FundingAgencyEntry
+Q7.14, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper5.pdf (or part of it), FundingAgencyEntry
+Q7.15, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper6.pdf (or part of it), FundingAgencyEntry
+Q7.16, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper7.pdf (or part of it), FundingAgencyEntry
+Q7.17, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1500/paper1.pdf (or part of it), FundingAgencyEntry
+Q7.18, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1500/paper2.pdf (or part of it), FundingAgencyEntry
+Q7.19, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1500/paper3.pdf (or part of it), FundingAgencyEntry
+Q7.20, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1500/paper4.pdf (or part of it), FundingAgencyEntry
+Q7.21, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1500/paper6.pdf (or part of it), FundingAgencyEntry
+Q7.22, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1319/morse14_paper_07.pdf (or part of it), FundingAgencyEntry
+Q7.23, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1317/om2014_Tpaper1.pdf (or part of it), FundingAgencyEntry
+Q7.24, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1514/paper1.pdf (or part of it), FundingAgencyEntry
+Q7.25, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1514/paper2.pdf (or part of it), FundingAgencyEntry
+Q7.26, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1514/paper3.pdf (or part of it), FundingAgencyEntry
+Q7.27, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1514/paper4.pdf (or part of it), FundingAgencyEntry
+Q7.28, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1514/paper5.pdf (or part of it), FundingAgencyEntry
+Q7.29, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1514/paper6.pdf (or part of it), FundingAgencyEntry
+Q7.30, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1405/paper06.pdf (or part of it), FundingAgencyEntry
+Q7.31, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1303/paper_3.pdf (or part of it), FundingAgencyEntry
+Q7.32, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1001/paper2.pdf (or part of it), FundingAgencyEntry
+Q7.33, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1006/paper5.pdf (or part of it), FundingAgencyEntry
+Q7.34, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1504/uai2015aci_paper3.pdf (or part of it), FundingAgencyEntry
+Q7.35, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1504/uai2015aci_abstract1.pdf (or part of it), FundingAgencyEntry
+Q7.36, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1531/paper1.pdf (or part of it), FundingAgencyEntry
+Q7.37, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1309/paper2.pdf (or part of it), FundingAgencyEntry
+Q7.38, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1309/paper3.pdf (or part of it), FundingAgencyEntry
+Q7.39, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1313/paper_8.pdf (or part of it), FundingAgencyEntry
+Q7.40, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1315/paper9.pdf (or part of it), FundingAgencyEntry
+Q7.41, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1315/paper13.pdf (or part of it), FundingAgencyEntry
+Q7.42, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1320/paper_7.pdf (or part of it), FundingAgencyEntry
+Q7.43, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1320/paper_12.pdf (or part of it), FundingAgencyEntry
+Q7.44, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1320/paper_22.pdf (or part of it), FundingAgencyEntry
+Q7.45, Identify the funding agencies that supported the research presented in the paper http://ceur-ws.org/Vol-1320/paper_31.pdf (or part of it), FundingAgencyEntry
+Q8.1, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper1.pdf (or part of it), ProjectEntry
+Q8.2, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper2.pdf (or part of it), ProjectEntry
+Q8.3, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper3.pdf (or part of it), ProjectEntry
+Q8.4, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper4.pdf (or part of it), ProjectEntry
+Q8.5, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper5.pdf (or part of it), ProjectEntry
+Q8.6, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper6.pdf (or part of it), ProjectEntry
+Q8.7, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper7.pdf (or part of it), ProjectEntry
+Q8.8, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper8.pdf (or part of it), ProjectEntry
+Q8.9, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1518/paper9.pdf (or part of it), ProjectEntry
+Q8.10, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper1.pdf (or part of it), ProjectEntry
+Q8.11, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper2.pdf (or part of it), ProjectEntry
+Q8.12, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper3.pdf (or part of it), ProjectEntry
+Q8.13, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper4.pdf (or part of it), ProjectEntry
+Q8.14, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper5.pdf (or part of it), ProjectEntry
+Q8.15, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper6.pdf (or part of it), ProjectEntry
+Q8.16, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1521/paper7.pdf (or part of it), ProjectEntry
+Q8.17, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1500/paper1.pdf (or part of it), ProjectEntry
+Q8.18, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1500/paper2.pdf (or part of it), ProjectEntry
+Q8.19, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1500/paper3.pdf (or part of it), ProjectEntry
+Q8.20, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1500/paper4.pdf (or part of it), ProjectEntry
+Q8.21, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1500/paper6.pdf (or part of it), ProjectEntry
+Q8.22, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1319/morse14_paper_07.pdf (or part of it), ProjectEntry
+Q8.23, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1317/om2014_Tpaper1.pdf (or part of it), ProjectEntry
+Q8.24, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1514/paper1.pdf (or part of it), ProjectEntry
+Q8.25, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1514/paper2.pdf (or part of it), ProjectEntry
+Q8.26, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1514/paper3.pdf (or part of it), ProjectEntry
+Q8.27, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1514/paper4.pdf (or part of it), ProjectEntry
+Q8.28, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1514/paper5.pdf (or part of it), ProjectEntry
+Q8.29, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1514/paper6.pdf (or part of it), ProjectEntry
+Q8.30, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1405/paper06.pdf (or part of it), ProjectEntry
+Q8.31, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1303/paper_3.pdf (or part of it), ProjectEntry
+Q8.32, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1001/paper2.pdf (or part of it), ProjectEntry
+Q8.33, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1006/paper5.pdf (or part of it), ProjectEntry
+Q8.34, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1504/uai2015aci_paper3.pdf (or part of it), ProjectEntry
+Q8.35, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1504/uai2015aci_abstract1.pdf (or part of it), ProjectEntry
+Q8.36, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1531/paper1.pdf (or part of it), ProjectEntry
+Q8.37, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1309/paper2.pdf (or part of it), ProjectEntry
+Q8.38, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1309/paper3.pdf (or part of it), ProjectEntry
+Q8.39, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1313/paper_8.pdf (or part of it), ProjectEntry
+Q8.40, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1315/paper9.pdf (or part of it), ProjectEntry
+Q8.41, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1315/paper13.pdf (or part of it), ProjectEntry
+Q8.42, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1320/paper_7.pdf (or part of it), ProjectEntry
+Q8.43, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1320/paper_12.pdf (or part of it), ProjectEntry
+Q8.44, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1320/paper_22.pdf (or part of it), ProjectEntry
+Q8.45, Identify the EU project(s) that supported the research presented in the paper http://ceur-ws.org/Vol-1320/paper_31.pdf (or part of it), ProjectEntry

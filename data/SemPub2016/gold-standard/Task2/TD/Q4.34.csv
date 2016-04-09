@@ -1,0 +1,9 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1504-uai2015aci_paper3_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1504-uai2015aci_paper3_sec2>, "2"^^xsd:integer, "LOCAL INDEPENDENCE GRAPHS"
+<http://ceur-ws.org/section/vol-1504-uai2015aci_paper3_sec3>, "3"^^xsd:integer, "CAUSAL VALIDITY"
+<http://ceur-ws.org/section/vol-1504-uai2015aci_paper3_sec4>, "4"^^xsd:integer, "IDENTIFICATION"
+<http://ceur-ws.org/section/vol-1504-uai2015aci_paper3_sec5>, "5"^^xsd:integer, "DISCUSSION"
+<http://ceur-ws.org/section/vol-1504-uai2015aci_paper3_sec6>, "6"^^xsd:integer, "APPENDIX"
+<http://ceur-ws.org/section/vol-1504-uai2015aci_paper3_sec7>, "7"^^xsd:integer, "Acknowledgement"
+<http://ceur-ws.org/section/vol-1504-uai2015aci_paper3_sec8>, "8"^^xsd:integer, "References"

@@ -1,0 +1,7 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1006-paper5_fig1>, "1"^^xsd:integer, "BMI Cube with BM Diagram as 2D representation"
+<http://ceur-ws.org/figure/vol-1006-paper5_fig2>, "2"^^xsd:integer, "VDML Role Collaboration Diagram, with Customer highlighted"
+<http://ceur-ws.org/figure/vol-1006-paper5_fig3>, "3"^^xsd:integer, "VDML Value proposition diagram with a proposition highlighted"
+<http://ceur-ws.org/figure/vol-1006-paper5_fig4>, "4"^^xsd:integer, "VDML Activity Network Diagram, with an Activity highlighted"
+<http://ceur-ws.org/figure/vol-1006-paper5_fig5>, "5"^^xsd:integer, "VDML Capability Management Diagram, with a Capability Offer highlighted"
+<http://ceur-ws.org/figure/vol-1006-paper5_fig6>, "6"^^xsd:integer, "VDML Measurement Dependency Diagram, with Value Margin highlighted"

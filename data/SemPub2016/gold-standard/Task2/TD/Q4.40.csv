@@ -1,0 +1,9 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1315-paper9_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1315-paper9_sec2>, "2"^^xsd:integer, "Image schema"
+<http://ceur-ws.org/section/vol-1315-paper9_sec3>, "3"^^xsd:integer, "Conceptual blending"
+<http://ceur-ws.org/section/vol-1315-paper9_sec4>, "4"^^xsd:integer, "Formalising conceptual blending"
+<http://ceur-ws.org/section/vol-1315-paper9_sec5>, "5"^^xsd:integer, "Blending with image schemas"
+<http://ceur-ws.org/section/vol-1315-paper9_sec6>, "6"^^xsd:integer, "Outlook"
+<http://ceur-ws.org/section/vol-1315-paper9_sec7>, "7"^^xsd:integer, "Acknowledgments."
+<http://ceur-ws.org/section/vol-1315-paper9_sec8>, "8"^^xsd:integer, "References"

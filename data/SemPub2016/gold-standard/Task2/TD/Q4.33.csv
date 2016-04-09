@@ -1,0 +1,7 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1006-paper5_sec1>, "1"^^xsd:integer, "Introduction and Motivations"
+<http://ceur-ws.org/section/vol-1006-paper5_sec2>, "2"^^xsd:integer, "NEFFICS platform support for Business Model Innovation"
+<http://ceur-ws.org/section/vol-1006-paper5_sec3>, "3"^^xsd:integer, "Business Model Innovation with VDML"
+<http://ceur-ws.org/section/vol-1006-paper5_sec4>, "4"^^xsd:integer, "Business Model views with VDML diagrams"
+<http://ceur-ws.org/section/vol-1006-paper5_sec5>, "5"^^xsd:integer, "Conclusion and future work"
+<http://ceur-ws.org/section/vol-1006-paper5_sec6>, "6"^^xsd:integer, "References"

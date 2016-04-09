@@ -1,0 +1,5 @@
+country-iri, country-fullname
+<http://ceur-ws.org/country/germany>, "Germany"
+<http://ceur-ws.org/country/france>, "France"
+<http://ceur-ws.org/country/belgium>, "Belgium"
+<http://ceur-ws.org/country/switzerland>, "Switzerland"

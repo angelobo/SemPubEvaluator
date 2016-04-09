@@ -1,0 +1,10 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1518-paper3_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1518-paper3_sec2>, "2"^^xsd:integer, "RELATED WORK"
+<http://ceur-ws.org/section/vol-1518-paper3_sec3>, "3"^^xsd:integer, "HIGHER-ORDER CO-OCCURRENCE CLUSTERING OF TAGS"
+<http://ceur-ws.org/section/vol-1518-paper3_sec4>, "4"^^xsd:integer, "THE MACE DATA SET"
+<http://ceur-ws.org/section/vol-1518-paper3_sec5>, "5"^^xsd:integer, "VISUALISATION"
+<http://ceur-ws.org/section/vol-1518-paper3_sec6>, "6"^^xsd:integer, "DISCUSSION"
+<http://ceur-ws.org/section/vol-1518-paper3_sec7>, "7"^^xsd:integer, "CONCLUSION AND FUTURE WORK"
+<http://ceur-ws.org/section/vol-1518-paper3_sec8>, "8"^^xsd:integer, "ACKNOWLEDGMENTS"
+<http://ceur-ws.org/section/vol-1518-paper3_sec9>, "9"^^xsd:integer, "REFERENCES"

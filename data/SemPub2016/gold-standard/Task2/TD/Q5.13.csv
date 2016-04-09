@@ -1,0 +1,5 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1521-paper4_tab1>, "1"^^xsd:integer, "Activity dataset － Overview: Description of the individual activities (classes), body position, device context, number of instances (samples) for each activity/class."
+<http://ceur-ws.org/table/vol-1521-paper4_tab2>, "2"^^xsd:integer, "Overview on the features generated using the collected sensor data."
+<http://ceur-ws.org/table/vol-1521-paper4_tab3>, "3"^^xsd:integer, "Baseline results using C4.5 (J48) and Ripper (JRip)."
+<http://ceur-ws.org/table/vol-1521-paper4_tab4>, "4"^^xsd:integer, "Evaluation results: The table shows accuracy and complexity of Carma depending on different choices of k, the rule selection techniques CBA and CBA*, and the following rule combination strategies: UnweightedVote (unweighted voting), LaplaceVote (voting using laplacian weights), BestLaplace (best rule using Laplace value), and BestConfidence (best rule according to rule confidence), cf. Section 3 for a detailed discussion."

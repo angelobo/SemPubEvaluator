@@ -1,0 +1,7 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1514-paper4_tab1>, "1"^^xsd:integer, "A sample signature Σ"
+<http://ceur-ws.org/table/vol-1514-paper4_tab2>, "2"^^xsd:integer, "GCs applied to instances of the civil status model"
+<http://ceur-ws.org/table/vol-1514-paper4_tab3>, "3"^^xsd:integer, "Correspondence between DPF Models and Alloy Specifications"
+<http://ceur-ws.org/table/vol-1514-paper4_tab4>, "4"^^xsd:integer, "Forbidden Patterns examples"
+<http://ceur-ws.org/table/vol-1514-paper4_tab5>, "5"^^xsd:integer, "Experiment Result For Consistent Model"
+<http://ceur-ws.org/table/vol-1514-paper4_tab6>, "6"^^xsd:integer, "Experiment Result For Inconsistent Model"

@@ -1,0 +1,8 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1518-paper8_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1518-paper8_sec2>, "2"^^xsd:integer, "The LAK Explorer Components"
+<http://ceur-ws.org/section/vol-1518-paper8_sec3>, "3"^^xsd:integer, "BENEFITS OF LAK EXPLORER"
+<http://ceur-ws.org/section/vol-1518-paper8_sec4>, "4"^^xsd:integer, "FUTURE FEATURES"
+<http://ceur-ws.org/section/vol-1518-paper8_sec5>, "5"^^xsd:integer, "SIMILAR INITIATIVES"
+<http://ceur-ws.org/section/vol-1518-paper8_sec6>, "6"^^xsd:integer, "ACKNOWLEDGMENTS"
+<http://ceur-ws.org/section/vol-1518-paper8_sec7>, "7"^^xsd:integer, "REFERENCES"

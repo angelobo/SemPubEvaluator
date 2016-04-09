@@ -1,0 +1,9 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1500-paper1_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1500-paper1_sec2>, "2"^^xsd:integer, "The UML-RT-to-Kiltera Model Transformation: Problem Description"
+<http://ceur-ws.org/section/vol-1500-paper1_sec3>, "3"^^xsd:integer, "Background"
+<http://ceur-ws.org/section/vol-1500-paper1_sec4>, "4"^^xsd:integer, "Testing and Verification of the UML-RT-to-Kiltera Model Transformation"
+<http://ceur-ws.org/section/vol-1500-paper1_sec5>, "5"^^xsd:integer, "Observations"
+<http://ceur-ws.org/section/vol-1500-paper1_sec6>, "6"^^xsd:integer, "Related Work"
+<http://ceur-ws.org/section/vol-1500-paper1_sec7>, "7"^^xsd:integer, "Conclusion and Future Work"
+<http://ceur-ws.org/section/vol-1500-paper1_sec8>, "8"^^xsd:integer, "References"

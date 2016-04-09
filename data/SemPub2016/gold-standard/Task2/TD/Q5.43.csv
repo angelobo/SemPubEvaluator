@@ -1,0 +1,6 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1320-paper_12_tab1>, "1"^^xsd:integer, "Excerpt of a discharge summary from the MIMIC-II database."
+<http://ceur-ws.org/table/vol-1320-paper_12_tab2>, "2"^^xsd:integer, "Keywords for document in Table 1 using topic modeling and TextRank. Topic1 and Topic2 represent the primary and secondary topics, respectively. Matching keywords using different methods are marked in bold."
+<http://ceur-ws.org/table/vol-1320-paper_12_tab3>, "3"^^xsd:integer, "Topics, keywords, and recommended terminologies using topic modeling."
+<http://ceur-ws.org/table/vol-1320-paper_12_tab4>, "4"^^xsd:integer, "Topics and associated weights. Maximum and minimum scores are in bold."
+<http://ceur-ws.org/table/vol-1320-paper_12_tab5>, "5"^^xsd:integer, "Recommended terminologies and associated scores for the sample."

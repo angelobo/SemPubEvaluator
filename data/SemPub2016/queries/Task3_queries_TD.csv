@@ -1,48 +1,48 @@
-Q3.1a, Same person - Multiple URIs for Ruben Verborgh , URLEntry
-Q3.1b, Same person - Multiple URIs for Olaf Hartig , URLEntry
-Q3.1c, Same person - Multiple URIs for Yolanda Gil , URLEntry
-Q3.1d, Same person - Multiple URIs for Valentina Presutti , URLEntry
-Q3.1e, Same person - Multiple URIs for Jérôme Euzenat , URLEntry
+Q1.1, Same person - Multiple URIs for Ruben Verborgh , URLEntry
+Q1.2, Same person - Multiple URIs for Olaf Hartig , URLEntry
+Q1.3, Same person - Multiple URIs for Yolanda Gil , URLEntry
+Q1.4, Same person - Multiple URIs for Valentina Presutti , URLEntry
+Q1.5, Same person - Multiple URIs for Jérôme Euzenat , URLEntry
 
-Q3.2a, Same conference ISWC 2013 - Multiple URIs , URLEntry
-Q3.2b, Same conference ISWC 2011 - Multiple URIs , URLEntry
-Q3.2c, Same conference EIS - Multiple URIs , URLEntry
-Q3.2d, Same conference RecSys 2012 - Multiple URIs , URLEntry
-Q3.2e, Same conference - Multiple URIs , URLEntry
+Q2.1, Same conference ISWC 2013 - Multiple URIs , URLEntry
+Q2.2, Same conference ISWC 2011 - Multiple URIs , URLEntry
+Q2.3, Same conference EIS - Multiple URIs , URLEntry
+Q2.4, Same conference RecSys 2012 - Multiple URIs , URLEntry
+Q2.5, Same conference - Multiple URIs , URLEntry
 
-Q3.3a, Same cited paper  Weaving the Open Linked Data - Multiple URIs , URLEntry
-Q3.3b, Same cited paper Managing uncertainty and vagueness in description logics for the Semantic Web - Multiple URIs , URLEntry
-Q3.3c, Same cited paper The semantic web revisited - Multiple URIs , URLEntry
-Q3.3d, Same cited paper Data Summaries for On-Demand Queries over Linked Data - Multiple URIs , URLEntry
-Q3.3e, Same cited paper Managing co-reference on the semantic web - Multiple URIs , URLEntry
+Q3.1, Same cited paper  Weaving the Open Linked Data - Multiple URIs , URLEntry
+Q3.2, Same cited paper Managing uncertainty and vagueness in description logics for the Semantic Web - Multiple URIs , URLEntry
+Q3.3, Same cited paper The semantic web revisited - Multiple URIs , URLEntry
+Q3.4, Same cited paper Data Summaries for On-Demand Queries over Linked Data - Multiple URIs , URLEntry
+Q3.5, Same cited paper Managing co-reference on the semantic web - Multiple URIs , URLEntry
 
-Q3.4a, Same people - Different URIs in CEUR-WS subsets for Ruben Verborgh , FirstTwoColumnsEqual
-Q3.4b, Same people - Different URIs in CEUR-WS subsets for Olaf Hartig , FirstTwoColumnsEqual
-Q3.4c, Same people - Different URIs in CEUR-WS subsets for Yolanda Gil , FirstTwoColumnsEqual
-Q3.4d, Same people - Different URIs in CEUR-WS subsets for Valentina Presutti , FirstTwoColumnsEqual
-Q3.4e, Same people - Different URIs in CEUR-WS subsets for Jérôme Euzenat , FirstTwoColumnsEqual
+Q4.1, Same people - Different URIs in CEUR-WS subsets for Ruben Verborgh , FirstTwoColumnsEqual
+Q4.2, Same people - Different URIs in CEUR-WS subsets for Olaf Hartig , FirstTwoColumnsEqual
+Q4.3, Same people - Different URIs in CEUR-WS subsets for Yolanda Gil , FirstTwoColumnsEqual
+Q4.4, Same people - Different URIs in CEUR-WS subsets for Valentina Presutti , FirstTwoColumnsEqual
+Q4.5, Same people - Different URIs in CEUR-WS subsets for Jérôme Euzenat , FirstTwoColumnsEqual
 
-Q3.5a, Same workshops in the CEUR-WS and Colinda datasets for the Consuming Linked Data 2010, FirstTwoColumnsEqual
-Q3.5b, Same workshops in the CEUR-WS and Colinda datasets for the Workshop on Linked Data On the Web 2012 , FirstTwoColumnsEqual
-Q3.5c, Same workshops in the CEUR-WS and Colinda datasets for the 3rd International Workshop on Ontology Matching , FirstTwoColumnsEqual
-Q3.5d, Same workshops in the CEUR-WS and Colinda datasets for the Workshop on Ontology Patterns (WOP 2009) , FirstTwoColumnsEqual
-Q3.5e, Same workshops in the CEUR-WS and Colinda datasets for the Sixth International Conference on Concept Lattices and Their Applications , FirstTwoColumnsEqual
+Q5.1, Same workshops in the CEUR-WS and Colinda datasets for the Consuming Linked Data 2010, FirstTwoColumnsEqual
+Q5.2, Same workshops in the CEUR-WS and Colinda datasets for the Workshop on Linked Data On the Web 2012 , FirstTwoColumnsEqual
+Q5.3, Same workshops in the CEUR-WS and Colinda datasets for the 3rd International Workshop on Ontology Matching , FirstTwoColumnsEqual
+Q5.4, Same workshops in the CEUR-WS and Colinda datasets for the Workshop on Ontology Patterns (WOP 2009) , FirstTwoColumnsEqual
+Q5.5, Same workshops in the CEUR-WS and Colinda datasets for the Sixth International Conference on Concept Lattices and Their Applications , FirstTwoColumnsEqual
 
-Q3.6a, Same workshops in the CEUR-WS and DBLP datasets for the Consuming Linked Data 2010, FirstTwoColumnsEqual
-Q3.6b, Same workshops in the CEUR-WS and DBLP datasets for the Workshop on Linked Data On the Web 2010, FirstTwoColumnsEqual
-Q3.6c, Same workshops in the CEUR-WS and DBLP datasets for the 3rd International Workshop on Ontology Matching , FirstTwoColumnsEqual
-Q3.6d, Same workshops in the CEUR-WS and DBLP datasets for the Workshop on Ontology Patterns (WOP 2009) , FirstTwoColumnsEqual
-Q3.6e, Same workshops in the CEUR-WS and DBLP datasets for The Ninth International Conference on Concept Lattices and Their Applications , FirstTwoColumnsEqual
+Q6.1, Same workshops in the CEUR-WS and DBLP datasets for the Consuming Linked Data 2010, FirstTwoColumnsEqual
+Q6.2, Same workshops in the CEUR-WS and DBLP datasets for the Workshop on Linked Data On the Web 2010, FirstTwoColumnsEqual
+Q6.3, Same workshops in the CEUR-WS and DBLP datasets for the 3rd International Workshop on Ontology Matching , FirstTwoColumnsEqual
+Q6.4, Same workshops in the CEUR-WS and DBLP datasets for the Workshop on Ontology Patterns (WOP 2009) , FirstTwoColumnsEqual
+Q6.5, Same workshops in the CEUR-WS and DBLP datasets for The Ninth International Conference on Concept Lattices and Their Applications , FirstTwoColumnsEqual
 
-Q3.7a, Same people in the CEUR-WS and DBLP datasets for Ruben Verborgh , FirstTwoColumnsEqual
-Q3.7b, Same people in the CEUR-WS and DBLP datasets for Olaf Hartig , FirstTwoColumnsEqual
-Q3.7c, Same people in the CEUR-WS and DBLP datasets for Yolanda Gil, FirstTwoColumnsEqual
-Q3.7d, Same people in the CEUR-WS and DBLP datasets for valentina Presutti, FirstTwoColumnsEqual
-Q3.7e, Same people in the CEUR-WS and DBLP datasets for Jérôme Euzenat , FirstTwoColumnsEqual
+Q7.1, Same people in the CEUR-WS and DBLP datasets for Ruben Verborgh , FirstTwoColumnsEqual
+Q7.2, Same people in the CEUR-WS and DBLP datasets for Olaf Hartig , FirstTwoColumnsEqual
+Q7.3, Same people in the CEUR-WS and DBLP datasets for Yolanda Gil, FirstTwoColumnsEqual
+Q7.4, Same people in the CEUR-WS and DBLP datasets for valentina Presutti, FirstTwoColumnsEqual
+Q7.5, Same people in the CEUR-WS and DBLP datasets for Jérôme Euzenat , FirstTwoColumnsEqual
 
-Q3.8a, Cited papers in CEUR dataset presented at conferences of Springer dataset , FirstTwoColumnsEqual
-Q3.8b, Cited papers in CEUR dataset presented at conferences of Springer dataset , FirstTwoColumnsEqual
-Q3.8c, Cited papers in CEUR dataset presented at conferences of Springer dataset , FirstTwoColumnsEqual
-Q3.8d, Cited papers in CEUR dataset presented at conferences of Springer dataset , FirstTwoColumnsEqual
-Q3.8e, Cited papers in CEUR dataset presented at conferences of Springer dataset , FirstTwoColumnsEqual
+Q8.1, Cited papers in CEUR dataset presented at conferences of Springer dataset , FirstTwoColumnsEqual
+Q8.2, Cited papers in CEUR dataset presented at conferences of Springer dataset , FirstTwoColumnsEqual
+Q8.3, Cited papers in CEUR dataset presented at conferences of Springer dataset , FirstTwoColumnsEqual
+Q8.4, Cited papers in CEUR dataset presented at conferences of Springer dataset , FirstTwoColumnsEqual
+Q8.5, Cited papers in CEUR dataset presented at conferences of Springer dataset , FirstTwoColumnsEqual
 

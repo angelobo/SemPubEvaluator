@@ -4,6 +4,7 @@ function buildZIPfromCSVDirectory($zipOutputFile, $csvDirFullpath){
 
 $zip = new ZipArchive();
 
+// TODO: Handle errors in zipping files
 if($zip->open($zipOutputFile, ZIPARCHIVE::CREATE) !== TRUE)
 	return false;
 
@@ -17,7 +18,7 @@ while (false !== ($filename = readdir($dh))) {
 		}
 }
 
-// TODO: Handle errors in zipping files
+
 $zip->close();
 
 return true;

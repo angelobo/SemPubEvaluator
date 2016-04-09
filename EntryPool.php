@@ -80,7 +80,7 @@ class EntryPool {
 			
 			$csvContent = array_map('str_getcsv', file($queryResultGivenFilePath));
 	
-			//TODO: control CSV header
+			//TODO: control CSV header and Check if are missing. Now it assumes headers exist.
 			$this->setColumnLabels($csvContent[0]);
 	
 			// Skip header

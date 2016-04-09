@@ -158,8 +158,7 @@ class Result {
 		
 		$previousButton = ""; //TODO: previous query button
 		$topButton = "<span class='back-button'><a href='index.html'>[top]</a><span>";
-		//TODO: fix hard-coded ".evaluation.html" substring
-		$nextButton = "<span class='back-button'><a href='$nextQueryID.evaluation.html'>[&gt;&gt; $nextQueryID]</a><span>";
+		$nextButton = "<span class='back-button'><a href='$nextQueryID.".EVALUATION_QUERY_REPORT_SUFFIX."'>[&gt;&gt; $nextQueryID]</a><span>";
 		
 		if ($nextQueryNumber > TOTALQUERIES)
 			$nextButton = "";

@@ -13,6 +13,8 @@ define("RESOURCES_SUBDIR","resources");
 define("CSS_FILENAME","style.css");
 define("INFO_FILENAME","info.html");
 define("INDEX_OUTPUT_FILENAME","index.html");
+define("EVALUATION_QUERY_REPORT_SUFFIX","evaluation.html");
+
 
 define("ZIP_GOLD_STANDARD","gold-standard.zip");
 define("ZIP_UNDER_EVALUATION","under-evaluation.zip");
@@ -125,7 +127,6 @@ $htmlFormatter = new HTMLRawFormatter();
 $resultAll = new ResultPool();
 $resultAll->setEvaluationLevel($evaluationLevel);
 
-//TODO: Check what to do when output is expected to be empty. CSV should be in the goldstandard anyway (make it run for 2016 Task3)
 for ($i = 0; $i < count($csvQueriesContent); $i++) {
 
 	// Skip empty lines in query file
@@ -133,7 +134,7 @@ for ($i = 0; $i < count($csvQueriesContent); $i++) {
 		{
 		$queryID = $csvQueriesContent[$i][0];
 		$queryNaturalLanguage = $csvQueriesContent[$i][1];
-		$queryDetailsHTMLfilename = $outputDir."/".$queryID.".evaluation.html";
+		$queryDetailsHTMLfilename = $outputDir."/".$queryID.EVALUATION_QUERY_REPORT_SUFFIX;
 		
 		$queryEntryType = trim($csvQueriesContent[$i][2]);
 		
@@ -149,7 +150,6 @@ for ($i = 0; $i < count($csvQueriesContent); $i++) {
 		$underEvaluation = new EntryPool($queryEntryType);
 		$underEvaluation->loadEntriesFromCSVFile($queryResultGivenFilePath, $queryEntryType);
 		
-		// TODO: Check if header are missing
 		$expectedOutput = new EntryPool($queryEntryType);
 		$expectedOutput->loadEntriesFromCSVFile($queryResultExpectedFilePath, $queryEntryType);
 		

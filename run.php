@@ -17,7 +17,6 @@ define("INDEX_OUTPUT_FILENAME","index.html");
 /*
  * Load Entry Classes
 */
-// TODO: Check __DIR__ (What if I run the script from another directory?)
 $entryClassesDir = __DIR__."/EntryClasses/";
 $dh = opendir($entryClassesDir);
 
@@ -58,12 +57,16 @@ if (!file_exists($inputDirGoldStandard))
 if (!file_exists($inputDirUnderEvaluation))
 	die("\nERROR: Directory under evaluation missing or corrupted.\n$commandLineInfo\n");
 
-if (!file_exists($outputDir))
-	die("\nOutput directory error: missing or corrupted.\n$commandLineInfo\n");
+if (!is_writable($outputDir))
+	die("\nOutput directory error: missing, corrupted or not writable.\n$commandLineInfo\n");
+
+
+if ($outputDir[strlen($outputDir) - 1] != "/")
+	$outputDir = $outputDir. "/";
 
 $globalResultHTMLfilename = $outputDir.INDEX_OUTPUT_FILENAME;
 
-//TODO: normalize end-slash in $outputDir
+
 echo "\nQuery configuration file: ".$queryCSVFilePath;
 echo "\n\nGold Standard directory: ".$inputDirGoldStandard;
 echo "\nDirectory under evaluation: ".$inputDirUnderEvaluation;
@@ -87,16 +90,13 @@ else
 	echo "\nResources copied. ";
 
 
-$zipGoldStandard = __DIR__."/".$outputDir."gold-standard.zip";
-$zipUnderEvaluation = __DIR__."/".$outputDir."under-evaluation.zip";
+$zipGoldStandard = $outputDir."gold-standard.zip";
+$zipUnderEvaluation = $outputDir."under-evaluation.zip";
 
-
-//TODO: change GivenOutput --> UnderEvaluation
-buildZIPfromCSVDirectory($zipGoldStandard, __DIR__."/".$inputDirGoldStandard);
-buildZIPfromCSVDirectory($zipUnderEvaluation, __DIR__."/".$inputDirUnderEvaluation);
+buildZIPfromCSVDirectory($zipGoldStandard, $inputDirGoldStandard);
+buildZIPfromCSVDirectory($zipUnderEvaluation, $inputDirUnderEvaluation);
 
 echo "ZIP files created.\n\n";
-
 
 
 //TODO: handle loose/strict evaluation
@@ -116,7 +116,7 @@ $htmlFormatter = new HTMLRawFormatter();
 $resultAll = new ResultPool();
 $resultAll->setEvaluationLevel($evaluationLevel);
 
-
+//TODO: Check what to do when output is expected to be empty. CSV should be in the goldstandard anyway (make it run for 2016 Task3)
 for ($i = 0; $i < count($csvQueriesContent); $i++) {
 
 	// Skip empty lines in query file
@@ -137,8 +137,8 @@ for ($i = 0; $i < count($csvQueriesContent); $i++) {
 		$queryResultExpectedFilePath = $inputDirGoldStandard."/".$queryID.".csv";
 		$queryResultGivenFilePath = $inputDirUnderEvaluation."/".$queryID.".csv";
 	
-		$givenOutput = new EntryPool($queryEntryType);
-		$givenOutput->loadEntriesFromCSVFile($queryResultGivenFilePath, $queryEntryType);
+		$underEvaluation = new EntryPool($queryEntryType);
+		$underEvaluation->loadEntriesFromCSVFile($queryResultGivenFilePath, $queryEntryType);
 		
 		// TODO: Check if header are missing
 		$expectedOutput = new EntryPool($queryEntryType);
@@ -146,7 +146,7 @@ for ($i = 0; $i < count($csvQueriesContent); $i++) {
 		
 		$resultCalculator = new ResultCalculator();
 		
-		$result = $resultCalculator->compare($expectedOutput, $givenOutput, $evaluationLevel);
+		$result = $resultCalculator->compare($expectedOutput, $underEvaluation, $evaluationLevel);
 		$result->setEvaluationLevel($evaluationLevel);
 		$result->setLabel($queryID);
 		$result->setDescription($queryNaturalLanguage);
@@ -170,8 +170,6 @@ $globalResultHTMLContent = $htmlFormatter->renderIntroductionAsHTML($evaluationL
 
 $globalResultHTML = $htmlFormatter->buildHTML($globalResultHTMLContent);
 
-// TODO: Check if file(s) exist
-// TODO: Check if directory is writable
 $htmlFileHandler = fopen($globalResultHTMLfilename,"w");
 fwrite($htmlFileHandler, $globalResultHTML);
 fclose($htmlFileHandler);

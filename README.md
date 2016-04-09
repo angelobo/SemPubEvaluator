@@ -32,6 +32,15 @@ Run the script ``run.php`` as follows:
 
     run.php <queries.csv> <gold-standard-dirpath> <input-dirpath> <output-dirpath> [-sub=<submission-number>] [-task=<task-number>]
 
+Parameters are:
+
+1.  queries.csv: list of queries being evaluated
+2.  gold-standard-dirpath: directory with the gold standard files
+3.  input-dirpath: directory with the CSV files being evaluated
+4.  output-dirpath: output directory (will be overwritten)
+5.  (optional) submission number (shown in the final report)
+5.  (optional) task number (shown in the final report)
+
 For instance, to run the test for the Task 3 Training Dataset:
 
     run.php queries/SemPub2016/Task3_queries_TD.csv gold-standard/SemPub2016/Task3/TD/ mySubmission/ output/
@@ -44,11 +53,4 @@ To run the evaluation on the Task 2 Training Dataset use:
     run.php queries/SemPub2016/Task2_queries_TD.csv gold-standard/SemPub2016/Task2/TD/ mySubmission/ output/
 
 
-Parameters are:
 
-1.  queries.csv: list of queries being evaluated
-2.  gold-standard-dirpath: directory with the gold standard files
-3.  input-dirpath: directory with the CSV files being evaluated
-4.  output-dirpath: output directory (will be overwritten)
-5.  (optional) submission number (shown in the final report)
-5.  (optional) task number (shown in the final report)

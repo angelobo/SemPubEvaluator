@@ -56,12 +56,13 @@ class Result {
 		
 		$sum = $numberOfTruePositives + $this->getFalsePositives();
 	
-		if ($sum == 0)
-			$precision = "n.a.";
+		if (($sum == 0) && ($this->getFalseNegatives() == 0)) //if the output is expected to be empty and there is no false negative ==> precision is set to 1
+			$precision = 1;
+		elseif ($sum == 0)
+			$precision = 0; 
 		else
 			$precision = $numberOfTruePositives / $sum;
 
-		// TODO: handle "n.a."
 		return round($precision,3) ;
 	}
 	
@@ -70,12 +71,15 @@ class Result {
 		$numberOfTruePositives = $this->getTruePositives();
 		
 		$sum = $numberOfTruePositives + $this->getFalseNegatives();
-		if ($sum == 0)
-			$recall = "n.a.";
+		
+		
+		if (($sum == 0) && ($this->getFalsePositives() == 0)) //if the output is expected to be empty and there is no false positive ==> recall is set to 1
+			$recall = 1;
+		elseif ($sum == 0)
+			$recall = 0;
 		else
 			$recall = $numberOfTruePositives / $sum;
 
-		// TODO: handle "n.a."
 		return round($recall,3);
 	}
 	
@@ -139,9 +143,10 @@ class Result {
 		$nextSubNumber = $qSubNumber + 1;
 		
 
+		// TODO: Total number of queries must not be hard-coded
 		//TODO: add constant total number of queries (-1, index in the array)
 		define("TOTALQUERIES", 8);
-		define("TOTALPERQUERY", 36);
+		define("TOTALPERQUERY", 45);
 		
 		if ($qSubNumber == TOTALPERQUERY)
 			{

@@ -12,22 +12,18 @@ The tool compares pairs of corresponding CSV files, with the same name, from the
 For each type of entry (es. article, funding agency, grant, ontology, etc.) specific comparison strategies are implemented (in the ``matchesEntry`` method of the corresponding ``Entry`` class).
 The evaluation is implemented so as to take minor differences into account and to normalize data.
  
-## Queries Description
+## Queries Description and Gold standard
 
 The list of queries to evaluate and the classes implementing the evaluation are specified in a configuration file passed as input.
 
 The queries used for the Semantic Publishing Challenge 2015 are in the folder ``queries/queries-SemPub2015/``.
 
 The queries used for the Semantic Publishing Challenge 2016 are in the folder ``queries/queries-SemPub2016/``.
-The queries used for Task 1 are in the file ``queries/SemPub2016/Task1_TD.csv``.
-The queries used for Task 2 are in the file ``queries/SemPub2016/Task2_TD.csv``.
-The queries used for Task 3 are in the file ``queries/SemPub2016/Task3_TD.csv``.
 
-## Gold Standard
 
 The directory ``gold-standard/`` contains the gold standard used for the training phase and the evaluation (when available).
 
-The gold standard used for the training phase in Semantic Publishing Challenge 2016 are in the folders: ``gold-standard/2016/TD/Task2/``, ``gold-standard/2016/TD/Task2/`` and ``gold-standard/2016/TD/Task3/``.
+The gold standard used for the training phase in Semantic Publishing Challenge 2016 are in the folder: ``gold-standard/2016/TD/`` (one folder for each task).
 
 ## How to run the evaluation
  
@@ -36,6 +32,7 @@ Run the script ``run.php`` as follows:
     run.php <queries.csv> <gold-standard-dirpath> <input-dirpath> <output-dirpath> [-sub=<submission-number>] [-task=<task-number>]
 
 For instance,
+
     run.php queries/SemPub2016/Task3_queries_TD.csv gold-standard/SemPub2016/Task2/TD/ mySubmission/ output/
 
 the aforementioned command would run the test for the Task 3 Training Dataset.
@@ -43,6 +40,7 @@ It compares the given results (available in the ``mySubmission/`` folder) with t
 The results of the evaluation will be made available in the ``output/`` folder.
 
 To run the evaluation on the Task 2 Training dataset use:
+
     run.php queries/SemPub2016/Task2_queries_TD.csv gold-standard/SemPub2016/Task3/TD/ mySubmission/ output/
 
 

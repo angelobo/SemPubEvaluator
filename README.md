@@ -24,7 +24,7 @@ The queries used for the Semantic Publishing Challenge 2016 are in the folder ``
 
 The directory ``gold-standard/`` contains the gold standard used for the training phase and the evaluation (when available).
 
-The gold standard used for the training phase in Semantic Publishing Challenge 2016 are in the folder: ``gold-standard/2016/TD/`` (one folder for each task).
+The gold standard used for the training phase in 2016 are in the folder: ``gold-standard/2016/TD/`` (one folder for each task).
 
 ## How to run the evaluation
  
@@ -34,7 +34,7 @@ Run the script ``run.php`` as follows:
 
 For instance,
 
-    run.php queries/SemPub2016/Task3_queries_TD.csv gold-standard/SemPub2016/Task2/TD/ mySubmission/ output/
+    run.php queries/SemPub2016/Task3_queries_TD.csv gold-standard/SemPub2016/Task3/TD/ mySubmission/ output/
 
 the aforementioned command would run the test for the Task 3 Training Dataset.
 It compares the given results (available in the ``mySubmission/`` folder) with the expected results according to the gold-standard.
@@ -42,7 +42,7 @@ The results of the evaluation will be made available in the ``output/`` folder.
 
 To run the evaluation on the Task 2 Training dataset use:
 
-    run.php queries/SemPub2016/Task2_queries_TD.csv gold-standard/SemPub2016/Task3/TD/ mySubmission/ output/
+    run.php queries/SemPub2016/Task2_queries_TD.csv gold-standard/SemPub2016/Task2/TD/ mySubmission/ output/
 
 
 Parameters are:

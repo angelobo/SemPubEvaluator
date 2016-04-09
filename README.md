@@ -12,7 +12,7 @@ The tool compares pairs of corresponding CSV files, with the same name, from the
 For each type of entry (es. article, funding agency, grant, ontology, etc.) specific comparison strategies are implemented (in the ``matchesEntry`` method of the corresponding ``Entry`` class).
 The evaluation is implemented so as to take minor differences into account and to normalize data.
  
-## Queries Description and Gold standard
+## Queries Description 
 
 The list of queries to evaluate and the classes implementing the evaluation are specified in a configuration file passed as input.
 
@@ -20,6 +20,7 @@ The queries used for the Semantic Publishing Challenge 2015 are in the folder ``
 
 The queries used for the Semantic Publishing Challenge 2016 are in the folder ``queries/queries-SemPub2016/``.
 
+### Gold standard
 
 The directory ``gold-standard/`` contains the gold standard used for the training phase and the evaluation (when available).
 

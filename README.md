@@ -31,7 +31,7 @@ The gold standard used for the training phase in 2016 are in the folders: ``data
  
 Run the script ``run.php`` as follows:
 
-    run.php <queries.csv> <gold-standard-dirpath> <input-dirpath> <output-dirpath> [-sub=<submission-number>] [-task=<task-number>]
+    php run.php <queries.csv> <gold-standard-dirpath> <input-dirpath> <output-dirpath> [-sub=<submission-number>] [-task=<task-number>]
 
 Parameters are:
 
@@ -44,14 +44,14 @@ Parameters are:
 
 For instance, to run the test for the Task 3 Training Dataset:
 
-    run.php data/SemPub2016/queries/Task3_queries_TD.csv data/SemPub2016/gold-standard/Task3/TD/ mySubmission/ output/
+    php run.php data/SemPub2016/queries/Task3_queries_TD.csv data/SemPub2016/gold-standard/Task3/TD/ mySubmission/ output/
 
 The command compares the given results (available in the ``mySubmission/`` folder) with the expected results according to the gold-standard.
 The results of the evaluation will be made available in the ``output/`` folder.
 
 To run the evaluation on the Task 2 Training Dataset use:
 
-    run.php data/SemPub2016/queries/Task2_queries_TD.csv data/SemPub2016/gold-standard/Task2/TD/ mySubmission/ output/
+    php run.php data/SemPub2016/queries/Task2_queries_TD.csv data/SemPub2016/gold-standard/Task2/TD/ mySubmission/ output/
 
 
 

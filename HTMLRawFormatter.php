@@ -10,7 +10,7 @@ class HTMLRawFormatter {
 		<html>
 			<head>
 				<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
-				<title>ESWC15 - Semantic Publishing Challenge Evaluation</title>
+				<title>ESWC - Semantic Publishing Challenge Evaluation</title>
 				<link rel='stylesheet' type='text/css' href='style.css'/>
 			</head>
 			<body>";
@@ -33,8 +33,8 @@ class HTMLRawFormatter {
 			$other = "loose";
 		
 		$htmlIntroContent = "
-		<h1>SemPub Challenge @ ESWC 2015 - Evaluation</h1>
-		<p>This page shows the results of the evaluation of submission <b>#$submissionNumber</b>, for the best-performing approach of task #$taskNumber. See <a href='https://github.com/ceurws/lod/wiki/SemPub2015' target='_blank'>SemPub Challenge wiki</a> for more information.</p>
+		<h1>SemPub Challenge @ ESWC  - Evaluation</h1>
+		<p>This page shows the results of the evaluation of submission <b>#$submissionNumber</b>, for the best-performing approach of task #$taskNumber. See <a href='https://github.com/ceurws/lod/wiki/' target='_blank'>SemPub Challenge wiki</a> for more information.</p>
 		<p>The output of 50 queries on the submitted LOD is compared with a gold standard, and precision and recall are measured.
 		Both the gold standard and the output under evaluation are expected to be CSV files with a common structure.
 		The source files are available here (as ZIP archives): <a href='gold-standard.zip'>Gold Standard</a> and <a href='under-evaluation.zip'>Output Under Evaluation</a>. Note that CSV files are not included in the ZIP file under evaluation if the corresponding query returned an empty output.</p>

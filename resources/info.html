@@ -2,23 +2,20 @@
 		<html>
 			<head>
 				<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
-				<title>ESWC15 - Semantic Publishing Challenge Evaluation</title>
+				<title>ESWC - Semantic Publishing Challenge Evaluation</title>
 				<link rel='stylesheet' type='text/css' href='style.css'/>
 			</head>
 			<body>
-<h1>SemPub Challenge @ ESWC 2015 - Evaluation</h1>
-<p>This page describes the evaluation process to identify the best-performing approach of the <a href="https://github.com/ceurws/lod/wiki/SemPub2015" target="_blank">Semantic Publishing Challenge at ESWC 2015</a>.</p>
+<h1>SemPub Challenge @ ESWC - Evaluation</h1>
+<p>This page describes the evaluation process to identify the best-performing approach of the Semantic Publishing Challenge at ESWC.</p>
 
 <p>The result of a set of queries on the submitted LOD is compared with a gold standard, and precision and recall are measured. Both the gold standard and the output under evaluation are expected to be CSV files with a common structure. The evaluation is performed by a PHP software, available on <a href="https://github.com/angelobo/SemPubEvaluator">GitHub</a>, that compares each pair of corresponding CSV files.</p> 
 <p>Two evaluation modes are supported:</p>
 <ul>
-			<li><i>strict</i>: only complete matches are considered correct (after some normalization)</li>
-			<li><i>loose</i>: more tolerant, partial matches are considered correct too</li>	
-		</ul>
+	<li><i>strict</i>: only complete matches are considered correct (after some normalization)</li>
+	<li><i>loose</i>: more tolerant, partial matches are considered correct too</li>	
+</ul>
 
-
-		
-		
 <p>General notes:</p>
 <ul>
 	<li>For each type of entry (es. article, funding agency, grant, ontology, etc.) specific comparison strategies are implemented (in the <code>matchesEntry()</code> method of the corresponding class).</li>

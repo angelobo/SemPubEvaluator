@@ -31,7 +31,7 @@ class HTMLRawFormatter {
 		$htmlIntroContent = "
 		<h1>SemPub Challenge @ ESWC  - Evaluation</h1>
 		<p>This page shows the results of the evaluation of submission <b>#$submissionNumber</b>, for the best-performing approach of task #$taskNumber. See <a href='https://github.com/ceurws/lod/wiki/' target='_blank'>SemPub Challenge wiki</a> for more information.</p>
-		<p>The output of 50 queries on the submitted LOD is compared with a gold standard, and precision and recall are measured.
+		<p>The output of some queries on the submitted LOD is compared with a gold standard, and precision and recall are measured.
 		Both the gold standard and the output under evaluation are expected to be CSV files with a common structure.</p>";
 		
 		if ($zipOption)

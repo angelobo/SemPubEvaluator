@@ -142,12 +142,6 @@ class Result {
 		$nextQueryNumber = $qNumber;
 		$nextSubNumber = $qSubNumber + 1;
 		
-
-		// TODO: Total number of queries must not be hard-coded
-		//TODO: add constant total number of queries (-1, index in the array)
-		define("TOTALQUERIES", 8);
-		define("TOTALPERQUERY", 45);
-		
 		if ($qSubNumber == TOTALPERQUERY)
 			{
 			$nextQueryNumber = $qNumber + 1;

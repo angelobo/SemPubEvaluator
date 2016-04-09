@@ -101,7 +101,7 @@ class ResultPool {
 		$rowHTML .= "<td>".$singleQueryResult->getFalsePositives()."</td>";
 
 		if ($enableLinkToDetails == TRUE)
-			$rowHTML .="<td><a href='".$label.EVALUATION_QUERY_REPORT_SUFFIX."'>Details</a></td>";
+			$rowHTML .="<td><a href='".$label.".".EVALUATION_QUERY_REPORT_SUFFIX."'>Details</a></td>";
 			
 		$rowHTML .= "</tr>";
 

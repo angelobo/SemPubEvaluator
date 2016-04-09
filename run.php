@@ -117,7 +117,16 @@ if ($zipOption) {
 $evaluationLevel = "loose";
 $csvQueriesContent = array_map('str_getcsv', file($queryCSVFilePath));
 
-
+/*
+ * Extract data from queries file: total number of queries and cases for each query
+ * 
+ * Just for presentation purposes. This information will be used to build links in the report
+ * and to let users browse pages, regardless of the number of queries in the configuration file
+ * 
+ */
+$dataAboutQueries = getNumberOfQueriesAndCasesPerQuery($csvQueriesContent);
+define("TOTALQUERIES", $dataAboutQueries[0]);
+define("TOTALPERQUERY", $dataAboutQueries[1]);
 
 /*
  * Init HTML formatter and ResultPool
@@ -134,7 +143,7 @@ for ($i = 0; $i < count($csvQueriesContent); $i++) {
 		{
 		$queryID = $csvQueriesContent[$i][0];
 		$queryNaturalLanguage = $csvQueriesContent[$i][1];
-		$queryDetailsHTMLfilename = $outputDir."/".$queryID.EVALUATION_QUERY_REPORT_SUFFIX;
+		$queryDetailsHTMLfilename = $outputDir."/".$queryID.".".EVALUATION_QUERY_REPORT_SUFFIX;
 		
 		$queryEntryType = trim($csvQueriesContent[$i][2]);
 		

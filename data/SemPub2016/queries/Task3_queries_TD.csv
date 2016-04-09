@@ -25,13 +25,13 @@ Q3.4e, Same people - Different URIs in CEUR-WS subsets for Jérôme Euzenat , Fi
 Q3.5a, Same workshops in the CEUR-WS and Colinda datasets for the Consuming Linked Data 2010, FirstTwoColumnsEqual
 Q3.5b, Same workshops in the CEUR-WS and Colinda datasets for the Workshop on Linked Data On the Web 2012 , FirstTwoColumnsEqual
 Q3.5c, Same workshops in the CEUR-WS and Colinda datasets for the 3rd International Workshop on Ontology Matching , FirstTwoColumnsEqual
-Q3.5d, Same workshops in the CEUR-WS and Colinda datasets for the Workshop on Ontology Patterns (WOP 2009) , FirstColumnsEqual
+Q3.5d, Same workshops in the CEUR-WS and Colinda datasets for the Workshop on Ontology Patterns (WOP 2009) , FirstTwoColumnsEqual
 Q3.5e, Same workshops in the CEUR-WS and Colinda datasets for the Sixth International Conference on Concept Lattices and Their Applications , FirstTwoColumnsEqual
 
 Q3.6a, Same workshops in the CEUR-WS and DBLP datasets for the Consuming Linked Data 2010, FirstTwoColumnsEqual
 Q3.6b, Same workshops in the CEUR-WS and DBLP datasets for the Workshop on Linked Data On the Web 2010, FirstTwoColumnsEqual
 Q3.6c, Same workshops in the CEUR-WS and DBLP datasets for the 3rd International Workshop on Ontology Matching , FirstTwoColumnsEqual
-Q3.6d, Same workshops in the CEUR-WS and DBLP datasets for the Workshop on Ontology Patterns (WOP 2009) , GrantEntry
+Q3.6d, Same workshops in the CEUR-WS and DBLP datasets for the Workshop on Ontology Patterns (WOP 2009) , FirstTwoColumnsEqual
 Q3.6e, Same workshops in the CEUR-WS and DBLP datasets for The Ninth International Conference on Concept Lattices and Their Applications , FirstTwoColumnsEqual
 
 Q3.7a, Same people in the CEUR-WS and DBLP datasets for Ruben Verborgh , FirstTwoColumnsEqual

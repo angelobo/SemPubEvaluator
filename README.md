@@ -32,15 +32,14 @@ Run the script ``run.php`` as follows:
 
     run.php <queries.csv> <gold-standard-dirpath> <input-dirpath> <output-dirpath> [-sub=<submission-number>] [-task=<task-number>]
 
-For instance,
+For instance, to run the test for the Task 3 Training Dataset:
 
     run.php queries/SemPub2016/Task3_queries_TD.csv gold-standard/SemPub2016/Task3/TD/ mySubmission/ output/
 
-the aforementioned command would run the test for the Task 3 Training Dataset.
-It compares the given results (available in the ``mySubmission/`` folder) with the expected results according to the gold-standard.
+The command compares the given results (available in the ``mySubmission/`` folder) with the expected results according to the gold-standard.
 The results of the evaluation will be made available in the ``output/`` folder.
 
-To run the evaluation on the Task 2 Training dataset use:
+To run the evaluation on the Task 2 Training Dataset use:
 
     run.php queries/SemPub2016/Task2_queries_TD.csv gold-standard/SemPub2016/Task2/TD/ mySubmission/ output/
 

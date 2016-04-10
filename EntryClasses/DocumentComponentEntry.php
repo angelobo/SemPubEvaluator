@@ -31,7 +31,8 @@ class DocumentComponentEntry extends Entry{
 	public function getNormalizedTitleOrCaption(){
 		$nt = $this->getTitleOrCaption();
 		$nt = preg_replace("/\s&\s/", " and ", $nt);
-		$nt = preg_replace("/[^a-zA-Z0-9]+/", "", $nt);
+		$nt = preg_replace("/(\s)+/", " ", $nt);
+		$nt = preg_replace("/[^a-zA-Z0-9\s]+/", "", $nt);
 		
 		return strtolower($nt);
 	}
@@ -54,8 +55,10 @@ class DocumentComponentEntry extends Entry{
 	 * MATCHING RULES:
 	 * 
 	 * [Strict/Loose]: 
-	 * 		- normalized titles are equal
-	 * 		- same object number - datatype (xsd:anyURI) is not taken into account
+	 * 		- titles are normalized: lowercase, multiple white spaces are collapsed in single one
+	 * 		- normalized titles are equal including spaces
+	 * 		- same object number, datatype (xsd:integer) is not taken into account in the number
+	 * 		- prepositions "and" and "&" are considered equal
 	 * 
 	 */
 	public function matchesEntry($searchEntry, $evaluationLevel){

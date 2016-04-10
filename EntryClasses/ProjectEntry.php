@@ -37,7 +37,7 @@ class ProjectEntry extends Entry{
 	 * 
 	 * 
 	 * [Strict/Loose]: Project names must be equal after some normalization:
-	 * 			 - names are transformed in lowercase 
+	 * 			 - names are trimmed and transformed in lowercase 
 	 * 			 - the word 'project' is stripped off
 	 *
 	 */

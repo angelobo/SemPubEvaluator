@@ -64,7 +64,7 @@ class AffiliationEntry extends Entry{
 	* MATCHING RULES:
 	*
 	* [Strict]: same normalized affiliation and author name (as they appear in the header of the paper)
-	* [Loose]: part of the affiliation matches
+	* [Loose]: part of the affiliation (and author) matches
 	*/
 	public function matchesEntry($searchEntry, $evaluationLevel){
 	

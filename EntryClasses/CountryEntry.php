@@ -27,10 +27,7 @@ class CountryEntry extends Entry{
 			case "u.k.":
 				$no = "uk";
 				break;
-					
 		}
-		
-		
 		
 		return trim($no);
 	}
@@ -55,14 +52,13 @@ class CountryEntry extends Entry{
 	 * 
 	 * [Strict/Loose]: Country names must be equal after some normalization:
 	 * 			 - names are transformed in lowercase 
-	 *
+	 *			 - some country names are normalized: u.s.a., UK 	
 	 */
 	public function matchesEntry($searchEntry, $evaluationLevel){
 	
 		$matchingEntry = FALSE;
 	
-		if (($this->getNormalizedCountryName() == $searchEntry->getNormalizedCountryName())
-			) 
+		if (($this->getNormalizedCountryName() == $searchEntry->getNormalizedCountryName())) 
 			$matchingEntry = TRUE;
 
 		return $matchingEntry;

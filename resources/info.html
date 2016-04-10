@@ -12,9 +12,10 @@
 <p>The result of a set of queries on the submitted LOD is compared with a gold standard, and precision and recall are measured. Both the gold standard and the output under evaluation are expected to be CSV files with a common structure. The evaluation is performed by a PHP software, available on <a href="https://github.com/angelobo/SemPubEvaluator">GitHub</a>, that compares each pair of corresponding CSV files.</p> 
 <p>Two evaluation modes are supported:</p>
 <ul>
-	<li><i>strict</i>: only complete matches are considered correct (after some normalization)</li>
-	<li><i>loose</i>: more tolerant, partial matches are considered correct too</li>	
+	<li><i>strict</i>: only complete matches are considered correct, after some normalization</li>
+	<li><i>loose</i>: more tolerant, some partial matches are considered correct too</li>	
 </ul>
+<p>For some queries these two modes overlap (same evaluation strategies).</p>
 
 <p>General notes:</p>
 <ul>
@@ -30,7 +31,6 @@
 	<li>Titles are normalized as follows: all spaces, punctuation symbols and non-ASCII characters are stripped, only letters and numbers are considered. </li>
 	<li>Names are normalized as follows: all spaces, punctuation symbols are stripped, non-ASCII characters are substituted with ASCII characters. </li>	
 	<li>Missing datatypes are ignored.</li>
-	<li>Information not available in the gold standard is skipped in the evaluation.</li>
 </ul>
 </body>
 </html>

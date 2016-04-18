@@ -1,5 +1,7 @@
 <?php
 
+require_once(__DIR__."/ArticleEntry.php");
+
 class CEURArticleEntry extends ArticleEntry{
 	
 	/***

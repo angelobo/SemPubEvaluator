@@ -160,7 +160,7 @@ class Result {
 		if ($enableNavigationBar == TRUE)
 			$queryNavigationBar = "<div class='navigation-bar'>$previousButton $topButton $nextButton<span class='evaluation-level'>SemPub Challenge - ".$this->getEvaluationLevel()." evaluation</span></div>";
 		
-		$queryHeader .= "<h2>".$this->getLabel()."</h2><p class='query-natural-language'>".$this->getDescription()."</p>";
+		$queryHeader = "<h2>".$this->getLabel()."</h2><p class='query-natural-language'>".$this->getDescription()."</p>";
 		
 		$queryScore = $this->renderSummaryAsHTMLTable();
 		
@@ -172,7 +172,6 @@ class Result {
 		$htmlContent .= $queryNavigationBar;
 		$htmlContent .= $queryHeader;
 		$htmlContent .= $queryScore;
-		$htmlContent .= $htmlContentEntries;
 		$htmlContent .= $sourcesContent;
 		 
 		return $htmlContent;

@@ -61,7 +61,7 @@ To run the **evaluation on the Task 2 Training Dataset** use:
 
     php run.php data/SemPub2016/queries/Task2_queries_TD.csv data/SemPub2016/gold-standard/Task2/TD/ <mySubmissionDir> <outputDir>
 
-To run the **evaluation on the Task 2 Evaluation Dataset** use:
+To run the **final evaluation on the Task 2 Evaluation Dataset** use:
 
     php run.php data/SemPub2016/queries/Task2_queries_ED.csv data/SemPub2016/gold-standard/Task2/ED/ <mySubmissionDir> <outputDir>
 

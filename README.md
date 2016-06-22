@@ -57,13 +57,13 @@ The command compares the given results (available in the ``mySubmission/`` folde
 The results of the evaluation will be made available in the ``output/`` folder. 
 Please open ``output/index.html`` to read the evaluation report.
 
-To run the '''evaluation on the Task 2 Training Dataset''' use:
+To run the **evaluation on the Task 2 Training Dataset** use:
 
-    php run.php data/SemPub2016/queries/Task2_queries_TD.csv data/SemPub2016/gold-standard/Task2/TD/ <mySubmissionDir>/ <outputDir>/
+    php run.php data/SemPub2016/queries/Task2_queries_TD.csv data/SemPub2016/gold-standard/Task2/TD/ <mySubmissionDir> <outputDir>
 
-To run the '''evaluation on the Task 2 Evaluation Dataset''' use:
+To run the **evaluation on the Task 2 Evaluation Dataset** use:
 
-    php run.php data/SemPub2016/queries/Task2_queries_ED.csv data/SemPub2016/gold-standard/Task2/ED/ <mySubmissionDir>/ <outputDir>/
+    php run.php data/SemPub2016/queries/Task2_queries_ED.csv data/SemPub2016/gold-standard/Task2/ED/ <mySubmissionDir> <outputDir>
 
 Please open ``output/index.html`` to read the evaluation report.
 

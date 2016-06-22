@@ -1,0 +1,9 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1565-bmaw2015_paper8_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1565-bmaw2015_paper8_sec2>, "2"^^xsd:integer, "PROBLEM OF SHORT-TERM CONFLICT ALERT"
+<http://ceur-ws.org/section/vol-1565-bmaw2015_paper8_sec3>, "3"^^xsd:integer, "BAYESIAN MODEL AVERAGING OVER DECISION TREES"
+<http://ceur-ws.org/section/vol-1565-bmaw2015_paper8_sec4>, "4"^^xsd:integer, "SELECTION OF A SINGLE DECISION TREE MODEL"
+<http://ceur-ws.org/section/vol-1565-bmaw2015_paper8_sec5>, "5"^^xsd:integer, "EXPERIMENTS"
+<http://ceur-ws.org/section/vol-1565-bmaw2015_paper8_sec6>, "6"^^xsd:integer, "CONCLUSION"
+<http://ceur-ws.org/section/vol-1565-bmaw2015_paper8_sec7>, "7"^^xsd:integer, "Acknowledgements"
+<http://ceur-ws.org/section/vol-1565-bmaw2015_paper8_sec8>, "8"^^xsd:integer, "References"

@@ -1,0 +1,4 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1319-morse14_paper_04_fig1>, "1"^^xsd:integer, "Example for alternatives in global path planning"
+<http://ceur-ws.org/figure/vol-1319-morse14_paper_04_fig2>, "2"^^xsd:integer, "The GroCoMo-Core metamodel."
+<http://ceur-ws.org/figure/vol-1319-morse14_paper_04_fig3>, "3"^^xsd:integer, "Example model for time and location information representation."

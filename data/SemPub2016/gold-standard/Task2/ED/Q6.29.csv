@@ -1,0 +1,6 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1554-pd_models_2015_paper_3_fig1>, "1"^^xsd:integer, "SMARTGH components"
+<http://ceur-ws.org/figure/vol-1554-pd_models_2015_paper_3_fig2>, "2"^^xsd:integer, "SMARTGH components"
+<http://ceur-ws.org/figure/vol-1554-pd_models_2015_paper_3_fig3>, "3"^^xsd:integer, "CONSOLAS process overview"
+<http://ceur-ws.org/figure/vol-1554-pd_models_2015_paper_3_fig4>, "4"^^xsd:integer, "Excerpt of CLOUDML specification for SMARTGH"
+<http://ceur-ws.org/figure/vol-1554-pd_models_2015_paper_3_fig5>, "5"^^xsd:integer, "Sample constraints for SMARTGH"

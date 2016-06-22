@@ -1,0 +1,9 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1558-paper9_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1558-paper9_sec2>, "2"^^xsd:integer, "RELATED WORK"
+<http://ceur-ws.org/section/vol-1558-paper9_sec3>, "3"^^xsd:integer, "CHARACTERISTICS OF EVOLUTION"
+<http://ceur-ws.org/section/vol-1558-paper9_sec4>, "4"^^xsd:integer, "IMPLEMENTATION"
+<http://ceur-ws.org/section/vol-1558-paper9_sec5>, "5"^^xsd:integer, "PRELIMINARY EVALUATION"
+<http://ceur-ws.org/section/vol-1558-paper9_sec6>, "6"^^xsd:integer, "CONCLUSIONS AND FUTURE WORK"
+<http://ceur-ws.org/section/vol-1558-paper9_sec7>, "7"^^xsd:integer, "Acknowledgement"
+<http://ceur-ws.org/section/vol-1558-paper9_sec8>, "8"^^xsd:integer, "REFERENCES"

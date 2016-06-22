@@ -1,0 +1,2 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1313-paper_13_tab1>, "1"^^xsd:integer, "Dataset characteristics."

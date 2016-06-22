@@ -1,0 +1,7 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1315-paper3_sec1>, "1"^^xsd:integer, "The Interacting Subsystems approach to cognition"
+<http://ceur-ws.org/section/vol-1315-paper3_sec2>, "2"^^xsd:integer, "The GLAM-PS Cognitive Architecture"
+<http://ceur-ws.org/section/vol-1315-paper3_sec3>, "3"^^xsd:integer, "Cognitive Control in the GLAM-PS Algebra Model"
+<http://ceur-ws.org/section/vol-1315-paper3_sec4>, "4"^^xsd:integer, "The Emergence of Complexity in Interacting Cognitive Subsystems"
+<http://ceur-ws.org/section/vol-1315-paper3_sec5>, "5"^^xsd:integer, "Conclusion"
+<http://ceur-ws.org/section/vol-1315-paper3_sec6>, "6"^^xsd:integer, "References"

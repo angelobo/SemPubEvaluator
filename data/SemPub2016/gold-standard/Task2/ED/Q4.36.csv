@@ -1,0 +1,7 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1559-paper07_sec1>, "1"^^xsd:integer, "Introduction and Background"
+<http://ceur-ws.org/section/vol-1559-paper07_sec2>, "2"^^xsd:integer, "A Meta-Level Interface to Enable Tooling of Complex Concurrent Systems"
+<http://ceur-ws.org/section/vol-1559-paper07_sec3>, "3"^^xsd:integer, "Open Research Issues"
+<http://ceur-ws.org/section/vol-1559-paper07_sec4>, "4"^^xsd:integer, "Conclusion"
+<http://ceur-ws.org/section/vol-1559-paper07_sec5>, "5"^^xsd:integer, "Acknowledgements"
+<http://ceur-ws.org/section/vol-1559-paper07_sec6>, "6"^^xsd:integer, "References"

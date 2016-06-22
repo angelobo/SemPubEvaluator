@@ -1,0 +1,4 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1317-om2014_poster4_sec1>, "1"^^xsd:integer, "Approach"
+<http://ceur-ws.org/section/vol-1317-om2014_poster4_sec2>, "2"^^xsd:integer, "Results"
+<http://ceur-ws.org/section/vol-1317-om2014_poster4_sec3>, "3"^^xsd:integer, "References"

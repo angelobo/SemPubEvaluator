@@ -1,0 +1,8 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1554-pd_models_2015_paper_5_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1554-pd_models_2015_paper_5_sec2>, "2"^^xsd:integer, "RELATED WORK"
+<http://ceur-ws.org/section/vol-1554-pd_models_2015_paper_5_sec3>, "3"^^xsd:integer, "CHAINTRACKER"
+<http://ceur-ws.org/section/vol-1554-pd_models_2015_paper_5_sec4>, "4"^^xsd:integer, "SOLVING DEVELOPERS’ TASKS USING CHAINTRACKER"
+<http://ceur-ws.org/section/vol-1554-pd_models_2015_paper_5_sec5>, "5"^^xsd:integer, "CONCLUSIONS"
+<http://ceur-ws.org/section/vol-1554-pd_models_2015_paper_5_sec6>, "6"^^xsd:integer, "ACKNOWLEDGEMENTS"
+<http://ceur-ws.org/section/vol-1554-pd_models_2015_paper_5_sec7>, "7"^^xsd:integer, "REFERENCES"

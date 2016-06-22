@@ -1,0 +1,4 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1215-paper-05_fig1>, "1"^^xsd:integer, "Research data in the scientic discovery process"
+<http://ceur-ws.org/figure/vol-1215-paper-05_fig2>, "2"^^xsd:integer, "A mock-up of the user page for the certification service"
+<http://ceur-ws.org/figure/vol-1215-paper-05_fig3>, "3"^^xsd:integer, "The initial set of back-end validation services"

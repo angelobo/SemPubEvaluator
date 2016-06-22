@@ -1,0 +1,4 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1405-paper-03_tab1>, "1"^^xsd:integer, "Evaluation of partitioning approaches. The best results for each partition count per coverage condition are in bold. The best results in each coverage condition are underlined."
+<http://ceur-ws.org/table/vol-1405-paper-03_tab2>, "2"^^xsd:integer, "Evaluation of partitioning approaches in simulated cold start. The best results for each partition count per coverage condition are in bold. The best results in each coverage condition are underlined."
+<http://ceur-ws.org/table/vol-1405-paper-03_tab3>, "3"^^xsd:integer, "Most similar locations for selected US postal codes"

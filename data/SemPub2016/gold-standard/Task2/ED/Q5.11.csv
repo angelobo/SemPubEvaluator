@@ -1,0 +1,4 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1313-paper_4_tab1>, "1"^^xsd:integer, "Example of the Five Mostly Used pq-grams of a Sample Document."
+<http://ceur-ws.org/table/vol-1313-paper_4_tab2>, "2"^^xsd:integer, "Best Evaluation Results for Each Clustering Algorithm and Test Data Set in Percent."
+<http://ceur-ws.org/table/vol-1313-paper_4_tab3>, "3"^^xsd:integer, "Best Evaluation Results for each Clustering Algorithm and Test Data Set in Percent."

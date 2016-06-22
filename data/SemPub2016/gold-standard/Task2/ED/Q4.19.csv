@@ -1,0 +1,9 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1319-morse14_paper_04_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1319-morse14_paper_04_sec2>, "2"^^xsd:integer, "Context Modeling and Management"
+<http://ceur-ws.org/section/vol-1319-morse14_paper_04_sec3>, "3"^^xsd:integer, "Related Work"
+<http://ceur-ws.org/section/vol-1319-morse14_paper_04_sec4>, "4"^^xsd:integer, "Context Modeling in Space and Time"
+<http://ceur-ws.org/section/vol-1319-morse14_paper_04_sec5>, "5"^^xsd:integer, "Implementation"
+<http://ceur-ws.org/section/vol-1319-morse14_paper_04_sec6>, "6"^^xsd:integer, "Conclusion and Future Work"
+<http://ceur-ws.org/section/vol-1319-morse14_paper_04_sec7>, "7"^^xsd:integer, "Acknowledgment"
+<http://ceur-ws.org/section/vol-1319-morse14_paper_04_sec8>, "8"^^xsd:integer, "References"

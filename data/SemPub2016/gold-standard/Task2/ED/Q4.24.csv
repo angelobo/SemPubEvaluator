@@ -1,0 +1,9 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1405-paper-07_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1405-paper-07_sec2>, "2"^^xsd:integer, "RELATED WORK"
+<http://ceur-ws.org/section/vol-1405-paper-07_sec3>, "3"^^xsd:integer, "DESIGN CONCEPT"
+<http://ceur-ws.org/section/vol-1405-paper-07_sec4>, "4"^^xsd:integer, "DESIGN METHODOLOGY"
+<http://ceur-ws.org/section/vol-1405-paper-07_sec5>, "5"^^xsd:integer, "PROPOSED SYSTEM"
+<http://ceur-ws.org/section/vol-1405-paper-07_sec6>, "6"^^xsd:integer, "OUTLOOK & CONCLUSIONS"
+<http://ceur-ws.org/section/vol-1405-paper-07_sec7>, "7"^^xsd:integer, "ACKNOWLEDGEMENTS"
+<http://ceur-ws.org/section/vol-1405-paper-07_sec8>, "8"^^xsd:integer, "REFERENCES"

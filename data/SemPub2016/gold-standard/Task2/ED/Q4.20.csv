@@ -1,0 +1,5 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1320-paper_25_sec1>, "1"^^xsd:integer, "Background"
+<http://ceur-ws.org/section/vol-1320-paper_25_sec2>, "2"^^xsd:integer, "System Description"
+<http://ceur-ws.org/section/vol-1320-paper_25_sec3>, "3"^^xsd:integer, "Evaluation"
+<http://ceur-ws.org/section/vol-1320-paper_25_sec4>, "4"^^xsd:integer, "References"

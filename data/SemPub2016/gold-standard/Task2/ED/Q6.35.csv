@@ -1,0 +1,10 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1559-paper05_fig1>, "1"^^xsd:integer, "Test selection in various precision levels"
+<http://ceur-ws.org/figure/vol-1559-paper05_fig2>, "2"^^xsd:integer, "Declarative code change"
+<http://ceur-ws.org/figure/vol-1559-paper05_fig3>, "3"^^xsd:integer, "Parallel-Search and Breadth-First Search"
+<http://ceur-ws.org/figure/vol-1559-paper05_fig4>, "4"^^xsd:integer, "Test duration Hupa"
+<http://ceur-ws.org/figure/vol-1559-paper05_fig5>, "5"^^xsd:integer, "Test duration Meisterplan"
+<http://ceur-ws.org/figure/vol-1559-paper05_fig6>, "6"^^xsd:integer, "Code modifications"
+<http://ceur-ws.org/figure/vol-1559-paper05_fig7>, "7"^^xsd:integer, "Checkout and Test selection time Hupa"
+<http://ceur-ws.org/figure/vol-1559-paper05_fig8>, "8"^^xsd:integer, "Test selection Hupa"
+<http://ceur-ws.org/figure/vol-1559-paper05_fig9>, "9"^^xsd:integer, "Test selection Meisterplan"

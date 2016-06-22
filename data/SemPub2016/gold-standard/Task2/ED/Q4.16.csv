@@ -1,0 +1,5 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1317-om2014_poster3_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1317-om2014_poster3_sec2>, "2"^^xsd:integer, "An Approach for the Matching of Multilingual Thesauri"
+<http://ceur-ws.org/section/vol-1317-om2014_poster3_sec3>, "3"^^xsd:integer, "Concluding Remarks"
+<http://ceur-ws.org/section/vol-1317-om2014_poster3_sec4>, "4"^^xsd:integer, "References"

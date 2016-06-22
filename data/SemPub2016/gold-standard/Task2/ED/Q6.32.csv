@@ -1,0 +1,4 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1558-paper5_fig1>, "1"^^xsd:integer, "Applications of car-sharing systems"
+<http://ceur-ws.org/figure/vol-1558-paper5_fig2>, "2"^^xsd:integer, "Car-sharing system - example"
+<http://ceur-ws.org/figure/vol-1558-paper5_fig3>, "3"^^xsd:integer, "The times of picking passengers and query times"

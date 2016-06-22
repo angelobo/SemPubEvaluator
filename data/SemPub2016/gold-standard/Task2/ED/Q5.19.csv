@@ -1,0 +1,2 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1319-morse14_paper_04_tab1>, "1"^^xsd:integer, "Evaluation of the related models w.r.t. to their modeling capabilities. (- not considered, (-) partially considered, (+) implicitly provided, + fully provided)"

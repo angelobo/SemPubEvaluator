@@ -1,0 +1,3 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1558-paper9_fig1>, "1"^^xsd:integer, "High-level architecture of EvoGen."
+<http://ceur-ws.org/figure/vol-1558-paper9_fig2>, "2"^^xsd:integer, "Average of achieved shift over 10 runs for 10 versions, for increasing number of universities."

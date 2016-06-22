@@ -1,0 +1,7 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1405-paper-04_fig1>, "1"^^xsd:integer, "The context-aware shopping recommender process"
+<http://ceur-ws.org/figure/vol-1405-paper-04_fig2>, "2"^^xsd:integer, "User Interaction Design"
+<http://ceur-ws.org/figure/vol-1405-paper-04_fig3>, "3"^^xsd:integer, "Detailed Information View"
+<http://ceur-ws.org/figure/vol-1405-paper-04_fig4>, "4"^^xsd:integer, "Tool for elicitation of item preferences in contexts"
+<http://ceur-ws.org/figure/vol-1405-paper-04_fig5>, "5"^^xsd:integer, "Explicit context determination via questionnaire"
+<http://ceur-ws.org/figure/vol-1405-paper-04_fig6>, "6"^^xsd:integer, "Tool to generate a user's scenario"

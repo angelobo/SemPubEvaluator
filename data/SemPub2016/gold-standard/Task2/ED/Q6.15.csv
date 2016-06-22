@@ -1,0 +1,6 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1317-om2014_tpaper5_fig1>, "1"^^xsd:integer, "Cases decided in Colombia must be linked to relevant sections of the constitution used in deciding that case. Only the single number 2 is relevant here for linking."
+<http://ceur-ws.org/figure/vol-1317-om2014_tpaper5_fig2>, "2"^^xsd:integer, "The property table representation. For subjects ‘missing’ a property, the reserved keyword null is entered. ; is a reserved delimiter allowing fields to be sets."
+<http://ceur-ws.org/figure/vol-1317-om2014_tpaper5_fig3>, "3"^^xsd:integer, "The overall framework proposed in the paper."
+<http://ceur-ws.org/figure/vol-1317-om2014_tpaper5_fig4>, "4"^^xsd:integer, "Results of the proposed method (Hetero) against baseline (CC) on the (a) Colombia and (b) Venezuela datasets, with SS indicating that dataset mapping (or Source Selection as it is denoted in the codebase) was utilized. PC is Pairs Completeness and RR is Reduction Ratio."
+<http://ceur-ws.org/figure/vol-1317-om2014_tpaper5_fig5>, "5"^^xsd:integer, "Hetero vs. CC on the (a) government 2009-13 budget and (b) video game datasets. In (b), the underlying link was owl:sameAs. The noisy training set generator was used for the unsup version of Hetero, while perfectly labeled examples were provided for semi. Note the changed scale (esp. X-axis) in (b)."

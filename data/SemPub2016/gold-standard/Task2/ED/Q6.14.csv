@@ -1,0 +1,8 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1315-paper8_fig1>, "1"^^xsd:integer, "Overview of the intrinsically motivated reinforcement learning system."
+<http://ceur-ws.org/figure/vol-1315-paper8_fig2>, "2"^^xsd:integer, "Candidate grasp points on unknown objects are determined through a sequence of processes. Samples points for six objects are illustrated. The first step is 3D edge detection from 3D point cloud data. The second step is determination of candidate grasp point pairs for which samples are marked with red points on the 3D edges extracted from point clouds of objects. The number of feasible grasp points for each object is presented."
+<http://ceur-ws.org/figure/vol-1315-paper8_fig3>, "3"^^xsd:integer, "Illustrative examples for grasping three different objects. (a)A cubic block which is relatively easy to grasp (b) a plastic bowling pin which can be grasped from top but not for all prasp points (c) a plastic ball which cannot be grasped as it is solid and too large."
+<http://ceur-ws.org/figure/vol-1315-paper8_fig4>, "4"^^xsd:integer, "Frustration Rate Changes For Block Grasping with Methods M3 and M4."
+<http://ceur-ws.org/figure/vol-1315-paper8_fig5>, "5"^^xsd:integer, "Frustration Rate Changes For Pin Grasping with Methods M3 and M4."
+<http://ceur-ws.org/figure/vol-1315-paper8_fig6>, "6"^^xsd:integer, "Frustration Rate Changes For Ball Grasping with Methods M3 and M4."
+<http://ceur-ws.org/figure/vol-1315-paper8_fig7>, "7"^^xsd:integer, "Trial Count for Three Selected Object and Action Selection Method."

@@ -1,0 +1,3 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1559-paper04_fig1>, "1"^^xsd:integer, "Example attributed feature model of Calculator SPL"
+<http://ceur-ws.org/figure/vol-1559-paper04_fig2>, "2"^^xsd:integer, "Syntax of feature and delta module declarations with F ∈ feature names, D ∈ delta module names, P ∈ parameter names, L ∈ enum literals"

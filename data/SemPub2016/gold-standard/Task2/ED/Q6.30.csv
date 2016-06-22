@@ -1,0 +1,4 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1554-pd_models_2015_paper_5_fig1>, "1"^^xsd:integer, " ChainTracker - Main Screen (1) Transformation-composition Branch View; (2) Transformation Script Viewers; (3) Transformation In/Out Bindings Information Tables; (4.a) Filter and Transformation-script Visualization Options; (4.b) Context-aware menu to isolate artifacts related to metamodel elements or generated textual artifacts."
+<http://ceur-ws.org/figure/vol-1554-pd_models_2015_paper_5_fig1>, "1"^^xsd:integer, "ChainTracker - Main Screen (1) Transformation-composition Overview; (2) Transformation Script Viewers; (3) Metamodel Information Tables"
+<http://ceur-ws.org/figure/vol-1554-pd_models_2015_paper_5_fig1>, "1"^^xsd:integer, "ChainTracker - Metamodel Coverage Metrics"

@@ -1,0 +1,2 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1559-paper07_fig1>, "1"^^xsd:integer, "A meta-level interface to support tools for a wide range of concurrency abstractions."

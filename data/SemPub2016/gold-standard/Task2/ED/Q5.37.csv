@@ -1,0 +1,4 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1560-paper2_tab1>, "1"^^xsd:integer, "Execution times (ms) of interpretation, generated code and JIT"
+<http://ceur-ws.org/table/vol-1560-paper2_tab2>, "2"^^xsd:integer, "Execution times (ms) of breakpoint scenarios"
+<http://ceur-ws.org/table/vol-1560-paper2_tab3>, "3"^^xsd:integer, "Execution times (sec) of the performance test model with N objects and M iterations"

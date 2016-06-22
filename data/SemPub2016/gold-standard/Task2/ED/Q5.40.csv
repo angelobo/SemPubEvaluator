@@ -1,0 +1,6 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1567-paper2_tab1>, "1"^^xsd:integer, "Negational references in the IMRaD structure"
+<http://ceur-ws.org/table/vol-1567-paper2_tab2>, "2"^^xsd:integer, "Negational Citations with in-text References (i)"
+<http://ceur-ws.org/table/vol-1567-paper2_tab3>, "3"^^xsd:integer, "Negational Citations with in-text References (ii)"
+<http://ceur-ws.org/table/vol-1567-paper2_tab4>, "4"^^xsd:integer, "Negational Contexts without in-text References (iii)"
+<http://ceur-ws.org/table/vol-1567-paper2_tab5>, "5"^^xsd:integer, "Negational Contexts without In-text References (iv)"

@@ -1,5 +1,7 @@
 <?php
 
+error_reporting(E_ERROR | E_PARSE);
+
 require_once 'utils.php';
 
 require_once 'Entry.php';
@@ -96,7 +98,7 @@ $infoCopiedFile = $outputDir."/".INFO_FILENAME;
 if ((!copy($cssFile, $copiedCSSfile)) || (!copy($infoFile, $infoCopiedFile)))
 	die("Failed to copy $cssFile , $infoFile ...\n");
 else 
-	echo "\nResources copied. \n\n";
+       echo "\nResources copied. \n\n";
 
 
 if ($zipOption) {
@@ -147,7 +149,7 @@ for ($i = 0; $i < count($csvQueriesContent); $i++) {
 		
 		$queryEntryType = trim($csvQueriesContent[$i][2]);
 		
-		echo "Processing query: ".$queryID."\n";
+		//echo "Processing query: ".$queryID."\n";
 		
 		// Check unsupported types
 		if (!in_array($queryEntryType, $allowedEntryClasses))
@@ -193,5 +195,7 @@ fwrite($htmlFileHandler, $globalResultHTML);
 fclose($htmlFileHandler);
 
 echo "\n\nEvaluation completed! Output saved in: $globalResultHTMLfilename\n\n";
+
+echo "\n**** Precision: ". $resultAll->getAveragePrecision() ." * Recall: ". $resultAll->getAverageRecall()." * Fscore: ". $resultAll->getAverageFScore()." ****\n\n";
 
 ?>

@@ -1,0 +1,2 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1317-om2014_poster8_fig1>, "1"^^xsd:integer, "Query graph editor for translating input graph elements (marked red) to an output graph on the right hand side."

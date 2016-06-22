@@ -1,0 +1,10 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1313-paper_13_fig1>, "1"^^xsd:integer, "Partitioned graph into five components."
+<http://ceur-ws.org/figure/vol-1313-paper_13_fig2>, "2"^^xsd:integer, "In-component shortcuts for a given node."
+<http://ceur-ws.org/figure/vol-1313-paper_13_fig3>, "3"^^xsd:integer, "Shortcut Graph illustrated over the original."
+<http://ceur-ws.org/figure/vol-1313-paper_13_fig4>, "4"^^xsd:integer, "Corridor Matrix example."
+<http://ceur-ws.org/figure/vol-1313-paper_13_fig5>, "5"^^xsd:integer, "Preprocessing: # of shortcuts vs. # of components."
+<http://ceur-ws.org/figure/vol-1313-paper_13_fig6>, "6"^^xsd:integer, "Preprocessing: time vs. # of components."
+<http://ceur-ws.org/figure/vol-1313-paper_13_fig7>, "7"^^xsd:integer, "Performance of shortest path queries vs. # of components."
+<http://ceur-ws.org/figure/vol-1313-paper_13_fig8>, "8"^^xsd:integer, "Performance of shortest path queries vs. query sets."
+<http://ceur-ws.org/figure/vol-1313-paper_13_fig9>, "9"^^xsd:integer, "Evaluation of Arc Flags & CM using ROME dataset."

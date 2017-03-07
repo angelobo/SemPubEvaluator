@@ -1,0 +1,4 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1116-paper8_tab1>, "1"^^xsd:integer, "2x2 contingency table to calculate disproportionality measurements (adapted from [5])."
+<http://ceur-ws.org/table/vol-1116-paper8_tab2>, "2"^^xsd:integer, "Partial 2x2 contingency tables for 5-FU - Leukopenia and Capecitabine - Leukopenia from the numbers provided in the IJMS paper. The numbers in italic are calculated from the numbers that are given in the paper."
+<http://ceur-ws.org/table/vol-1116-paper8_tab3>, "3"^^xsd:integer, "Reproduction of 2x2 contingency tables for 5-FU - Leukopenia and Capecitabine - Leukopenia."

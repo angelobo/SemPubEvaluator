@@ -1,0 +1,8 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1522-badreddin2015hufamo_tab1>, "1"^^xsd:integer, "Computer Science @ Concordia"
+<http://ceur-ws.org/table/vol-1522-badreddin2015hufamo_tab2>, "2"^^xsd:integer, "Software Engineering @ Concordia"
+<http://ceur-ws.org/table/vol-1522-badreddin2015hufamo_tab3>, "3"^^xsd:integer, "Information Systems Engineering @ BGU"
+<http://ceur-ws.org/table/vol-1522-badreddin2015hufamo_tab4>, "4"^^xsd:integer, "Software Engineering @ BGU"
+<http://ceur-ws.org/table/vol-1522-badreddin2015hufamo_tab5>, "5"^^xsd:integer, "Computer Science @ NAU"
+<http://ceur-ws.org/table/vol-1522-badreddin2015hufamo_tab6>, "6"^^xsd:integer, "Profile of the participating students"
+<http://ceur-ws.org/table/vol-1522-badreddin2015hufamo_tab7>, "7"^^xsd:integer, "Sign analysis of the survey results"

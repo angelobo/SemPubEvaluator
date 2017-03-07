@@ -1,0 +1,15 @@
+dataset,subjects
+DBpedia subset,9.5
+GeoNames,7.48
+LinkedMDB,0.694
+Jamendo,0.336
+New York Times,21.7
+SW Dog Food,12
+KEGG,34.3
+ChEBI,50.5
+Drugbank,19.7
+LS3,9054
+LS4,3
+LS5,393
+LS6,28
+LS7,144

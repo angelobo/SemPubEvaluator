@@ -1,0 +1,2 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1123-paper4_tab1>, "1"^^xsd:integer, "Subset of EPCIS events"

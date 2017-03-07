@@ -1,0 +1,5 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1755-160-168_fig1>, "1"^^xsd:integer, "Illustration of the updating of the Best Matching Unit (BMU) of a SOM grid and its neighbors"
+<http://ceur-ws.org/figure/vol-1755-160-168_fig2>, "2"^^xsd:integer, "Chart of NNClust cluster means"
+<http://ceur-ws.org/figure/vol-1755-160-168_fig3>, "3"^^xsd:integer, "Chart of Pitnett software cluster means"
+<http://ceur-ws.org/figure/vol-1755-160-168_fig4>, "4"^^xsd:integer, "Chart of Rapid Miner Studio cluster means"

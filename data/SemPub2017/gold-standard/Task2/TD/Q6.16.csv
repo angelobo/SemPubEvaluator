@@ -1,0 +1,8 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1324-paper_10_fig1>, "1"^^xsd:integer, "The tactile belt was built with 8 actuators. Each covers a range of 45° of the body of the user and is equipped with a LED to visualize the vibrations."
+<http://ceur-ws.org/figure/vol-1324-paper_10_fig2>, "2"^^xsd:integer, "An example of a XML-based description format for haptic patterns. In this case actuator 1 is activated twice for 250ms with an intensity of 11 (maximum is 15)."
+<http://ceur-ws.org/figure/vol-1324-paper_10_fig3>, "3"^^xsd:integer, "The different rhythms of the Single-Actuator-Method. The grey areas indicates the vibration, the white ones the breaks."
+<http://ceur-ws.org/figure/vol-1324-paper_10_fig4>, "4"^^xsd:integer, "The different actuator pairs of the Multi-Actuator-Method, and always two actuators are activated simultaneously to indicate an object type."
+<http://ceur-ws.org/figure/vol-1324-paper_10_fig5>, "5"^^xsd:integer, "The screenshot of the “WizzApp” on a tablet (the red point is the subjects’ position, and the black line from the red point indicates the subjects’ heading orientation."
+<http://ceur-ws.org/figure/vol-1324-paper_10_fig6>, "6"^^xsd:integer, "The touch interaction to simulate users’ heading orientation and position"
+<http://ceur-ws.org/figure/vol-1324-paper_10_fig7>, "7"^^xsd:integer, "Two room simulations layouts for the evaluation of the designed Tactons"

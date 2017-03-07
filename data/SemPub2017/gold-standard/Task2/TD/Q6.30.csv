@@ -1,0 +1,4 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1751-aics_2016_paper_30_fig1>, "1"^^xsd:integer, "ROC curves of the four machine learning models"
+<http://ceur-ws.org/figure/vol-1751-aics_2016_paper_30_fig2>, "2"^^xsd:integer, "Calibration plots for the models of dairy cow conception"
+<http://ceur-ws.org/figure/vol-1751-aics_2016_paper_30_fig3>, "3"^^xsd:integer, "Deviance plots for the models of dairy cow conception"

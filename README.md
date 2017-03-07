@@ -23,15 +23,17 @@ The queries used for the Semantic Publishing Challenge 2015 are in the folder ``
 
 The queries used for the Semantic Publishing Challenge 2016 are in the folder ``data/SemPub2016/queries/``.
 
+The queries used for the Semantic Publishing Challenge 2017 are in the folder ``data/SemPub2017/queries/``.
+
 ### Gold standard
 
 The distribution also contains the gold standard used for the training phase and the evaluation (when available).
 
-The gold standard used for the training phase in 2016 are in the folders: ``data/SemPub2016/gold-standard/Task1/TD/``, ``data/SemPub2016/gold-standard/Task2/TD/`` and ``data/SemPub2016/gold-standard/Task3/TD/``.
+The gold standard used for the training phase in 2017 are in the folders: ``data/SemPub2017/gold-standard/Task1/TD/``, ``data/SemPub2017/gold-standard/Task2/TD/`` and ``data/SemPub2017/gold-standard/Task3/TD/``.
 
-### Evaluation
+### Final evaluation
 
-The gold standard used for the final evaluation of Task 2 in 2016 is in the folder: ``data/SemPub2016/gold-standard/Task2/ED/``
+The gold standard used for the final evaluation will be released a few days before the deadline.
 
 ## How to run the evaluation
  
@@ -49,21 +51,25 @@ Parameters are:
 5.  (optional) task number (shown in the final report)
 5.  (optional) flag to zip input CSV files and include them in the output
 
-For instance, to run the test for the Task 3 Training Dataset:
+For instance, to run the test for the Task 2 Training Dataset:
 
-    php run.php data/SemPub2016/queries/Task3_queries_TD.csv data/SemPub2016/gold-standard/Task3/TD/ mySubmission/ output/
+    php run.php data/SemPub2017/queries/Task2_queries_TD.csv data/SemPub2017/gold-standard/Task2/TD/ mySubmission/ output/
 
 The command compares the given results (available in the ``mySubmission/`` folder) with the expected results according to the gold-standard.
 The results of the evaluation will be made available in the ``output/`` folder. 
 Please open ``output/index.html`` to read the evaluation report.
 
+To run the **evaluation on the Task 1 Training Dataset** use:
+
+    php run.php data/SemPub2017/queries/Task1_queries_TD.csv data/SemPub2017/gold-standard/Task1/TD/ <mySubmissionDir> <outputDir>
+    
 To run the **evaluation on the Task 2 Training Dataset** use:
 
-    php run.php data/SemPub2016/queries/Task2_queries_TD.csv data/SemPub2016/gold-standard/Task2/TD/ <mySubmissionDir> <outputDir>
+    php run.php data/SemPub2017/queries/Task2_queries_TD.csv data/SemPub2017/gold-standard/Task2/TD/ <mySubmissionDir> <outputDir>
 
 To run the **final evaluation on the Task 2 Evaluation Dataset** use:
 
-    php run.php data/SemPub2016/queries/Task2_queries_ED.csv data/SemPub2016/gold-standard/Task2/ED/ <mySubmissionDir> <outputDir>
+    php run.php data/SemPub2017/queries/Task2_queries_ED.csv data/SemPub2017/gold-standard/Task2/ED/ <mySubmissionDir> <outputDir>
 
 Please open ``output/index.html`` to read the evaluation report.
 

@@ -1,0 +1,5 @@
+footnote-iri, footnote-marker, footnote-body, sentence-with-footnote
+<http://ceur-ws.org/footnote/vol-1758-paper3_footnote1>, "1", "https://github.com/martin-fleck/cra-ttc2016/blob/master/case_description/TTC2016_CRA.pdf", "The CRA problem has been formulated as a case for the Transformation Tool Contest 2016******."
+<http://ceur-ws.org/footnote/vol-1758-paper3_footnote2>, "2", "http://github.com/georghinkel/TTC2016CRA", "Our solution is publicly available on GitHub****** and SHARE******."
+<http://ceur-ws.org/footnote/vol-1758-paper3_footnote3>, "3", "http://is.ieis.tue.nl/staff/pvgorp/share/?page=ConfigureNewSession&vdi=XP-TUe_TTC16_NMF.vdi", "Our solution is publicly available on GitHub and SHARE******."
+<http://ceur-ws.org/footnote/vol-1758-paper3_footnote4>, "4", "http://www.transformation-tool-contest.eu/solutions/cra/TTC_2016_paper_6.pdf", "For the larger models, the Excel solution****** was eventually better since the employed Markov Clustering Algorithm has a better asymptotic complexity."

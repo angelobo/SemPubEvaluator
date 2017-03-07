@@ -1,0 +1,6 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1315-paper15_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1315-paper15_sec2>, "2"^^xsd:integer, "Deep Architectures"
+<http://ceur-ws.org/section/vol-1315-paper15_sec3>, "3"^^xsd:integer, "Applying Evolutionary Algorithms on Deep Architectures"
+<http://ceur-ws.org/section/vol-1315-paper15_sec4>, "4"^^xsd:integer, "Conclusion"
+<http://ceur-ws.org/section/vol-1315-paper15_secnonum_1>, , "References"

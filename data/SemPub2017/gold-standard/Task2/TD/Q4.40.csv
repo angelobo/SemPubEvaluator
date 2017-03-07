@@ -1,0 +1,6 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1769-paper09_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1769-paper09_sec2>, "2"^^xsd:integer, "Hierarchical Timeline-based Planning with Uncertainty"
+<http://ceur-ws.org/section/vol-1769-paper09_sec3>, "3"^^xsd:integer, "Human-Aware Planning with Uncertainty: a HRC case study"
+<http://ceur-ws.org/section/vol-1769-paper09_sec4>, "4"^^xsd:integer, "Conclusions"
+<http://ceur-ws.org/section/vol-1769-paper09_secnonum_1>, , "References"

@@ -1,0 +1,5 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1522-liebel2015hufamo_tab1>, "1"^^xsd:integer, "DESCRIPTIVE STATISTICS OF THE EXPERIMENT"
+<http://ceur-ws.org/table/vol-1522-liebel2015hufamo_tab2>, "2"^^xsd:integer, "SIGNIFICANCE TESTING OF THE EXPERIMENT"
+<http://ceur-ws.org/table/vol-1522-liebel2015hufamo_tab3>, "3"^^xsd:integer, "CORRELATIONS BETWEEN DEPENDENT VARIABLES AND DEMOGRAPHICS"
+<http://ceur-ws.org/table/vol-1522-liebel2015hufamo_tab4>, "4"^^xsd:integer, "CORRELATIONS BETWEEN DEPENDENT VARIABLES AND EXPERIENCE"

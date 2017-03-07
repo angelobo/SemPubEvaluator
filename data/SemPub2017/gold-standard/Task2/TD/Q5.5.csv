@@ -1,0 +1,3 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1405-paper-02_tab1>, "1"^^xsd:integer, "SVM feature combinations."
+<http://ceur-ws.org/table/vol-1405-paper-02_tab2>, "2"^^xsd:integer, "Recommendation precision."

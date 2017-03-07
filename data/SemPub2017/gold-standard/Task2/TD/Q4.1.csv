@@ -1,0 +1,7 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1006-paper2_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1006-paper2_sec2>, "2"^^xsd:integer, "Related Work"
+<http://ceur-ws.org/section/vol-1006-paper2_sec3>, "3"^^xsd:integer, "ICMM for Collaborative Innovation Governance"
+<http://ceur-ws.org/section/vol-1006-paper2_sec4>, "4"^^xsd:integer, "Limitation and Outlook"
+<http://ceur-ws.org/section/vol-1006-paper2_secnonum_1>, , "Acknowledgment"
+<http://ceur-ws.org/section/vol-1006-paper2_secnonum_2>, , "References"

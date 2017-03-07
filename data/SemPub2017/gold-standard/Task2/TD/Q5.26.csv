@@ -1,0 +1,5 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1749-paper_006_tab1>, "1"^^xsd:integer, "Possible combinations of factuality attributes."
+<http://ceur-ws.org/table/vol-1749-paper_006_tab2>, "2"^^xsd:integer, "Corpora statistics"
+<http://ceur-ws.org/table/vol-1749-paper_006_tab3>, "3"^^xsd:integer, "Evaluation of FactPro against the baseline (accuracy)"
+<http://ceur-ws.org/table/vol-1749-paper_006_tab4>, "4"^^xsd:integer, "FactPro results on the single attribute and on the different factuality value (F1 score)"

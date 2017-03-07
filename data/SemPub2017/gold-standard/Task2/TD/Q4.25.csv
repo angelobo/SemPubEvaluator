@@ -1,0 +1,9 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1746-paper-11_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1746-paper-11_sec2>, "2"^^xsd:integer, "BusinessObjects compared to Oracle Business Intelligence"
+<http://ceur-ws.org/section/vol-1746-paper-11_sec3>, "3"^^xsd:integer, "Layers of the metadata design"
+<http://ceur-ws.org/section/vol-1746-paper-11_sec4>, "4"^^xsd:integer, "Oracle Business Intelligence Model"
+<http://ceur-ws.org/section/vol-1746-paper-11_sec5>, "5"^^xsd:integer, "BusinessObjects Model"
+<http://ceur-ws.org/section/vol-1746-paper-11_sec6>, "6"^^xsd:integer, "Migration of the universes to repositories and of the repositories to universes"
+<http://ceur-ws.org/section/vol-1746-paper-11_sec7>, "7"^^xsd:integer, "Conclusion"
+<http://ceur-ws.org/section/vol-1746-paper-11_secnonum_1>, , "References"

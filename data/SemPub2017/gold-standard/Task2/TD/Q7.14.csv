@@ -1,0 +1,3 @@
+footnote-iri, footnote-marker, footnote-body, sentence-with-footnote
+<http://ceur-ws.org/footnote/vol-1503-01_pap_batot_footnote1>, "1", "https://github.com/atlanmod/mondo-atlzoo-benchmark/tree/master/fr.inria.atlanmod.instantiator", "To this end, we use AtlanMod instantiator ******."
+<http://ceur-ws.org/footnote/vol-1503-01_pap_batot_footnote2>, "2", "http://www.omg.org", "They collected from an important set of metamodels (from industry, academia and the Object Management Group******) a list of the most used OCL wellformedness constraints."

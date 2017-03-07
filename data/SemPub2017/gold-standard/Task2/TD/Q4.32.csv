@@ -1,0 +1,6 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1755-160-168_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1755-160-168_sec2>, "2"^^xsd:integer, "MATERIALS AND METHODS"
+<http://ceur-ws.org/section/vol-1755-160-168_sec3>, "3"^^xsd:integer, "RESULTS AND DISCUSSION"
+<http://ceur-ws.org/section/vol-1755-160-168_sec4>, "4"^^xsd:integer, "ACKNOWLEDGMENTS"
+<http://ceur-ws.org/section/vol-1755-160-168_sec5>, "5"^^xsd:integer, "REFERENCES"

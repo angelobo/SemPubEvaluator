@@ -1,0 +1,3 @@
+footnote-iri, footnote-marker, footnote-body, sentence-with-footnote
+<http://ceur-ws.org/footnote/vol-1769-paper01_footnote1>, "1", "We assume that the worlds all have a two-valued well-founded model.", "We thus get a probability distribution over worlds from which we can define a probability distribution over the truth values of a ground atom: the probability of an atom q being true is the sum of the probabilities of the worlds where q is true******."
+<http://ceur-ws.org/footnote/vol-1769-paper01_footnote2>, "2", "https://github.com/AKSW/SML-Bench", "The AKSW research group of Leipzig is currently developing SML-Bench******, a benchmark tool to ease the testing and the comparison of learning systems for structured data."

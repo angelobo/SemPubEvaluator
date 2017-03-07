@@ -1,0 +1,2 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1116-paper8_fig1>, "1"^^xsd:integer, "Reproduction of the provenance graph corresponding to the computational workflow described in [12]."

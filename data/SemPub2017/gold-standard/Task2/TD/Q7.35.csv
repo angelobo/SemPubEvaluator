@@ -1,0 +1,2 @@
+footnote-iri, footnote-marker, footnote-body, sentence-with-footnote
+<http://ceur-ws.org/footnote/vol-1760-paper1_footnote1>, "1", "For the special case of control value *, which means unbounded amount of iterations, we define *-1=*.", "If so, another iteration is attempted******."

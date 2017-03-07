@@ -1,0 +1,12 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1760-paper1_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1760-paper1_sec2>, "2"^^xsd:integer, "A QUICK INTRODUCTION TO BEHAVIORAL PROGRAMMING"
+<http://ceur-ws.org/section/vol-1760-paper1_sec3>, "3"^^xsd:integer, "SEMANTIC MAPPING TO BEHAVIORAL PROGRAMMING"
+<http://ceur-ws.org/section/vol-1760-paper1_sec4>, "4"^^xsd:integer, "DISCUSSION"
+<http://ceur-ws.org/section/vol-1760-paper1_sec5>, "5"^^xsd:integer, "CASE STUDY: SEMANTIC VARIATIONS OF LSC"
+<http://ceur-ws.org/section/vol-1760-paper1_sec6>, "6"^^xsd:integer, "A VISUAL DICTIONARY FOR LSC"
+<http://ceur-ws.org/section/vol-1760-paper1_sec7>, "7"^^xsd:integer, "IMPLEMENTATION"
+<http://ceur-ws.org/section/vol-1760-paper1_sec8>, "8"^^xsd:integer, "SEMANTIC VARIATIONS"
+<http://ceur-ws.org/section/vol-1760-paper1_sec9>, "9"^^xsd:integer, "RELATED WORK"
+<http://ceur-ws.org/section/vol-1760-paper1_sec10>, "10"^^xsd:integer, "CONCLUSION"
+<http://ceur-ws.org/section/vol-1760-paper1_secnonum_1>, , "REFERENCES"

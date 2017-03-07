@@ -1,0 +1,6 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1749-paper_008_tab1>, "1"^^xsd:integer, "NER accuracy on devel set."
+<http://ceur-ws.org/table/vol-1749-paper_008_tab2>, "2"^^xsd:integer, "NER accuracy on gold test set."
+<http://ceur-ws.org/table/vol-1749-paper_008_tab3>, "3"^^xsd:integer, "Training parameters for NER."
+<http://ceur-ws.org/table/vol-1749-paper_008_tab4>, "4"^^xsd:integer, "Top official task results."
+<http://ceur-ws.org/table/vol-1749-paper_008_tab5>, "5"^^xsd:integer, "Results of run without Twitter mention analysis."

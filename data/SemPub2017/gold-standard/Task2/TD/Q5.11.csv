@@ -1,0 +1,5 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1123-paper5_tab1>, "1"^^xsd:integer, "Percentage of annotations that were annotated by only 1 of the annotators, 2 of the annotators, or all 3 annotators."
+<http://ceur-ws.org/table/vol-1123-paper5_tab2>, "2"^^xsd:integer, "Corpus-wide counts and performance metrics per class."
+<http://ceur-ws.org/table/vol-1123-paper5_tab3>, "3"^^xsd:integer, "Mean precision, recall, and F1 for the linking of correctly recognized events to their actors, places, and times."
+<http://ceur-ws.org/table/vol-1123-paper5_tab4>, "4"^^xsd:integer, "F1-scores per class for each annotator individually."

@@ -1,0 +1,7 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1771-paper3_tab1>, "1"^^xsd:integer, "THE KEY CHART IN SOFTWARE SUSTAINABILITY PROFILING"
+<http://ceur-ws.org/table/vol-1771-paper3_tab2>, "2"^^xsd:integer, "OUTPUT EXAMPLES OF FUZZY RATING SCALE FOR REQUIREMENTS ANALYSIS"
+<http://ceur-ws.org/table/vol-1771-paper3_tab3>, "3"^^xsd:integer, "THE NORMALISATION DECISION (STEP 1) USING EQUATION 1"
+<http://ceur-ws.org/table/vol-1771-paper3_tab4>, "4"^^xsd:integer, "THE WEIGHTED NORMALISATION STEPS FROM EQUATION 2"
+<http://ceur-ws.org/table/vol-1771-paper3_tab5>, "5"^^xsd:integer, "RESULTS OF THE STEPS 4 AND 5 IN THE FIRST ROUND"
+<http://ceur-ws.org/table/vol-1771-paper3_tab6>, "6"^^xsd:integer, "RESULTS OF THE STEPS 4 AND 5 IN THE SECOND ROUND"

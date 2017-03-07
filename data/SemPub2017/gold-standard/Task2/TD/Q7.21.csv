@@ -1,0 +1,3 @@
+footnote-iri, footnote-marker, footnote-body, sentence-with-footnote
+<http://ceur-ws.org/footnote/vol-1116-paper6_footnote1>, "1", "http://ncit.nci.nih.gov/", "To the best of our knowledge, there exist no such ontologies, but for an improved interoperability we have included equivalence relations to the NCI Thesaurus****** for all the biological concepts that are defined in the food processing ontology and apple processing ontology."
+<http://ceur-ws.org/footnote/vol-1116-paper6_footnote2>, "2", "http://bioportal.bioontology.org/", "The bioinformatics community as a whole is spearheading other academic disciplines by capturing vast quantities of the knowledge published in scientific articles as ontologies in the Bioportal initiative******."

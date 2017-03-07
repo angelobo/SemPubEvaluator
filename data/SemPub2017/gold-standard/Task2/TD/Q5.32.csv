@@ -1,0 +1,8 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1755-160-168_tab1>, "1"^^xsd:integer, "Summary of NNClust clusters"
+<http://ceur-ws.org/table/vol-1755-160-168_tab2>, "2"^^xsd:integer, "Summary of the Pitnett software clusters"
+<http://ceur-ws.org/table/vol-1755-160-168_tab3>, "3"^^xsd:integer, "Summary of Rapid miner Studio clusters"
+<http://ceur-ws.org/table/vol-1755-160-168_tab4>, "4"^^xsd:integer, "Sample NNClust software cluster result"
+<http://ceur-ws.org/table/vol-1755-160-168_tab5>, "5"^^xsd:integer, "Sample Pittnet software cluster result"
+<http://ceur-ws.org/table/vol-1755-160-168_tab6>, "6"^^xsd:integer, "Sample Rapidminer software cluster result"
+<http://ceur-ws.org/table/vol-1755-160-168_tab7>, "7"^^xsd:integer, "Sample RapidMiner software cluster result"

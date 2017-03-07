@@ -1,0 +1,6 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1324-paper_4_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1324-paper_4_sec2>, "2"^^xsd:integer, "THE FRAMEWORK"
+<http://ceur-ws.org/section/vol-1324-paper_4_sec3>, "3"^^xsd:integer, "CONCLUSION AND OUTLOOK"
+<http://ceur-ws.org/section/vol-1324-paper_4_sec4>, "4"^^xsd:integer, "ACKNOWLEDGMENTS"
+<http://ceur-ws.org/section/vol-1324-paper_4_sec5>, "5"^^xsd:integer, "REFERENCES"

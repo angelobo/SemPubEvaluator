@@ -1,0 +1,4 @@
+footnote-iri, footnote-marker, footnote-body, sentence-with-footnote
+<http://ceur-ws.org/footnote/vol-1766-om2016_poster2_footnote3>, "3", "http://oaei.ontologymatching.org/", "As this field has solid tools and benchmarks******, we design a framework that provides the required input to any ontology matching tool, resulting in Web table annotations."
+<http://ceur-ws.org/footnote/vol-1766-om2016_poster2_footnote4>, "4", "http://webdatacommons.org/webtables/goldstandard.html", "We evaluate our approach using the instance mappings of the T2D gold standard****** and LogMap [5], one of the most efficient ontology matching tools [3]."
+<http://ceur-ws.org/footnote/vol-1766-om2016_poster2_footnote5>, "5", "http://wiki.dbpedia.org/projects/dbpedia-lookup", "For each entity label in our table, we use top-1 DBpedia lookup****** result as annotation."

@@ -1,0 +1,3 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1755-79-84_fig1>, "1"^^xsd:integer, "Ranking of NFU’s"
+<http://ceur-ws.org/figure/vol-1755-79-84_fig2>, "2"^^xsd:integer, "NFU’s International Collaborations"

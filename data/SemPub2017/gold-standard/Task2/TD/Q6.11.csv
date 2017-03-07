@@ -1,0 +1,3 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1123-paper5_fig1>, "1"^^xsd:integer, "Example of a SEM-event that might be instantiated for the event: "Tuesday, Greenpeace protested against Shell in London""
+<http://ceur-ws.org/figure/vol-1123-paper5_fig2>, "2"^^xsd:integer, "Event extraction pipeline."

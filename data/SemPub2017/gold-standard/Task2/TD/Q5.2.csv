@@ -1,0 +1,6 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1313-paper_14_tab1>, "1"^^xsd:integer, "Four time series in a window w = [1; 7]."
+<http://ceur-ws.org/table/vol-1313-paper_14_tab2>, "2"^^xsd:integer, "Threshold Algorithm example."
+<http://ceur-ws.org/table/vol-1313-paper_14_tab3>, "3"^^xsd:integer, "Time series sorted by temperature."
+<http://ceur-ws.org/table/vol-1313-paper_14_tab4>, "4"^^xsd:integer, "Finding the k = 2 most similar historical situations."
+<http://ceur-ws.org/table/vol-1313-paper_14_tab5>, "5"^^xsd:integer, "Example of flawed raw data."

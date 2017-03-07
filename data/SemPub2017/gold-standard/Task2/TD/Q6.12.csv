@@ -1,0 +1,7 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1746-paper-13_fig1>, "1"^^xsd:integer, "The number of tweets vs. number of followers for the 13 CGIs with active Twitter accounts"
+<http://ceur-ws.org/figure/vol-1746-paper-13_fig2>, "2"^^xsd:integer, "The changes in users’ follower counts of CGIs with active Twitter accounts over a six-months period (in %)"
+<http://ceur-ws.org/figure/vol-1746-paper-13_fig3>, "3"^^xsd:integer, "Number of tweets produced by CGIs with active Twitter accounts over a six-months period"
+<http://ceur-ws.org/figure/vol-1746-paper-13_fig4>, "4"^^xsd:integer, "The total count of tweets produced by key officials of CGIs via their personal campaign accounts"
+<http://ceur-ws.org/figure/vol-1746-paper-13_fig5>, "5"^^xsd:integer, "Number of 'likes' of official pages of Kosovo CGIs compared to personal pages of key officials of same institutions"
+<http://ceur-ws.org/figure/vol-1746-paper-13_fig6>, "6"^^xsd:integer, "Graph showing a comparison between number of followers of public institutions on Facebook (blue line) and Twitter (red line)"

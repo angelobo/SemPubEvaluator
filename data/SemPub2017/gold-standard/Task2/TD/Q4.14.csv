@@ -1,0 +1,7 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1503-01_pap_batot_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1503-01_pap_batot_sec2>, "2"^^xsd:integer, "RELATED WORK"
+<http://ceur-ws.org/section/vol-1503-01_pap_batot_sec3>, "3"^^xsd:integer, "APPROACH"
+<http://ceur-ws.org/section/vol-1503-01_pap_batot_sec4>, "4"^^xsd:integer, "VALIDATION"
+<http://ceur-ws.org/section/vol-1503-01_pap_batot_sec5>, "5"^^xsd:integer, "CONCLUSION"
+<http://ceur-ws.org/section/vol-1503-01_pap_batot_secnonum_1>, , "REFERENCES"

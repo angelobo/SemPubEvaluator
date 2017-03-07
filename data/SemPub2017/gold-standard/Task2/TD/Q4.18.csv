@@ -1,0 +1,9 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1771-paper13_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1771-paper13_sec2>, "2"^^xsd:integer, "RELATED WORK"
+<http://ceur-ws.org/section/vol-1771-paper13_sec3>, "3"^^xsd:integer, "PROPOSED APPROACH"
+<http://ceur-ws.org/section/vol-1771-paper13_sec4>, "4"^^xsd:integer, "STUDY DESIGN"
+<http://ceur-ws.org/section/vol-1771-paper13_sec5>, "5"^^xsd:integer, "PRELIMINARY RESULTS AND ANALYSIS"
+<http://ceur-ws.org/section/vol-1771-paper13_sec6>, "6"^^xsd:integer, "THREATS TO VALIDITY"
+<http://ceur-ws.org/section/vol-1771-paper13_sec7>, "7"^^xsd:integer, "CONCLUSIONS AND FUTURE WORK"
+<http://ceur-ws.org/section/vol-1771-paper13_secnonum_1>, , "REFERENCES"

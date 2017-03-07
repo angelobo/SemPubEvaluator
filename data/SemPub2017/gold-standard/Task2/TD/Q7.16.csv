@@ -1,0 +1,5 @@
+footnote-iri, footnote-marker, footnote-body, sentence-with-footnote
+<http://ceur-ws.org/footnote/vol-1324-paper_10_footnote1>, "1", "http://elitac.nl/products/sciencesuit.html [28.08.2014]", "The detailed technical specifications can be found on their website******."
+<http://ceur-ws.org/footnote/vol-1324-paper_10_footnote2>, "2", "When all of the 3 attributes (i.e., type, direction, and distance) of one object were identified correctly, we countered the Tacton was recognized successfully.", "The object type was detected better with the multi-actuator-method, as well as a better recognition performance of the whole Tacton******."
+<http://ceur-ws.org/footnote/vol-1324-paper_10_footnote3>, "3", "BlindPad project, http://www.blindpad.eu/", "On one hand, many new displays, like the pin-matrix display and the under-developing BlindPad****** system, have been used to improve the accessibility of spatial information."
+<http://ceur-ws.org/footnote/vol-1324-paper_10_footnote4>, "4", "Range-IT project, http://www.range-it.eu/", "This study was supported by the Range-IT****** project within the framework of EU FP7 SME Program (Grant no. 605998)."

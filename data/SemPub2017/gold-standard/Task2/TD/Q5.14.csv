@@ -1,0 +1,2 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1503-01_pap_batot_tab1>, "1"^^xsd:integer, "Comparison between random generation and NSGA-II algorithm (in WFR learning)"

@@ -1,0 +1,11 @@
+Q1.1 (Subjects of a dataset in a paper): For each dataset D of FedBench in paper P, find the number of subjects X.
+Q1.2 (Results for certain ontologies): Find all the results for LUBM and UOBM in paper X.
+Q1.3 (Test cases): Which are the test cases T for OAEI in year Y?
+Q1.4 (Common test cases of two editions): Which test cases T did all editions have in common from year Y1 to Y2?
+Q1.5 (Persistant participants): Which participants P participated in all editions from Y1 to Y2?
+Q1.6 (Repeated test cases): Which participants P have addressed test case T for every edition from Y1 to Y2?
+Q1.7 (Information of datasets): How many X did test dataset D have in year Y?
+Q1.8 (Information of systems for datasets): What was the X of system S in year Y for test dataset D?
+Q1.9 (Systems best performance): Which system S in year Y had the best X ever?
+Q1.10 (All tools ever mentioned in one edition of QALD): FList the names of all systems that have ever been used in an experiment in an edition of QALD.
+Q1.11 (All tools ever mentioned in one edition of QALD): For Multilingual QA in the QALD challenge, what system in what edition had the best precision, and what system in what edition had the worst recall?

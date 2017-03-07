@@ -1,0 +1,5 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1503-01_pap_batot_fig1>, "1"^^xsd:integer, "Example-based knowledge abstraction in MDE"
+<http://ceur-ws.org/figure/vol-1503-01_pap_batot_fig2>, "2"^^xsd:integer, "NSGA-II [19]"
+<http://ceur-ws.org/figure/vol-1503-01_pap_batot_fig3>, "3"^^xsd:integer, "Coverage tailored to WFR learning : OCL footprint"
+<http://ceur-ws.org/figure/vol-1503-01_pap_batot_fig4>, "4"^^xsd:integer, "Crossover and mutation adapted to coverage evaluation"

@@ -1,0 +1,5 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1503-06_pap_rosa_fig1>, "1"^^xsd:integer, "Collapse/expand state diagrams in a round-trip process"
+<http://ceur-ws.org/figure/vol-1503-06_pap_rosa_fig2>, "2"^^xsd:integer, "UHSMm model"
+<http://ceur-ws.org/figure/vol-1503-06_pap_rosa_fig3>, "3"^^xsd:integer, "The HSM metamodel"
+<http://ceur-ws.org/figure/vol-1503-06_pap_rosa_fig4>, "4"^^xsd:integer, "The U(HSM) metamodel"

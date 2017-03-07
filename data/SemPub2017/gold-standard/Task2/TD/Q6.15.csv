@@ -1,0 +1,10 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1324-paper_4_fig1>, "1"^^xsd:integer, "Basic structure of BrailleIO."
+<http://ceur-ws.org/figure/vol-1324-paper_4_fig2>, "2"^^xsd:integer, "Screens and view-ranges."
+<http://ceur-ws.org/figure/vol-1324-paper_4_fig3>, "3"^^xsd:integer, "Box model of view-range and relation to ViewBox."
+<http://ceur-ws.org/figure/vol-1324-paper_4_fig4>, "4"^^xsd:integer, "Relation between ViewBox, ContentBox and content of a view-range."
+<http://ceur-ws.org/figure/vol-1324-paper_4_fig5>, "5"^^xsd:integer, "Content types for view-ranges."
+<http://ceur-ws.org/figure/vol-1324-paper_4_fig6>, "6"^^xsd:integer, "Adapter and device class structure."
+<http://ceur-ws.org/figure/vol-1324-paper_4_fig7>, "7"^^xsd:integer, "General device model with nine keys."
+<http://ceur-ws.org/figure/vol-1324-paper_4_fig8>, "8"^^xsd:integer, "General key mapping for BrailleDis 7200 and BrailleDis 9000."
+<http://ceur-ws.org/figure/vol-1324-paper_4_fig9>, "9"^^xsd:integer, "Steps to set up a project with BrailleIO."

@@ -1,0 +1,8 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1751-aics_2016_paper_30_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1751-aics_2016_paper_30_sec2>, "2"^^xsd:integer, "Methods"
+<http://ceur-ws.org/section/vol-1751-aics_2016_paper_30_sec3>, "3"^^xsd:integer, "Results"
+<http://ceur-ws.org/section/vol-1751-aics_2016_paper_30_sec4>, "4"^^xsd:integer, "Discussion"
+<http://ceur-ws.org/section/vol-1751-aics_2016_paper_30_sec5>, "5"^^xsd:integer, "Conclusion"
+<http://ceur-ws.org/section/vol-1751-aics_2016_paper_30_secnonum_1>, , "Acknowledgements"
+<http://ceur-ws.org/section/vol-1751-aics_2016_paper_30_secnonum_2>, , "References"

@@ -1,0 +1,3 @@
+footnote-iri, footnote-marker, footnote-body, sentence-with-footnote
+<http://ceur-ws.org/footnote/vol-1184-ldow2014_paper_02_footnote1>, "1", "ClueWeb, 2009, http://lemurproject.org/clueweb09.php", "For instance, Cafarella et al. report 14.1 billion HTML tables in English documents in Googles's main index [4] and over 400,000 Excel spreadsheets in the Clueweb09****** crawl [5]."
+<http://ceur-ws.org/footnote/vol-1184-ldow2014_paper_02_footnote2>, "2", "We use the patterns in the PATTY system [12].", "We start from a list of textual patterns that are associated with each relation; such patterns are detected by automatic methods for building knowledge bases from natural language******."

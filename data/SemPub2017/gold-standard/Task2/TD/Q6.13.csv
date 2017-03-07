@@ -1,0 +1,6 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1522-badreddin2015hufamo_fig1>, "1"^^xsd:integer, "BGU Results"
+<http://ceur-ws.org/figure/vol-1522-badreddin2015hufamo_fig2>, "2"^^xsd:integer, "NAU Results"
+<http://ceur-ws.org/figure/vol-1522-badreddin2015hufamo_fig3>, "3"^^xsd:integer, "Concordia University Results"
+<http://ceur-ws.org/figure/vol-1522-badreddin2015hufamo_fig4>, "4"^^xsd:integer, "Models for documentation versus implementation"
+<http://ceur-ws.org/figure/vol-1522-badreddin2015hufamo_fig5>, "5"^^xsd:integer, "Perceptions of Modeling Tools"

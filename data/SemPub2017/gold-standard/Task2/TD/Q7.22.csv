@@ -1,0 +1,4 @@
+footnote-iri, footnote-marker, footnote-body, sentence-with-footnote
+<http://ceur-ws.org/footnote/vol-1116-paper7_footnote1>, "1", "Concepts that are addressed in [12] will be marked in bold font.", "If we translate this to the categories outlined in [12], this leads to the following requirements. ******"
+<http://ceur-ws.org/footnote/vol-1116-paper7_footnote2>, "2", "http://alias-i.com/lingpipe/web/demo-ne.html", "We will use an off-the-shelf named entity recognizer for Dutch, for instance LingPipe******."
+<http://ceur-ws.org/footnote/vol-1116-paper7_footnote3>, "3", "http://www.w3.org/", "PROV-DM [17] is the logical candidate for modelling provenance, since W3C****** made it a recommendation promoting its widespread use."

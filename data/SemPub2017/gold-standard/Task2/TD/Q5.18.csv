@@ -1,0 +1,4 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1771-paper13_tab1>, "1"^^xsd:integer, "VERSION-WISE SIZE AND CODE SMELL CHARACTERISTICS OF SAMPLE APPLICATIONS"
+<http://ceur-ws.org/table/vol-1771-paper13_tab2>, "2"^^xsd:integer, "HIGH PRIORITY CLASSES OFSAMPLE APPLICATIONS"
+<http://ceur-ws.org/table/vol-1771-paper13_tab3>, "3"^^xsd:integer, "EVALUATION METRICS RESULTS FOR THE FOUR SYSTEMS STUDIED"

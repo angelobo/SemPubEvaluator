@@ -1,0 +1,2 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1324-paper_10_tab1>, "1"^^xsd:integer, "Average recognition rates of the designed tactile pattern."

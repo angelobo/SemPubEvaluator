@@ -1,0 +1,7 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1746-paper-11_fig1>, "1"^^xsd:integer, "OBIEE architecture [Ger16]"
+<http://ceur-ws.org/figure/vol-1746-paper-11_fig2>, "2"^^xsd:integer, "SAP Business Object Designer Architecture Diagram [Com]"
+<http://ceur-ws.org/figure/vol-1746-paper-11_fig3>, "3"^^xsd:integer, "Relationship between tables in a subset of the PC Module"
+<http://ceur-ws.org/figure/vol-1746-paper-11_fig4>, "4"^^xsd:integer, "Conceptual relationship at the business end"
+<http://ceur-ws.org/figure/vol-1746-paper-11_fig5>, "5"^^xsd:integer, "Three tier layer for the PC module in the Administration Tool"
+<http://ceur-ws.org/figure/vol-1746-paper-11_fig6>, "6"^^xsd:integer, "Structure of folders for a MDS XML Documents project"

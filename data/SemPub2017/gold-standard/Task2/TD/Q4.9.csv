@@ -1,0 +1,10 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1116-paper8_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1116-paper8_sec2>, "2"^^xsd:integer, "Related work"
+<http://ceur-ws.org/section/vol-1116-paper8_sec3>, "3"^^xsd:integer, "Basic concepts in Pharmacovigilance"
+<http://ceur-ws.org/section/vol-1116-paper8_sec4>, "4"^^xsd:integer, "Case study"
+<http://ceur-ws.org/section/vol-1116-paper8_sec5>, "5"^^xsd:integer, "Reproduction experiment"
+<http://ceur-ws.org/section/vol-1116-paper8_sec6>, "6"^^xsd:integer, "Discussion"
+<http://ceur-ws.org/section/vol-1116-paper8_secnonum_1>, , "Acknowledgments"
+<http://ceur-ws.org/section/vol-1116-paper8_secnonum_2>, , "References"
+<http://ceur-ws.org/section/vol-1116-paper8_secnonum_3>, , "Appendix A"

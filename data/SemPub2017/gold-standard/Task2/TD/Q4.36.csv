@@ -1,0 +1,8 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1760-paper6_sec1>, "1"^^xsd:integer, "INTRODUCTION"
+<http://ceur-ws.org/section/vol-1760-paper6_sec2>, "2"^^xsd:integer, "FRAMEWORK DESCRIPTION"
+<http://ceur-ws.org/section/vol-1760-paper6_sec3>, "3"^^xsd:integer, "SCENARIO 1: SUPPLY CHAIN RISK MANAGEMENT"
+<http://ceur-ws.org/section/vol-1760-paper6_sec4>, "4"^^xsd:integer, "SCENARIO 2: GREEN CLOUD DESIGN"
+<http://ceur-ws.org/section/vol-1760-paper6_sec5>, "5"^^xsd:integer, "CONCLUSION AND ROADMAP"
+<http://ceur-ws.org/section/vol-1760-paper6_secnonum_1>, , "ACKNOWLEDGMENT"
+<http://ceur-ws.org/section/vol-1760-paper6_secnonum_2>, , "REFERENCES"

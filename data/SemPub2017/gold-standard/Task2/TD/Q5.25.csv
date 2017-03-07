@@ -1,0 +1,2 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1746-paper-11_tab1>, "1"^^xsd:integer, "Comparison between some of OBIEE and BO elements"

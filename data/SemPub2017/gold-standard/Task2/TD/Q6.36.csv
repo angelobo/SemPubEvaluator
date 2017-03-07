@@ -1,0 +1,5 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1760-paper6_fig1>, "1"^^xsd:integer, "Meta-model of our tool [4]"
+<http://ceur-ws.org/figure/vol-1760-paper6_fig2>, "2"^^xsd:integer, "Tool Architecture"
+<http://ceur-ws.org/figure/vol-1760-paper6_fig3>, "3"^^xsd:integer, "Risk-oriented modelling"
+<http://ceur-ws.org/figure/vol-1760-paper6_fig4>, "4"^^xsd:integer, "Photo album model in the web interface"

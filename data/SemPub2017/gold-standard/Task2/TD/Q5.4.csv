@@ -1,0 +1,4 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1184-ldow2014_paper_02_tab1>, "1"^^xsd:integer, "Number of PATTY patterns and ranked obtained by each strategy, for each relation. A — indicates the relation has been incorrectly ranked 4th or lower by the method"
+<http://ceur-ws.org/table/vol-1184-ldow2014_paper_02_tab2>, "2"^^xsd:integer, "Results of rankings on 23 YAGO relations"
+<http://ceur-ws.org/table/vol-1184-ldow2014_paper_02_tab3>, "3"^^xsd:integer, "Results of rankings on filtered relations"

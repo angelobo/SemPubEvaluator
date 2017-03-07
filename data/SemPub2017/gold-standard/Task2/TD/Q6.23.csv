@@ -1,0 +1,2 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1184-ldow2014_paper_05_fig1>, "1"^^xsd:integer, "Screenshot of the new interface. The transparent red areas highlight new features, with the associated number in the red circle corresponding to its subsection number within Section 4.2. A quick overview: (1) pretty box, (2) search bar, (3) language switcher, (4) triple filter, (5) shortcuts, (6) preview box, (7) map and (8) triple actions."

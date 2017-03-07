@@ -1,0 +1,8 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1769-paper01_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1769-paper01_sec2>, "2"^^xsd:integer, "Syntax and Distribution Semantics"
+<http://ceur-ws.org/section/vol-1769-paper01_sec3>, "3"^^xsd:integer, "cplint on SWISH"
+<http://ceur-ws.org/section/vol-1769-paper01_sec4>, "4"^^xsd:integer, "Distributed Structure Learning Systems"
+<http://ceur-ws.org/section/vol-1769-paper01_sec5>, "5"^^xsd:integer, "SML-Bench"
+<http://ceur-ws.org/section/vol-1769-paper01_sec6>, "6"^^xsd:integer, "Conclusions and Future Work"
+<http://ceur-ws.org/section/vol-1769-paper01_secnonum_1>, , "References"

@@ -1,0 +1,10 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1123-paper4_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1123-paper4_sec2>, "2"^^xsd:integer, "Background and Related Work"
+<http://ceur-ws.org/section/vol-1123-paper4_sec3>, "3"^^xsd:integer, "EPCIS events: The Informal Intuition"
+<http://ceur-ws.org/section/vol-1123-paper4_sec4>, "4"^^xsd:integer, "EEM: The EPCIS Event Model"
+<http://ceur-ws.org/section/vol-1123-paper4_sec5>, "5"^^xsd:integer, "Implementing EEM"
+<http://ceur-ws.org/section/vol-1123-paper4_sec6>, "6"^^xsd:integer, "EPCIS events in the tomato supply chain"
+<http://ceur-ws.org/section/vol-1123-paper4_sec7>, "7"^^xsd:integer, "Conclusions"
+<http://ceur-ws.org/section/vol-1123-paper4_secnonum_1>, , "Acknowledgements"
+<http://ceur-ws.org/section/vol-1123-paper4_secnonum_2>, , "References"

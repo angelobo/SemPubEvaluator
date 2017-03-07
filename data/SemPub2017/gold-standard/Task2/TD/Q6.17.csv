@@ -1,0 +1,6 @@
+figure-iri, figure-number, figure-caption
+<http://ceur-ws.org/figure/vol-1771-paper3_fig1>, "1"^^xsd:integer, "Software Sustainability Profiling Framework"
+<http://ceur-ws.org/figure/vol-1771-paper3_fig2>, "2"^^xsd:integer, "Fuzzy Rating Scale for Sustainability Profiling"
+<http://ceur-ws.org/figure/vol-1771-paper3_fig3>, "3"^^xsd:integer, "Sustainability Profiling as a part of RE Activities"
+<http://ceur-ws.org/figure/vol-1771-paper3_fig4>, "4"^^xsd:integer, "Example of Fuzzy Rating Scale for Requirement (R1)"
+<http://ceur-ws.org/figure/vol-1771-paper3_fig5>, "5"^^xsd:integer, "Sustainability Profile of a Software System using the default colour schema. To increase accessibility of our approach, we also provide another colouring option for colour-challenged people. In this option the red colour is replaced by blue."

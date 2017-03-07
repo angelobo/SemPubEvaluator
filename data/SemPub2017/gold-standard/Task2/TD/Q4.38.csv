@@ -1,0 +1,5 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1766-om2016_poster4_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1766-om2016_poster4_sec2>, "2"^^xsd:integer, "A benchmark for linking geo-spatial entities"
+<http://ceur-ws.org/section/vol-1766-om2016_poster4_secnonum_1>, , "Acknowledgments"
+<http://ceur-ws.org/section/vol-1766-om2016_poster4_secnonum_2>, , "References"

@@ -1,0 +1,5 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1751-aics_2016_paper_30_tab1>, "1"^^xsd:integer, "Descriptive statistics of Moorepark and UCD School of Veterinary Medicine datasets"
+<http://ceur-ws.org/table/vol-1751-aics_2016_paper_30_tab2>, "2"^^xsd:integer, "Confusion matrices for each of the models"
+<http://ceur-ws.org/table/vol-1751-aics_2016_paper_30_tab3>, "3"^^xsd:integer, "Discrimination statistical tests"
+<http://ceur-ws.org/table/vol-1751-aics_2016_paper_30_tab4>, "4"^^xsd:integer, "Calibration statistical tests"

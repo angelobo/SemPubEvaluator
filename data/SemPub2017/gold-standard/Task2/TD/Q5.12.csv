@@ -1,0 +1,5 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1746-paper-13_tab1>, "1"^^xsd:integer, "Social Networking Usage Results - CGIs"
+<http://ceur-ws.org/table/vol-1746-paper-13_tab2>, "2"^^xsd:integer, "Followed parameters for Twitter accounts"
+<http://ceur-ws.org/table/vol-1746-paper-13_tab3>, "3"^^xsd:integer, "Followed parameters for Facebook accounts"
+<http://ceur-ws.org/table/vol-1746-paper-13_tab4>, "4"^^xsd:integer, "Number of uploaded videos on YouTube"

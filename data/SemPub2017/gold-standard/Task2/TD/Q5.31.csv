@@ -1,0 +1,5 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1755-79-84_tab1>, "1"^^xsd:integer, "The profile of the selected universities each with a corresponding total number of research outputs since the inception of the university as retrieved from Scopus (May 2014)"
+<http://ceur-ws.org/table/vol-1755-79-84_tab2>, "2"^^xsd:integer, "Research productivity of the universities and authors involved during 1990–2014"
+<http://ceur-ws.org/table/vol-1755-79-84_tab3>, "3"^^xsd:integer, "The most prolific researchers in the 12 selected universities"
+<http://ceur-ws.org/table/vol-1755-79-84_tab4>, "4"^^xsd:integer, "Percentage of university international collaborations 1990–2014"

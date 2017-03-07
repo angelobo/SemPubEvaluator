@@ -1,0 +1,2 @@
+table-iri, table-number, table-caption
+<http://ceur-ws.org/table/vol-1758-paper3_tab1>, "1"^^xsd:integer, "Summary of Results for memoization solution. Shared ranks in the CRA-values means that multiple solutions created solutions with the same CRA-index. There were 10 solutions in total."

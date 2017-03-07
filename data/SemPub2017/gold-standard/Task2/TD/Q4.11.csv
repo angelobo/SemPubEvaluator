@@ -1,0 +1,9 @@
+section-iri, section-number, section-title
+<http://ceur-ws.org/section/vol-1123-paper5_sec1>, "1"^^xsd:integer, "Introduction"
+<http://ceur-ws.org/section/vol-1123-paper5_sec2>, "2"^^xsd:integer, "Related work"
+<http://ceur-ws.org/section/vol-1123-paper5_sec3>, "3"^^xsd:integer, "Event Representation"
+<http://ceur-ws.org/section/vol-1123-paper5_sec4>, "4"^^xsd:integer, "Method"
+<http://ceur-ws.org/section/vol-1123-paper5_sec5>, "5"^^xsd:integer, "Evaluation"
+<http://ceur-ws.org/section/vol-1123-paper5_sec6>, "6"^^xsd:integer, "Conclusion"
+<http://ceur-ws.org/section/vol-1123-paper5_secnonum_1>, , "Acknowledgements"
+<http://ceur-ws.org/section/vol-1123-paper5_secnonum_2>, , "References"

@@ -1,0 +1,10 @@
+Q1.1, For each dataset D of FedBench in paper P find the number of subjects X. , FirstTwoColumnsEqual
+Q2.1, Which are the test cases T for OAEI in year Y? , FirstColumnEqual
+Q3.1, Which test cases T did all editions have in common from year Y1 to Y2? , FirstColumnEqual
+Q4.1, Which participants P participated in all editions from Y1 to Y2? , FirstColumnEqual
+Q5.1, Which participants P have addressed test case T for every edition from Y1 to Y2? , FirstColumnEqual
+Q6.1, How many X did test dataset D have in year Y? , FirstTwoColumnsEqual
+Q7.1, What was the X of system S in year Y for test dataset D? , FirstThreeColumnsEqual
+Q8.1, Which system S in year Y had the best X ever? , FirstTwoColumnsEqual
+Q9.1, List the names of all systems that have ever been used in an experiment in an edition of QALD. , FirstTwoColumnsEqual
+Q10.1, For Multilingual QA in the QALD challenge what system in what edition had the best precision and what system in what edition had the worst recall?  , FirstThreeColumnsEqual

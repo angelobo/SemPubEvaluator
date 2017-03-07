@@ -74,7 +74,9 @@ class AffiliationEntry extends Entry{
 			
 			if (
 			((!(strpos( $this->getNormalizedAffiliationFullname(), $searchEntry->getNormalizedAffiliationFullname()) === FALSE )) ||  
-			(!(strpos(  $searchEntry->getNormalizedAffiliationFullname(), $this->getNormalizedAffiliationFullname()) === FALSE )))
+			(!(strpos(  $searchEntry->getNormalizedAffiliationFullname(), $this->getNormalizedAffiliationFullname()) === FALSE ))  ||
+			($this->getNormalizedAffiliationFullname() == $this->getNormalizedAffiliationFullname())
+			)
 			&&
 			($this->getNormalizedAuthorFullname() == $searchEntry->getNormalizedAuthorFullname())
 			)
